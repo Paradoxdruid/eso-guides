@@ -2,7 +2,7 @@
 
 ---------------------------------------
 
-# ESO Update 46 Mid-tier / vet level Trial and Build Guides
+# ESO Update 46 Mid-tier Build Guides
 
 *This is a work in progess; last updated 2025-05-12*
 
@@ -46,7 +46,9 @@ These represent Paradoxdruid's best attempt at capturing the mid-tier meta for U
 
 ----------------------------------------------
 
-# vet Kyne's Aegis
+# ESO Update 46 Mid-tier Trial Rosters
+
+## vet Kyne's Aegis
 ```md
 Your Local Time: 
 
@@ -75,7 +77,7 @@ R4:
 Fill:
 ```
 
-# vet Sanity's Edge
+## vet Sanity's Edge
 
 ```md
 Your Local Time:
@@ -104,7 +106,7 @@ H2 [SPC/PP/Symph]: *[Healthy Offering :HEAL_NB:; ; Glacial Colossus :HEAL_necro:
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ```
 
-# vet Dreadsail Reef
+## vet Dreadsail Reef
 ```md
 Your Local Time:
 
@@ -144,7 +146,7 @@ Backup 2:
 3:
 ```
 
-# vet Lucent Citadel
+## vet Lucent Citadel
 ```md
 Your Local Time:
 
@@ -180,7 +182,7 @@ Knot:
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ```
 
-# vet Sunspire
+## vet Sunspire
 ```md
 Your Local Time:
 
@@ -220,7 +222,7 @@ T3:
 Backup:
 ```
 
-# vet Rockgrove
+## vet Rockgrove
 ```md
 Your Local Time: 
 
@@ -249,7 +251,7 @@ DPS: (Guard):
 2.3:
 ```
 
-# vet Halls of Fabrication
+## vet Halls of Fabrication
 ```md
 Your Local Time:
 
@@ -285,7 +287,7 @@ W:
 Fill
 ```
 
-# vet Asylum Sanctorium
+## vet Asylum Sanctorium
 
 ```md
 Your Local Time:
