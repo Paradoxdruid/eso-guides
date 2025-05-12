@@ -4,6 +4,7 @@
 
 These represent Paradoxdruid's best attempt at capturing the mid-tier meta for U46 (groups who regularly do vet and some vet HM content; not trifecta progs or scorepushing attempts). 
 
+<!-- 
 **[Loadouts](#eso-update-46-mid-tier-build-guides)**
 * [Support Loadouts](#example-support-loadouts)
 * [DPS Loadouts](#example-dps-loadouts)
@@ -21,6 +22,7 @@ These represent Paradoxdruid's best attempt at capturing the mid-tier meta for U
 **[Notes](#notes)**
 * [Guiding Principles](#guiding-principles)
 * [Changelog](#changelog)
+-->
 
 ---------------------------------------
 
