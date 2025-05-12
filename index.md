@@ -48,6 +48,39 @@ These represent Paradoxdruid's best attempt at capturing the mid-tier meta for U
 
 # ESO Update 46 Mid-tier Trial Rosters
 
+## vet Maw of Lorkhaj
+
+```md
+Your Local Time:
+
+**Reqs**: Please state role(s) when signing up. Dps must parse 90K. Will take 3 without clear.
+
+**Addons**: Crutch Alerts, Ody's Support Icons, Hodors (for supports)
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+MT [TT/Yoln/Naz]: *[Frost Cloak :TANK_warden:; Igneous Weapons  :TankDK:; Runic Sunder :Arc_TANK: ]*
+OT [Lucent/Pearl/AD]:  *[Charged Atronach :TANKsorc: ]* 
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+H [SPC/PP/Symph]:  *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Glacial Colossus :HEAL_necro: ]*
+H [RO/JO/Spaulder or Ozezan]:  *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Healthy Offering :HEAL_NB: ]*
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+M1: [Z'en]
+M2: [MK]
+M3:
+M4:
+R1:
+R2:
+R3:
+R4:
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+Runners
+L:
+M:
+R:
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+Fill
+```
+
 ## vet Halls of Fabrication
 ```md
 Your Local Time:
@@ -60,16 +93,16 @@ Your Local Time:
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 **RIGHT STACK (Reactor)**
-MT [Yoln/Crimson/Naz] (Purge for first boss): *[Igneous Weapons :TankDK: ]*
-H [RO/JO/Ozezan] (Purge): *[Budding Seeds :HEAL_warden: ;   Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ]*
+MT [Yoln/Crimson/Naz] (Purge for first boss): *[Frost Cloak :TANK_warden:; Igneous Weapons :TankDK: ]*
+H [RO/JO/Ozezan] (Purge): *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Healthy Offering :HEAL_NB: ]*
 DPS: [Z'en]
 DPS:
 DPS:
 DPS:
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 **LEFT STACK (Reducer)**
-OT [Pearl/Lucent/Nunatak] (Purge for First Boss): [Frost Cloak :TANK_warden:; Charged Atronach :TANKsorc:  ]
-H [SPC/PP/Symph] (Purge): *[Healthy Offering :HEAL_NB:; Glacial Colossus :HEAL_necro: ]*
+OT [Pearl/Lucent/Nunatak] (Purge for First Boss): *[Charged Atronach :TANKsorc:  ]*
+H [SPC/PP/Symph] (Purge): *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Glacial Colossus :HEAL_necro: ]*
 DPS: 
 DPS:
 DPS:
@@ -97,11 +130,11 @@ Your Local Time:
 **Addons**: Asylum Sanctorium Status Panel, Asylum Tracker, Elms Markers
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-MT [Crimson/Yoln/Tremor]  *[Igneous Weapons :TankDK: ]*
-OT [Lucent/Pearl/Spaulder] *[Frost Cloak :TANK_warden:; Charged Atronach :TANKsorc:  ]*
+MT [Crimson/Yoln/Tremor]  *[Frost Cloak :TANK_warden:; Igneous Weapons :TankDK: ]*
+OT [Lucent/Pearl/Spaulder] *[Charged Atronach :TANKsorc:  ]*
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-GH [SPC/PP/Naz] *[Budding Seeds :HEAL_warden:; Vibrant Shroud :HEALsorc: ; Glacial Colossus :HEAL_necro:  ]*
-FK [Zen/MK/AD]  *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ]*
+GH [SPC/PP/Naz] *[Budding Seeds :HEAL_warden:; Healthy Offering :HEAL_NB:; Glacial Colossus :HEAL_necro:  ]*
+FK [Zen/MK/AD]  *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Healthy Offering :HEAL_NB: ]*
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 L1:  *[ Pragmatic Fatecarver :Arc_STAM: ]*
 L2: *[ Pragmatic Fatecarver :Arc_STAM: ]*
@@ -112,6 +145,40 @@ L6:  *[ Pragmatic Fatecarver :Arc_STAM: ]*
 L7:  *[ Pragmatic Fatecarver :Arc_STAM: ]*
 L8:   *[ Pragmatic Fatecarver :Arc_STAM: ]*
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+```
+
+## vet Cloudrest
+
+```md
+Your Local Time: 
+
+**Reqs**: Please state role(s) when signing up. Dps must parse 90K. Will take 3 without clear.
+
+*(NO OAKENSOUL)*
+*(All banners: Magic/Heroism)*
+
+**Addons**: HowTo Cloudrest, Ody's Support Icons, Lock Weapon Swap
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+Mini Tank [Lucent/TT/Spauld]: *[Frost Cloak :TANK_warden:; Charged Atronach :TANKsorc:  ]*
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+Portal Tank 1 [Pearl/Sax/AD]: Steed mundus - Ele Sus Z'Maja/Crystal: *[Igneous Weapons :TankDK: ]*
+Portal Tank 2 [Sax/PA/Naz]: Steed Mundus - Ele Sus Z'Maja/Crystals:  *[Igneous Weapons :TankDK: ]*
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+Healers
+R Group Healer: [ROJO/Spauld] (Contingency, Altar): *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Healthy Offering :HEAL_NB: ]*
+L Kite Healer: [SPC/PP/Symph] (Ele Sus Grapes):  *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Glacial Colossus :HEAL_necro: ]*
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+PORTAL 1
+L DPS CW: 
+L DPS CCW: 
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+PORTAL 2
+L DPS CW:
+L DPS CCW: 
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+R BACKUP PORTAL 1 DPS [Z’en]: 
+R BACKUP PORTAL 2 DPS: 
+R GRAPE SLAYER:
 ```
 
 ## vet Sunspire
@@ -125,18 +192,18 @@ Your Local Time:
 **Addons**: HowTo Sunspire, Crutch Alerts, Ody's Support Icons, Hodors
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-MT [TT/Yoln/Naz]:  *[Igneous Weapons  :TankDK: ; Runic Sunder :Arc_TANK: ; Cruxweaver Armor :Arc_TANK:]*
-OT [Pearl/Lucent/AD]:  *[Frost Cloak :TANK_warden:; Charged Atronach :TANKsorc:  ]*
+MT [TT/Yoln/Naz]:  *[Frost Cloak :TANK_warden:; Igneous Weapons  :TankDK: ; Runic Sunder :Arc_TANK: ]*
+OT [Pearl/Lucent/AD]:  *[Charged Atronach :TANKsorc: ]*
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 **HEAD STACK**
-Tomb H [SPC/PP/Symph] (Barrier):  *[Healthy Offering :HEAL_NB:; Glacial Colossus :HEAL_necro: ]*
+Tomb H [SPC/PP/Symph] (Barrier):  *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Glacial Colossus :HEAL_necro: ]*
 1: [Z'en]
 2: 
 3: 
 4:
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 **WING STACK**
-GH [RO/JO/Ozezan]: *[Budding Seeds :HEAL_warden: ; Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ]*
+GH [RO/JO/Ozezan]: *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Healthy Offering :HEAL_NB: ]*
 5: 
 6:
 7:
@@ -164,11 +231,11 @@ Your Local Time:
 
 **Addons**: HowTo Kynes, Crutch Alerts, Ody's Support Icons, Hodors
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-MT [TT/Yoln/Naz]: *[Igneous Weapons  :TankDK:; Runic Sunder :Arc_TANK: ; Cruxweaver Armor :Arc_TANK: ]*
-OT [Pearl/Lucent/AD] (Guard): *[Frost Cloak :TANK_warden:; Charged Atronach :TANKsorc: ]* 
+MT [TT/Yoln/Naz]: *[Frost Cloak :TANK_warden:; Igneous Weapons  :TankDK:; Runic Sunder :Arc_TANK: ]*
+OT [Pearl/Lucent/AD] (Guard): *[Charged Atronach :TANKsorc: ]* 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-H [SPC/PP/Symph]: *[Healthy Offering :HEAL_NB:; Glacial Colossus :HEAL_necro: ]*
-H [RO/JO/Ozezan] (Altar): *[Budding Seeds :HEAL_warden: ; Radiant Aura :HEAL_templar: ; Extended Ritual :HEAL_templar: ]*  
+H [SPC/PP/Symph]: *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Glacial Colossus :HEAL_necro: ]*
+H [RO/JO/Ozezan] (Altar): *[Radiant Aura :HEAL_templar: ; Extended Ritual :HEAL_templar: ; Healthy Offering :HEAL_NB:]*  
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 M1 [Z'en]:  
 M2 [MK]:   
@@ -194,11 +261,11 @@ Your Local Time:
 **Addons**: Qcells Rockgrove Helper, Crutch Alerts, Ody's Support Icons, Hodors
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-MT: [Crimson/Yoln/Naz]: *[Igneous Weapons :TankDK: ]*
-OT: [Pearl/Lucent/Spaulder] (Lord Warden on Bahsei): *[Frost Cloak :TANK_warden:; Beckoning Armor :TANK_necro: ; Charged Atronach :TANK_sorc: ]*
+MT: [Crimson/Yoln/Naz]: *[Frost Cloak :TANK_warden:;  Igneous Weapons :TankDK: ]*
+OT: [Pearl/Lucent/Spaulder] (Lord Warden on Bahsei): *[Summoning Armor :TANK_necro: ; Charged Atronach :TANK_sorc: ]*
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-KH: [SPC/PP/Symph]: *[Healthy Offering :HEAL_NB:; Glacial Colossus :HEAL_necro:  ]*
-GH: [RO/JO/Ozezan]: *[Budding Seeds :HEAL_warden: ; Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ]*
+KH: [SPC/PP/Symph]: *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Glacial Colossus :HEAL_necro:  ]*
+GH: [RO/JO/Ozezan]: *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Healthy Offering :HEAL_NB: ]*
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 DPS: [Zen] 
 DPS: (Guard): 
@@ -224,16 +291,16 @@ Your Local Time:
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 **RIGHT STACK**
-MT [Yoln/Crimson/Naz]: *[Igneous Weapons  :TankDK: ]*
-H [SPC/PP/Symph]:  *[Healthy Offering :HEAL_NB:; ; Glacial Colossus :HEAL_necro: ]*
+MT [Yoln/Crimson/Naz]: *[Frost Cloak :TANK_warden:; Igneous Weapons  :TankDK: ]*
+H [SPC/PP/Symph]:  *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB: ; Glacial Colossus :HEAL_necro: ]*
 M1 top right:  
 M2 bottom right: 
 M3 dome swap:  
 M4 [Z'en]: 
 
 **LEFT STACK**
-OT [Pearl/Lucent/AD]:  *[Frost Cloak :TANK_warden:; Charged Atronach :TANKsorc:  ]* 
-H [RO/JO/Ozezan]: *[Budding Seeds :HEAL_warden: ; Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ]*
+OT [Pearl/Lucent/AD]:  *[Charged Atronach :TANKsorc:  ]* 
+H [RO/JO/Ozezan]: *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Healthy Offering :HEAL_NB: ]*
 M1 top left:
 M2 bottom left: 
 M3 dome swap: 
@@ -264,11 +331,11 @@ Your Local Time:
 **Addons**: Crutch Alerts, Ody's Support Icons, Hodor's
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-MT [Yoln/Crimson/Naz]: *[Igneous Weapons  :TankDK: ]*
-OT [Pearl/Lucent/AD]: *[Frost Cloak :TANK_warden: ; Charged Atronach :TANKsorc: ]* 
+MT [Yoln/Crimson/Naz]: *[Frost Cloak :TANK_warden: ; Igneous Weapons  :TankDK: ]*
+OT [Pearl/Lucent/AD]: *[Charged Atronach :TANKsorc: ]* 
 
-H1 [RO/JO/Ozezan]: *[Budding Seeds :HEAL_warden: ; Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ]*
-H2 [SPC/PP/Symph]: *[Healthy Offering :HEAL_NB:; ; Glacial Colossus :HEAL_necro: ]*
+H1 [RO/JO/Ozezan]: *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Healthy Offering :HEAL_NB: ]*
+H2 [SPC/PP/Symph]: *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB: ; Glacial Colossus :HEAL_necro: ]*
 
 1 [Z'en]:
 2: 
@@ -293,16 +360,16 @@ Your Local Time:
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 **GARGOYLE**
-MT [Yoln/Crimson/Naz]: *[Igneous Weapons  :TankDK: ]*
-(W 90 /S 60) H1: [SPC/PP/Symph] *[Healthy Offering :HEAL_NB:; Glacial Colossus :HEAL_necro: ]*
+MT [Yoln/Crimson/Naz]: *[Frost Cloak :TANK_warden: ; Igneous Weapons  :TankDK: ]*
+(W 90 /S 60) H1: [SPC/PP/Symph] *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Glacial Colossus :HEAL_necro: ]*
 S DPS: 
 SW DPS: 
 W DPS:  
 NW DPS: 
 
 **SCORPION**
-OT [Pearl/Lucent/AD]:  *[Frost Cloak :TANK_warden: ; Charged Atronach :TANKsorc:  ]* (kite boss 2)
-(E 90 / N 60) H2: [RO/JO/Ozezan]  (SPC/PP/Symph boss 1)  *[Budding Seeds :HEAL_warden: ; Radiant Aura :HEAL_templar: ; Extended Ritual :HEAL_templar: ]*
+OT [Pearl/Lucent/AD]:  *[ Charged Atronach :TANKsorc:  ]* (kite boss 2)
+(E 90 / N 60) H2: [RO/JO/Ozezan]  (SPC/PP/Symph boss 1)  *[Radiant Aura :HEAL_templar: ; Extended Ritual :HEAL_templar: ; Healthy Offering :HEAL_NB: ]*
 N DPS: 
 NE DPS: 
 E DPS:  *[Unnerving Boneyard :STAMnecro:  boss 1]*
