@@ -1,6 +1,6 @@
 # Paradoxdruid's ESO Guides
 
-## ESO Update 46 Mid-tier / vet level Trial and Build Guides
+# ESO Update 46 Mid-tier / vet level Trial and Build Guides
 
 *This is a work in progess; last updated 2025-05-12*
 
