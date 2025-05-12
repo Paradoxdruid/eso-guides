@@ -30,8 +30,8 @@ These represent Paradoxdruid's best attempt at capturing the mid-tier meta for U
 
 ## Example Support Loadouts
 
-* **MT:** [MT skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=28,139,26,135,33,419,30,270,430,288,136,408), lines: Earthen Heart, Soldier of Apocrypha, flex, typical set example: TT/Yolna/Naz
-* **OT:** [OT skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=152,359,403,211,223,419,206,270,430,288,154,145); lines: Daedric Summoning, Winter's Embrace, Bone Tyrant; typical set example: Pearl/Lucent/AD
+* **MT:** [MT skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=28,139,26,211,33,419,206,270,430,288,136,408), lines: Earthen Heart, Soldier of Apocrypha, Winter's Embrace, typical set example: TT/Yolna/Naz or Tremor
+* **OT:** [OT skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=152,359,403,218,223,419,221,270,430,288,69,145); lines: Daedric Summoning, Bone Tyrant, Siphoning; typical set example: Pearl/Lucent/AD
 * **OT/Heal Hybrid:**  [OT/Heal skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=152,359,403,319,64,419,206,270,406,412,154,145); lines: Daedric Summoning, Winter's Embrace, Siphoning; typical set example: Sax/PP/AD
 * **ROJO/MAPA Healer:** [ROJO skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=319,412,406,323,64,419,385,270,104,102,398,408); lines: Siphoning, Restoring Light, flex; typical sets: RO/JO/Master's Restro/Ozezan, MA/PA/Spaulder
 * **SPC/PP Healer:** [SPC skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=319,431,320,323,64,419,196,270,406,412,418,228); lines: Green Balance, Siphoning, Gravelord; typical sets: SPC/PP/Symph
@@ -328,5 +328,5 @@ L8:   *[ Pragmatic Fatecarver :Arc_STAM: ]*
 
 ## Changelog
 
-* 2025-05-12: Moved Glacial Colossus to SPC Healer; kept Reaving Blows CP requirement only for vAS
+* 2025-05-12: Moved Glacial Colossus to SPC Healer; kept Reaving Blows CP requirement only for vAS; revised MT and OT lines to move Winter's Embrace to MT and add Siphoning to OT
 * 2025-05-11: Initial setups
