@@ -4,11 +4,11 @@
 
 These represent Paradoxdruid's best attempt at capturing the mid-tier meta for U46 (groups who regularly do vet and some vet HM content; not trifecta progs or scorepushing attempts). 
 
-**Loadouts**
+**[Loadouts](#eso-update-46-mid-tier-build-guides)**
 * [Support Loadouts](#example-support-loadouts)
 * [DPS Loadouts](#example-dps-loadouts)
 
-**Trial Rosters**
+**[Trial Rosters](#eso-update-46-mid-tier-trial-rosters)**
 * [Kyne's Aegis](#vet-kynes-aegis)
 * [Sanity's Edge](#vet-sanitys-edge)
 * [Dreadsail Reef](#vet-dreadsail-reef)
@@ -18,7 +18,7 @@ These represent Paradoxdruid's best attempt at capturing the mid-tier meta for U
 * [Halls of Fabrication](#vet-halls-of-fabrication)
 * [Asylum Sanctorium](#vet-asylum-sanctorium)
 
-**Notes**
+**[Notes](#notes)**
 * [Guiding Principles](#guiding-principles)
 * [Changelog](#changelog)
 
@@ -316,6 +316,8 @@ L8:   *[ Pragmatic Fatecarver :Arc_STAM: ]*
 ```
 
 -------------------------------------------------
+
+# Notes
 
 ## Guiding Principles
 
