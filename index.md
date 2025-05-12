@@ -1,12 +1,8 @@
 # Paradoxdruid's ESO Guides
 
----------------------------------------
-
-# ESO Update 46 Mid-tier Build Guides
-
 *This is a work in progess; last updated 2025-05-12*
 
-These represent Paradoxdruid's best attempt at capturing the mid-tier meta for U46 (groups who regularly do vet and some vet HM content; not trifecta progs or scorepushing attempts).  Note that vet and vet HM guides can and will differ.
+These represent Paradoxdruid's best attempt at capturing the mid-tier meta for U46 (groups who regularly do vet and some vet HM content; not trifecta progs or scorepushing attempts). 
 
 **Loadouts**
 * [Support Loadouts](#example-support-loadouts)
@@ -26,7 +22,9 @@ These represent Paradoxdruid's best attempt at capturing the mid-tier meta for U
 * [Guiding Principles](#guiding-principles)
 * [Changelog](#changelog)
 
-------------------------------------------
+---------------------------------------
+
+# ESO Update 46 Mid-tier Build Guides
 
 ## Example Support Loadouts
 
