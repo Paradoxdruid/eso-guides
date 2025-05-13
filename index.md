@@ -28,6 +28,8 @@ These represent Paradoxdruid's best attempt at capturing the mid-tier meta for U
 
 # ESO Update 46 Mid-tier Build Guides
 
+See [Guiding Principles](#guiding-principles) and [Buff Calculations](#buff-calculations) for explanations of set selections.
+
 ## Example Support Loadouts
 
 * **MT:** [MT skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=28,139,26,211,33,419,206,270,430,288,136,408), lines: Earthen Heart, Soldier of Apocrypha, Winter's Embrace, typical set example: TT/Yolna/Naz or Tremor
@@ -391,9 +393,42 @@ Knot:
 ## Guiding Principles
 
 * Most dps will be in meta Arc/NB combos, which feature high penetration and crit damage.  With Reaving Blows CP and/or Pragmatic Fatecarver, they have high innate survivability.
-* Mid-tier players aren't perfect yet at pixel stacking, so effective use of slayer stacks is difficult.
+* Mid-tier players aren't perfect yet at stacking when needed, so effective use of slayer stacks is difficult.
+* Due to meta classes being Arc/NB, there is no need for Roar of Alkosh, Elemental Catalyst, or Crimson Oath's Rive sets in most fights (see calculations below).
+
+## Buff Calculations
+
+* **Typical Meta Penetration (Arc/NB):**
+  * Major Breach (Ele Sus) 5,948
+  * Minor Breach (Cruxweaver on MT or good Brittle uptimes) 2,974
+  * Crusher 2,108
+  * Piercing Blue CP 700
+  * (just a note, NB Master Assassin grants crit and not penetration now)
+  * (Null Arca and Deadliy Strikes have no Pen lines)
+  * Velothi: 1,650
+  * Arcanist passives, 2 abilities slotted (Flail and Beam): 2,480
+  * 1 Light Armor 939
+  * SUBTOTAL: 16,799; need 1,401 to reach cap
+  * Add: Runic Sunder 2,200 **OR** Tremorscale 2,640
+  * **TOTAL**: 18,999 **OR** 19,439
+  * Overcap with no need for Kosh or Crimson
+
+* **Typical Meta Crit Damage (Arc/NB):**
+  * Base 50%
+  * Minor Brittle 10%
+  * Velothi / Minor Force 10%
+  * 6 Medium armor 12%
+  * Nightblade passive 10%
+  * Arcanist passive 12%
+  * Lucent Echoes 11%
+  * SUBTOTAL: 115% ; need 10% to reach cap
+  * Add Major Force (Horn) 20% **OR** Fighting Finesse blue CP 12%
+  * **TOTAL**: 135% **OR** 127%
+  * Overcap with no need for EC, and not super Major Force dependent 
+
 
 ## Changelog
 
+* 2025-05-13: Added Buff calculations to explain why certain sets aren't needed.
 * 2025-05-12: Moved Glacial Colossus to SPC Healer; kept Reaving Blows CP requirement only for vAS; revised MT and OT lines to move Winter's Embrace to MT and add Siphoning to OT
 * 2025-05-11: Initial setups
