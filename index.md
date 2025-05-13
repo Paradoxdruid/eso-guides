@@ -395,6 +395,7 @@ Knot:
 * Most dps will be in meta Arc/NB combos, which feature high penetration and crit damage.  With Reaving Blows CP and/or Pragmatic Fatecarver, they have high innate survivability.
 * Mid-tier players aren't perfect yet at stacking when needed, so effective use of slayer stacks is difficult.
 * Due to meta classes being Arc/NB, there is no need for Roar of Alkosh, Elemental Catalyst, or Crimson Oath's Rive sets in most fights (see calculations below).
+* With the changes to Zena's (targets 6, not smart targeting), sourcing Minor Courage requires a change.  Both healers in Healing Burst with Courage affix is possible, but again doesn't smart target.  All Banners in Courage works, but requires expensive Heroism potions.  Tank in Yolnakriin is the easiest source to reliably get everyone Minor Courage.  The recovery buffs from Zena's are moved to a healer running Radiant Aura.
 
 ## Buff Calculations
 
@@ -430,6 +431,6 @@ Knot:
 
 ## Changelog
 
-* 2025-05-13: Added Buff calculations to explain why certain sets aren't needed.
+* 2025-05-13: Added Buff calculations to explain why certain sets aren't needed; added explanation of Yolnakriin meta.
 * 2025-05-12: Moved Glacial Colossus to SPC Healer; kept Reaving Blows CP requirement only for vAS; revised MT and OT lines to move Winter's Embrace to MT and add Siphoning to OT
 * 2025-05-11: Initial setups
