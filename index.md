@@ -19,6 +19,18 @@ See [Guiding Principles](#guiding-principles) and [Buff Calculations](#buff-calc
 | **ROJO/MAPA Healer** | Siphoning (Nightblade), Restoring Light (Templar), flex |  [ROJO skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=319,412,406,323,64,419,385,270,104,102,398,408) | RO/JO/Master's Restro/Ozezan, MA/PA/Spaulder | Good flexibility for 3rd skill line to replace Warding Contingency if needed<br>Typical Ult: Aggressive Horn or Barrier |
 | **SPC/PP Healer** | Green Balance (Warden), Siphoning (Nightblade), Gravelord (Necromancer) | [SPC skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=319,431,320,323,64,419,196,270,406,412,418,228) | SPC/PP/Symph or Naz | Typical Ult: Glacial Colossus |
 
+<details>
+<summary>Support loadout skills details</summary>
+
+| Role | Skills |
+| ---- | ------ |
+| **MT** | **FB:** Impervious Runeward, Igneous Shield, Runic Sunder, Polar Wind, Runegaurd of Still Waters, Replenishing Barrier<br>**BB:** Expansive Frost Cloak, Elemental Blockade, Leashing Soul, Elemental Susceptibility, Igneous Weapons, Aggressive Horn |
+| **OT** | **FB:** Hardened Ward, Exhilarating Drain, Inner Rage, Hungry Scythe, Necrotic Potency, Replenishing Barrier<br>**BB:** Summoning Armor, Elemental Blockade, Leashing Soul, Elemental Susceptibility, Siphoning Attacks, Charged Atronach |
+| **ROJO Healer** | **FB:** Illustrious Healing, Echoing Vigor, Energy Orb, Combat Prayer, Healthy Offering, Replenishing Barrier<br>**BB:** Warding Contingency, Elemental Blockade, Extended Ritual, Radiant Aura, Overflowing Altar, Aggressive Horn |
+| **SPC/PP Healer** | **FB:** Illustrious Healing, Healing Burst, Radiating Regeneration, Combat Prayer, Healthy Offering, Replenishing Barrier<br>**BB:** Budding Seeds, Elemental Blockade, Energy Orb, Echoing Vigor, Trample, Glacial Colossus |
+ 
+</details>
+
 ## Example DPS Loadouts
 
 | Type | Class Lines | Skill Bar Links | Typical Sets | Notes |
