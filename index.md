@@ -19,7 +19,9 @@ See [Guiding Principles](#guiding-principles) and [Buff Calculations](#buff-calc
 | **ROJO/MAPA Healer** | Siphoning (Nightblade), Restoring Light (Templar), flex |  [ROJO skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=319,412,406,323,64,419,385,270,104,102,398,408) | RO/JO/Master's Restro/Ozezan, MA/PA/Spaulder | Good flexibility for 3rd skill line to replace Warding Contingency if needed<br>Typical Ult: Aggressive Horn or Barrier |
 | **SPC/PP Healer** | Green Balance (Warden), Siphoning (Nightblade), Gravelord (Necromancer) | [SPC skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=319,431,320,323,64,419,196,270,406,412,418,228) | SPC/PP/Symph or Naz | Typical Ult: Glacial Colossus |
 
+<!-- Table inside collapsed section broken in leapDay theme?
 <details>
+
 <summary>Support loadout skills details</summary>
 
 | Role | Skills |
@@ -30,6 +32,7 @@ See [Guiding Principles](#guiding-principles) and [Buff Calculations](#buff-calc
 | **SPC/PP Healer** | **FB:** Illustrious Healing, Healing Burst, Radiating Regeneration, Combat Prayer, Healthy Offering, Replenishing Barrier<br>**BB:** Budding Seeds, Elemental Blockade, Energy Orb, Echoing Vigor, Trample, Glacial Colossus |
  
 </details>
+-->
 
 ## Example DPS Loadouts
 
