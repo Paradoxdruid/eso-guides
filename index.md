@@ -422,9 +422,10 @@ Knot:
   * Arcanist passive 12%
   * Lucent Echoes 11%
   * SUBTOTAL: 115% ; need 10% to reach cap
-  * Add Major Force (Horn) 20% **OR** Fighting Finesse blue CP 12%
-  * **TOTAL**: 135% **OR** 127%
-  * Overcap with no need for EC, and not super Major Force dependent 
+  * Add Major Force (Horn) 20% **OR** Fighting Finesse blue CP 8%
+  * **TOTAL**: 135% **OR** 123%
+  * Overcap with no need for EC, and not super Major Force dependent
+  * If Horn uptimes are good, can drop Lucent Echoes set
 
 
 ## Changelog
