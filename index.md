@@ -1,28 +1,8 @@
 # Paradoxdruid's ESO Guides
 
-*This is a work in progess; last updated 2025-05-12*
+*This is a work in progess; last updated 2025-05-13*
 
 These represent Paradoxdruid's best attempt at capturing the mid-tier meta for U46 (groups who regularly do vet and some vet HM content; not trifecta progs or scorepushing attempts). 
-
-<!-- 
-**[Loadouts](#eso-update-46-mid-tier-build-guides)**
-* [Support Loadouts](#example-support-loadouts)
-* [DPS Loadouts](#example-dps-loadouts)
-
-**[Trial Rosters](#eso-update-46-mid-tier-trial-rosters)**
-* [Kyne's Aegis](#vet-kynes-aegis)
-* [Sanity's Edge](#vet-sanitys-edge)
-* [Dreadsail Reef](#vet-dreadsail-reef)
-* [Lucent Citadel](#vet-lucent-citadel)
-* [Sunspire](#vet-sunspire)
-* [Rockgrove](#vet-rockgrove)
-* [Halls of Fabrication](#vet-halls-of-fabrication)
-* [Asylum Sanctorium](#vet-asylum-sanctorium)
-
-**[Notes](#notes)**
-* [Guiding Principles](#guiding-principles)
-* [Changelog](#changelog)
--->
 
 ---------------------------------------
 
@@ -32,19 +12,22 @@ See [Guiding Principles](#guiding-principles) and [Buff Calculations](#buff-calc
 
 ## Example Support Loadouts
 
-* **MT:** [MT skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=28,139,26,211,33,419,206,270,430,288,136,408), lines: Earthen Heart, Soldier of Apocrypha, Winter's Embrace, typical set example: TT/Yolna/Naz or Tremor
-* **OT:** [OT skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=152,359,403,218,223,419,221,270,430,288,69,145); lines: Daedric Summoning, Bone Tyrant, Siphoning; typical set example: Pearl/Lucent/AD
-* **OT/Heal Hybrid:**  [OT/Heal skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=152,359,403,319,64,419,206,270,406,412,154,145); lines: Daedric Summoning, Winter's Embrace, Siphoning; typical set example: Sax/PP/AD
-* **ROJO/MAPA Healer:** [ROJO skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=319,412,406,323,64,419,385,270,104,102,398,408); lines: Siphoning, Restoring Light, flex; typical sets: RO/JO/Master's Restro/Ozezan, MA/PA/Spaulder
-* **SPC/PP Healer:** [SPC skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=319,431,320,323,64,419,196,270,406,412,418,228); lines: Green Balance, Siphoning, Gravelord; typical sets: SPC/PP/Symph
+| Role | Class Lines | Skill Bar Links | Typical Sets | Notes |
+| ---- | ----------- | --------------- | ------------ | ----- |
+| **Main Tank** | Winter's Embrace (Warden), Soldier of Apocrypha (Arcanist), Earthern Heart (Dragonknight) | [MT skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=28,139,26,211,33,419,206,270,430,288,136,408) | TT/Yolna/Tremor or Naz | Can use Inner Rage instead of Runic Sunder<br>Typical Ult: Aggressive Horn |
+| **Off Tank** | Daedric Summoning (Sorcerer), Bone Tyrant (Necromancer), Siphoning (Nightblade) |  [OT skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=152,359,403,218,223,419,221,270,430,288,69,145) | Pearl/Lucent/AD, Pearl/PA/AD | Use Powerful Assault set instead of Lucent if team is all in meta setups<br>Typical Ult: Charged Atronach |
+| **ROJO/MAPA Healer** | Siphoning (Nightblade), Restoring Light (Templar), flex |  [ROJO skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=319,412,406,323,64,419,385,270,104,102,398,408) | RO/JO/Master's Restro/Ozezan, MA/PA/Spaulder | Good flexibility for 3rd skill line to replace Warding Contingency if needed<br>Typical Ult: Aggressive Horn or Barrier |
+| **SPC/PP Healer** | Green Balance (Warden), Siphoning (Nightblade), Gravelord (Necromancer) | [SPC skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=319,431,320,323,64,419,196,270,406,412,418,228) | SPC/PP/Symph or Naz | Typical Ult: Glacial Colossus |
 
 ## Example DPS Loadouts
 
-* **Beam Arcanist:** [Beam skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=299,370,18,16,429,36,20,274,22,47,429,12), lines: Herald of the Tome / Assassination / Aedric Spear (for passives only); sets: Null Arca/Deadly Strikes/Velothi/Maelstrom Inferno (or Maelstrom Greatsword)
-* **Necro:** [Necro skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=231,234,232,238,429,36,237,334,336,47,429,228), lines: Gravelord, Assassination, Aedric Spear (for passives only), sets: Corpseburster/Null Arca/Velthi/Maelstrom Greatsword
-* **Non-Beam Nightblade/Arcanist:** [NB skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=43,39,46,19,429,36,173,20,334,372,429,12), lines: Assassination / Herald of the Tome / Stormcalling
-* **Zen DK:** [DK skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=43,372,113,111,114,36,47,119,334,380,87,109), lines: Ardent Flame, Dawn's Wrath, Assassination
-* **Frost Warden:** [Warden skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=372,47,14,19,429,36,21,334,210,209,429,36), lines: Winter's Embrace, Herald of the Tome, Assassination
+| Type | Class Lines | Skill Bar Links | Typical Sets | Notes |
+| ---- | ----------- | --------------- | ------------ | ----- |
+| **Meta Beam Arcanist** | Herald of the Tome (Arcanist), Assassination (Nightblade), Aedric Spear (Templar) | [Beam skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=299,370,18,16,429,36,20,274,22,47,429,12) | Null Arca/Deadly Strikes/Velothi/Maelstrom Inferno (or Maelstrom Greatsword) | Aedric Spear is for passives only, can easily swap to Gravelord, Ardent Flame, Dawn's Wrath or others |
+| **Blastbones Necro** | Gravelord (Necromancer), Assassination (Nightblade), Aedric Spear (Templar) | [Necro skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=231,234,232,238,429,36,237,334,336,47,429,228) | Corpseburster/Null Arca/Velthi/Maelstrom Greatsword | Aedric Spear is for passives only, can easily swap to Ardent Flame, Dawn's Wrath, Animal Companions, or others |
+| **Non-Beam Nightblade** | Assassination (Nightblade), Herald of the Tome (Arcanist), Stormcalling (Sorcerer) | [NB skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=43,39,46,19,429,36,173,20,334,372,429,12) | Null Arca/Tideborn/Velothi/Maelstrom Greatsword | Lots of flexibility with Stormcalling line for others |
+| **Zen DK** |  Ardent Flame (Dragonknight), Dawn's Wrath (Templar), Assassination (Nightblade) | [DK skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=43,372,113,111,114,36,47,119,334,380,87,109) | Z'en's Redress/Null Arca/Velothi/Maelstrom Greatsword or Inferno Staff | Lots of line flexibility |
+| **Frost Focused** | Winter's Embrace (Warden), Herald of the Tome (Arcanist), Assassination (Nightblade) | [Frost skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=372,47,14,19,429,36,21,334,210,209,429,36) | Null Arca or Whorl of the Depths/Ice Furnace or Frostbite/Velothi/Maelstrom Ice Staff |  |
 
 ----------------------------------------------
 
@@ -431,6 +414,6 @@ Knot:
 
 ## Changelog
 
-* 2025-05-13: Added Buff calculations to explain why certain sets aren't needed; added explanation of Yolnakriin meta.
+* 2025-05-13: Added Buff calculations to explain why certain sets aren't needed; added explanation of Yolnakriin meta.  Changed skill layouts to table form to include notes.
 * 2025-05-12: Moved Glacial Colossus to SPC Healer; kept Reaving Blows CP requirement only for vAS; revised MT and OT lines to move Winter's Embrace to MT and add Siphoning to OT
 * 2025-05-11: Initial setups
