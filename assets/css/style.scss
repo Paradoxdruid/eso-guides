@@ -3,6 +3,52 @@
 
 @import "{{ site.theme }}";
 
+/* 1. Make sure all elements include padding/borders in their width calculations */
+* {
+  box-sizing: border-box;
+}
+
+/* 2. Wrap your nav + section in a flex‐container */
+.wrapper {
+  display: flex;
+  max-width: 100%;
+  /* small padding on left/right gives that extra margin on the far edges */
+  padding: 0 1rem;
+}
+
+/* 3. Nav: fixed fraction of the width (or min‑width if you prefer) */
+nav {
+  flex: 0 0 14%;       /* never grow/shrink, stay at 14% */
+  min-width: 140px;    /* optional: so on really narrow screens it doesn’t collapse */
+  margin-right: 1rem;  /* space between nav and content */
+}
+
+/* 4. Main content takes up the rest */
+section {
+  flex: 1;             /* grow to fill remaining space */
+}
+
+/* 5. Footer can live outside the wrapper (or you can style it similarly) */
+footer {
+  width: 100%;
+  margin-top: 2rem;
+  padding: 0 1rem;
+}
+
+/* 6. At small widths, stack them vertically */
+@media (max-width: 600px) {
+  .wrapper {
+    flex-direction: column;
+  }
+  nav,
+  section {
+    flex: none;        /* reset flex rules */
+    width: 100%;
+    margin: 0 0 1rem;  /* vertical spacing */
+  }
+}
+
+/* Commented out
 section
 {
  width:85%;
@@ -34,3 +80,4 @@ footer
  left:0;
  margin-left:0;
 }
+*/
