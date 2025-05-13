@@ -33,6 +33,8 @@ See [Guiding Principles](#guiding-principles) and [Buff Calculations](#buff-calc
 
 # ESO Update 46 Mid-tier Trial Rosters
 
+These rosters should be ready to copy and paste into Discord, though you may need to check the custom icons based on your servers and emoji availability.
+
 ## vet Maw of Lorkhaj
 
 ```md
