@@ -408,7 +408,7 @@ Knot:
   * (Null Arca and Deadliy Strikes have no Pen lines)
   * Velothi: 1,650
   * Arcanist passives, 2 abilities slotted (Flail and Beam): 2,480
-  * 1 Light Armor 939
+  * 1 Light Armor 939 (optional)
   * SUBTOTAL: 16,799; need 1,401 to reach cap
   * Add: Runic Sunder 2,200 **OR** Tremorscale 2,640
   * **TOTAL**: 18,999 **OR** 19,439
@@ -418,7 +418,7 @@ Knot:
   * Base 50%
   * Minor Brittle 10%
   * Velothi / Minor Force 10%
-  * 6 Medium armor 12%
+  * 6 Medium armor 12% (optional: 7 pieces works, too)
   * Nightblade passive 10%
   * Arcanist passive 12%
   * Lucent Echoes 11%
