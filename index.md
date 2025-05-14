@@ -1,6 +1,6 @@
 # Paradoxdruid's ESO Guides
 
-*This is a work in progess; last updated 2025-05-13*
+*This is a work in progess; last updated 2025-05-14*
 
 These represent Paradoxdruid's best attempt at capturing the mid-tier meta for U46 (groups who regularly do vet and some vet HM content; not trifecta progs or scorepushing attempts). 
 
@@ -16,8 +16,8 @@ See [Guiding Principles](#guiding-principles) and [Buff Calculations](#buff-calc
 | ---- | ----------- | --------------- | ------------ | ----- |
 | **Main Tank** | Winter's Embrace (Warden), Soldier of Apocrypha (Arcanist), Earthern Heart (Dragonknight) | [MT skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=28,139,26,211,33,419,206,270,430,288,136,408) | TT/Yolna/Tremor or Naz | Can use Inner Rage instead of Runic Sunder<br>Typical Ult: Aggressive Horn |
 | **Off Tank** | Daedric Summoning (Sorcerer), Bone Tyrant (Necromancer), Siphoning (Nightblade) |  [OT skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=152,359,403,218,223,419,221,270,430,288,69,145) | Pearl/Lucent/AD, Pearl/PA/AD | Use Powerful Assault set instead of Lucent if team is all in meta setups<br>Typical Ult: Charged Atronach |
-| **ROJO/MAPA Healer** | Siphoning (Nightblade), Restoring Light (Templar), flex |  [ROJO skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=319,412,406,323,64,419,385,270,104,102,398,408) | RO/JO/Master's Restro/Ozezan, MA/PA/Spaulder | Good flexibility for 3rd skill line to replace Warding Contingency if needed<br>Typical Ult: Aggressive Horn or Barrier |
-| **SPC/PP Healer** | Green Balance (Warden), Siphoning (Nightblade), Gravelord (Necromancer) | [SPC skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=319,431,320,323,64,419,196,270,406,412,418,228) | SPC/PP/Symph or Naz | Typical Ult: Glacial Colossus |
+| **MAPA Healer** | Siphoning (Nightblade), Restoring Light (Templar), Gravelord (Necromancer) |  [MAPA skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=319,412,406,323,64,419,385,270,104,102,398,228) | MA/PA/Spaulder or Ozezan | Typical Ult: Glacial Colossus |
+| **SPC/PP Healer** | Green Balance (Warden), Siphoning (Nightblade), Curative Runeforms (Arcanist) | [SPC skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=319,431,320,323,64,60,196,270,406,412,3,419) | SPC (5 body)/PA (FB staff, ring, 2 body)/Pearls/Potentates (ring + BB staff) | Role is to reduce ult cost and spam Barrier on cooldown<br>Typical Ult: Barrier |
 
 <!-- Table inside collapsed section broken in leapDay theme?
 <details>
@@ -63,8 +63,8 @@ Your Local Time:
 MT [TT/Yoln/Naz]: *[Frost Cloak :TANK_warden:; Igneous Weapons  :TankDK:; Runic Sunder :Arc_TANK: ]*
 OT [Lucent/Pearl/AD]:  *[Charged Atronach :TANKsorc: ]* 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-H [SPC/PP/Symph]:  *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Glacial Colossus :HEAL_necro: ]*
-H [RO/JO/Spaulder or Ozezan]:  *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Healthy Offering :HEAL_NB: ]*
+H [SPC/PA/Pearls/Potentates]:  *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Evolving Runemend :arc_heal:; Barrier ]*
+H [MA/PA/Spaulder or Ozezan]:  *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Glacial Colossus :HEAL_necro: ; Healthy Offering :HEAL_NB: ]*
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 M1: [Z'en]
 M2: [MK]
@@ -96,7 +96,7 @@ Your Local Time:
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 **RIGHT STACK (Reactor)**
 MT [Yoln/Crimson/Naz] (Purge for first boss): *[Frost Cloak :TANK_warden:; Igneous Weapons :TankDK: ]*
-H [RO/JO/Ozezan] (Purge): *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Healthy Offering :HEAL_NB: ]*
+H [MA/PA/Spaulder or Ozezan] (Purge):  *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Glacial Colossus :HEAL_necro: ; Healthy Offering :HEAL_NB: ]*
 DPS: [Z'en]
 DPS:
 DPS:
@@ -104,7 +104,7 @@ DPS:
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 **LEFT STACK (Reducer)**
 OT [Pearl/Lucent/Nunatak] (Purge for First Boss): *[Charged Atronach :TANKsorc:  ]*
-H [SPC/PP/Symph] (Purge): *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Glacial Colossus :HEAL_necro: ]*
+H [SPC/PA/Pearls/Potentates] (Purge):  *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Evolving Runemend :arc_heal:; Barrier ]*
 DPS: 
 DPS:
 DPS:
@@ -167,8 +167,8 @@ Portal Tank 1 [Pearl/Sax/AD]: Steed mundus - Ele Sus Z'Maja/Crystal: *[Igneous W
 Portal Tank 2 [Sax/PA/Naz]: Steed Mundus - Ele Sus Z'Maja/Crystals:  *[Igneous Weapons :TankDK: ]*
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 Healers
-R Group Healer: [ROJO/Spauld] (Contingency, Altar): *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Healthy Offering :HEAL_NB: ]*
-L Kite Healer: [SPC/PP/Symph] (Ele Sus Grapes):  *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Glacial Colossus :HEAL_necro: ]*
+R Group Healer: [MA/PA/Spaulder or Ozezan]:  *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Glacial Colossus :HEAL_necro: ; Healthy Offering :HEAL_NB: ]*
+L Kite Healer: [SPC/PA/Pearls/Potentates] (Ele Sus Grapes):  *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Evolving Runemend :arc_heal:; Barrier ]*
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 PORTAL 1
 L DPS CW: 
@@ -198,14 +198,14 @@ MT [TT/Yoln/Naz]:  *[Frost Cloak :TANK_warden:; Igneous Weapons  :TankDK: ; Runi
 OT [Pearl/Lucent/AD]:  *[Charged Atronach :TANKsorc: ]*
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 **HEAD STACK**
-Tomb H [SPC/PP/Symph] (Barrier):  *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Glacial Colossus :HEAL_necro: ]*
+Tomb H [SPC/PA/Pearls/Potentates]:  *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Evolving Runemend :arc_heal:; Barrier ]*
 1: [Z'en]
 2: 
 3: 
 4:
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 **WING STACK**
-GH [RO/JO/Ozezan]: *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Healthy Offering :HEAL_NB: ]*
+GH [MA/PA/Spaulder or Ozezan]:  *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Glacial Colossus :HEAL_necro: ; Healthy Offering :HEAL_NB: ]*
 5: 
 6:
 7:
@@ -236,8 +236,8 @@ Your Local Time:
 MT [TT/Yoln/Naz]: *[Frost Cloak :TANK_warden:; Igneous Weapons  :TankDK:; Runic Sunder :Arc_TANK: ]*
 OT [Pearl/Lucent/AD] (Guard): *[Charged Atronach :TANKsorc: ]* 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-H [SPC/PP/Symph]: *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Glacial Colossus :HEAL_necro: ]*
-H [RO/JO/Ozezan] (Altar): *[Radiant Aura :HEAL_templar: ; Extended Ritual :HEAL_templar: ; Healthy Offering :HEAL_NB:]*  
+H [SPC/PA/Pearls/Potentates]:  *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Evolving Runemend :arc_heal:; Barrier ]*
+H [MA/PA/Spaulder or Ozezan]:  *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Glacial Colossus :HEAL_necro: ; Healthy Offering :HEAL_NB: ]* 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 M1 [Z'en]:  
 M2 [MK]:   
@@ -266,8 +266,8 @@ Your Local Time:
 MT: [Crimson/Yoln/Naz]: *[Frost Cloak :TANK_warden:;  Igneous Weapons :TankDK: ]*
 OT: [Pearl/Lucent/Spaulder] (Lord Warden on Bahsei): *[Summoning Armor :TANK_necro: ; Charged Atronach :TANK_sorc: ]*
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-KH: [SPC/PP/Symph]: *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Glacial Colossus :HEAL_necro:  ]*
-GH: [RO/JO/Ozezan]: *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Healthy Offering :HEAL_NB: ]*
+KH: [SPC/PA/Pearls/Potentates]:  *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Evolving Runemend :arc_heal:; Barrier ]*
+GH: [MA/PA/Spaulder or Ozezan]:  *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Glacial Colossus :HEAL_necro: ; Healthy Offering :HEAL_NB: ]* 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 DPS: [Zen] 
 DPS: (Guard): 
@@ -294,19 +294,19 @@ Your Local Time:
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 **RIGHT STACK**
 MT [Yoln/Crimson/Naz]: *[Frost Cloak :TANK_warden:; Igneous Weapons  :TankDK: ]*
-H [SPC/PP/Symph]:  *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB: ; Glacial Colossus :HEAL_necro: ]*
-M1 top right:  
+H [SPC/PA/Pearls/Potentates]:  *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Evolving Runemend :arc_heal:; Barrier ]*
+M1 top right: 
 M2 bottom right: 
 M3 dome swap:  
 M4 [Z'en]: 
 
 **LEFT STACK**
 OT [Pearl/Lucent/AD]:  *[Charged Atronach :TANKsorc:  ]* 
-H [RO/JO/Ozezan]: *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Healthy Offering :HEAL_NB: ]*
+H [MA/PA/Spaulder or Ozezan]:  *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Glacial Colossus :HEAL_necro: ; Healthy Offering :HEAL_NB: ]* 
 M1 top left:
 M2 bottom left: 
 M3 dome swap: 
-M4: *[Glacial Colossus :STAM_necro: ; Unnerving Boneyard :STAM_necro:  ]*
+M4: 
 
 **BOSS 2 RUNNERS**
 1: 
@@ -336,8 +336,8 @@ Your Local Time:
 MT [Yoln/Crimson/Naz]: *[Frost Cloak :TANK_warden: ; Igneous Weapons  :TankDK: ]*
 OT [Pearl/Lucent/AD]: *[Charged Atronach :TANKsorc: ]* 
 
-H1 [RO/JO/Ozezan]: *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Healthy Offering :HEAL_NB: ]*
-H2 [SPC/PP/Symph]: *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB: ; Glacial Colossus :HEAL_necro: ]*
+H1 [MA/PA/Spaulder or Ozezan]:  *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Glacial Colossus :HEAL_necro: ; Healthy Offering :HEAL_NB: ]* 
+H2 [SPC/PA/Pearls/Potentates]:  *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Evolving Runemend :arc_heal:; Barrier ]*
 
 1 [Z'en]:
 2: 
@@ -363,18 +363,19 @@ Your Local Time:
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 **GARGOYLE**
 MT [Yoln/Crimson/Naz]: *[Frost Cloak :TANK_warden: ; Igneous Weapons  :TankDK: ]*
-(W 90 /S 60) H1: [SPC/PP/Symph] *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Glacial Colossus :HEAL_necro: ]*
+(W 90 /S 60) H1: [SPC/PA/Pearls/Potentates]:  *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Evolving Runemend :arc_heal:; Barrier ]*
+
 S DPS: 
 SW DPS: 
-W DPS:  
+W DPS:  *[Glacial Colossus :stam_necro: first boss]*
 NW DPS: 
 
 **SCORPION**
 OT [Pearl/Lucent/AD]:  *[ Charged Atronach :TANKsorc:  ]* (kite boss 2)
-(E 90 / N 60) H2: [RO/JO/Ozezan]  (SPC/PP/Symph boss 1)  *[Radiant Aura :HEAL_templar: ; Extended Ritual :HEAL_templar: ; Healthy Offering :HEAL_NB: ]*
+(E 90 / N 60) H2: [MA/PA/Spaulder or Ozezan, SPC/MA first boss]:  *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Glacial Colossus :HEAL_necro: ; Healthy Offering :HEAL_NB: ]*   
 N DPS: 
 NE DPS: 
-E DPS:  *[Unnerving Boneyard :STAMnecro:  boss 1]*
+E DPS:  
 SE DPS: [Zen] *[Igneous Weapons :STAM_DK:  boss 1]*
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 Knot:
@@ -396,6 +397,7 @@ Knot:
 * Mid-tier players aren't perfect yet at stacking when needed, so effective use of slayer stacks is difficult.
 * Due to meta classes being Arc/NB, there is no need for Roar of Alkosh, Elemental Catalyst, or Crimson Oath's Rive sets in most fights (see calculations below).
 * With the changes to Zena's (targets 6, not smart targeting), sourcing Minor Courage requires a change.  Both healers in Healing Burst with Courage affix is possible, but again doesn't smart target.  All Banners in Courage works, but requires expensive Heroism potions.  Tank in Yolnakriin is the easiest source to reliably get everyone Minor Courage.  The recovery buffs from Zena's are moved to a healer running Radiant Aura.
+* With changes to ult gen, pillager's profit is no longer worth it, but it's possible for healers to generate enough ult to spam low cost Barrier and Colossus ults almost on cooldown.
 
 ## Buff Calculations
 
@@ -408,29 +410,30 @@ Knot:
   * (Null Arca and Deadliy Strikes have no Pen lines)
   * Velothi: 1,650
   * Arcanist passives, 2 abilities slotted (Flail and Beam): 2,480
-  * 1 Light Armor 939 (optional)
-  * SUBTOTAL: 16,799; need 1,401 to reach cap
-  * Add: Runic Sunder 2,200 **OR** Tremorscale 2,640
-  * **TOTAL**: 18,999 **OR** 19,439
+  * (optional: 1 Light Armor 939)
+  * SUBTOTAL: 15,860; need 2,340 to reach cap
+  * Add: Tremorscale 2,640 **OR** Runic Sunder 2,200
+  * **TOTAL**: 18,500 **OR** 18,060
   * Overcap with no need for Kosh or Crimson
 
 * **Typical Meta Crit Damage (Arc/NB):**
   * Base 50%
   * Minor Brittle 10%
   * Velothi / Minor Force 10%
-  * 6 Medium armor 12% (optional: 7 pieces works, too)
+  * 7 Medium armor 14% (optional: 6 pieces works, too)
   * Nightblade passive 10%
   * Arcanist passive 12%
   * Lucent Echoes 11%
-  * SUBTOTAL: 115% ; need 10% to reach cap
+  * SUBTOTAL: 117% ; need 8% to reach cap
   * Add Major Force (Horn) 20% **OR** Fighting Finesse blue CP 8%
-  * **TOTAL**: 135% **OR** 123%
+  * **TOTAL**: 135% **OR** 125%
   * Overcap with no need for EC, and not super Major Force dependent
   * If Horn uptimes are good, can drop Lucent Echoes set
 
 
 ## Changelog
 
+* 2025-05-14: Adjusted Healer roles and sets to reflect the ability to spam Barrier and maximize Major Slayer uptimes.
 * 2025-05-13: Added Buff calculations to explain why certain sets aren't needed; added explanation of Yolnakriin meta.  Changed skill layouts to table form to include notes.
 * 2025-05-12: Moved Glacial Colossus to SPC Healer; kept Reaving Blows CP requirement only for vAS; revised MT and OT lines to move Winter's Embrace to MT and add Siphoning to OT
 * 2025-05-11: Initial setups
