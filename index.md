@@ -14,7 +14,7 @@ See [Guiding Principles](#guiding-principles) and [Buff Calculations](#buff-calc
 
 | Role | Class Lines | Skill Bar Links | Typical Sets | Notes |
 | ---- | ----------- | --------------- | ------------ | ----- |
-| **Main Tank** | Winter's Embrace (Warden), Soldier of Apocrypha (Arcanist), Earthern Heart (Dragonknight) | [MT skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=28,139,26,211,33,419,206,270,430,288,136,408) | Pearl/Yolna/Tremor, Crimson/Yolna/Tremor | Can use Inner Rage instead of Runic Sunder<br>Typical Ult: Aggressive Horn |
+| **Main Tank** | Winter's Embrace (Warden), Soldier of Apocrypha (Arcanist), Earthern Heart (Dragonknight) | [MT skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=28,139,26,211,33,419,206,270,430,288,136,408) | Pearl/Yolna/Tremor, Crimson/Yolna/Naz | Can use Inner Rage instead of Runic Sunder<br>Typical Ult: Aggressive Horn |
 | **Off Tank** | Daedric Summoning (Sorcerer), Bone Tyrant (Necromancer), Siphoning (Nightblade) |  [OT skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=152,359,403,218,223,419,221,270,430,288,69,145) | Sax/WM/AD, Sax/Pearl/AD, Sax/Lucent/AD |  Typical Ult: Charged Atronach |
 | **MA/PA Healer** | Siphoning (Nightblade), Restoring Light (Templar), Gravelord (Necromancer) |  [MAPA skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=319,412,406,323,64,419,385,270,104,102,398,228) | MA/PA/Spaulder or Ozezan | Typical Ult: Glacial Colossus |
 | **SPC/(PP or MA) Healer** | Green Balance (Warden), Siphoning (Nightblade), Curative Runeforms (Arcanist) | [SPC skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=319,431,320,323,64,60,196,270,406,412,3,419) | SPC (FB staff, ring, 2 body)/PP or MA (5 body)/Pearls/Potentates (ring + BB staff) | Role is to reduce ult cost and spam Barrier on cooldown<br>Typical Ult: Barrier |
@@ -60,7 +60,7 @@ Your Local Time:
 **Addons**: Crutch Alerts, Ody's Support Icons, Hodors (for supports)
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-MT [Pearl/Yoln/Naz]: *[Frost Cloak :TANK_warden:; Igneous Weapons  :TankDK:; Runic Sunder :Arc_TANK: ]*
+MT [Pearl/Yoln/Tremor]: *[Frost Cloak :TANK_warden:; Igneous Weapons  :TankDK:; Runic Sunder :Arc_TANK: ]*
 OT [Sax/WM/AD]:  *[Charged Atronach :TANKsorc: ]* 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 H [SPC/PP/Pearls/Potentates]:  *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Evolving Runemend :arc_heal:; Barrier ]*
@@ -132,10 +132,10 @@ Your Local Time:
 **Addons**: Asylum Sanctorium Status Panel, Asylum Tracker, Elms Markers
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-MT [Crimson/Yoln/Tremor]  *[Frost Cloak :TANK_warden:; Igneous Weapons :TankDK: ]*
+MT [Crimson/Yoln/Naz]  *[Frost Cloak :TANK_warden:; Igneous Weapons :TankDK: ]*
 OT [Sax/Pearl/Spaulder] *[Charged Atronach :TANKsorc:  ]*
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-GH [SPC/MA/Naz] *[Budding Seeds :HEAL_warden:; Healthy Offering :HEAL_NB:; Evolving Runemend :arc_heal:; Barrier ]*
+GH [SPC/MA] *[Budding Seeds :HEAL_warden:; Healthy Offering :HEAL_NB:; Evolving Runemend :arc_heal:; Barrier ]*
 FK [Zen/MA/AD]  *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Healthy Offering :HEAL_NB: ; Glacial Colossus :HEAL_necro: ]*
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 L1:  *[ Pragmatic Fatecarver :Arc_STAM: ]*
@@ -194,7 +194,7 @@ Your Local Time:
 **Addons**: HowTo Sunspire, Crutch Alerts, Ody's Support Icons, Hodors
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-MT [Pearl/Yoln/Naz]:  *[Frost Cloak :TANK_warden:; Igneous Weapons  :TankDK: ; Runic Sunder :Arc_TANK: ]*
+MT [Pearl/Yoln/Tremor]:  *[Frost Cloak :TANK_warden:; Igneous Weapons  :TankDK: ; Runic Sunder :Arc_TANK: ]*
 OT [Sax/WM/AD]:  *[Charged Atronach :TANKsorc: ]*
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 **HEAD STACK**
@@ -233,7 +233,7 @@ Your Local Time:
 
 **Addons**: HowTo Kynes, Crutch Alerts, Ody's Support Icons, Hodors
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-MT [Pearl/Yoln/Naz]: *[Frost Cloak :TANK_warden:; Igneous Weapons  :TankDK:; Runic Sunder :Arc_TANK: ]*
+MT [Pearl/Yoln/Tremor]: *[Frost Cloak :TANK_warden:; Igneous Weapons  :TankDK:; Runic Sunder :Arc_TANK: ]*
 OT [Sax/WM/AD] (Guard): *[Charged Atronach :TANKsorc: ]* 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 H [SPC/PP/Pearls/Potentates]:  *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Evolving Runemend :arc_heal:; Barrier ]*
