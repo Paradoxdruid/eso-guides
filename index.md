@@ -17,7 +17,7 @@ See [Guiding Principles](#guiding-principles) and [Buff Calculations](#buff-calc
 | **Main Tank** | Winter's Embrace (Warden), Soldier of Apocrypha (Arcanist), Earthern Heart (Dragonknight) | [MT skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=28,139,26,211,33,419,206,270,430,288,136,408) | TT/Yolna/Tremor or Naz | Can use Inner Rage instead of Runic Sunder<br>Typical Ult: Aggressive Horn |
 | **Off Tank** | Daedric Summoning (Sorcerer), Bone Tyrant (Necromancer), Siphoning (Nightblade) |  [OT skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=152,359,403,218,223,419,221,270,430,288,69,145) | Pearl/Lucent/AD, Pearl/PA/AD | Use Powerful Assault set instead of Lucent if team is all in meta setups<br>Typical Ult: Charged Atronach |
 | **MAPA Healer** | Siphoning (Nightblade), Restoring Light (Templar), Gravelord (Necromancer) |  [MAPA skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=319,412,406,323,64,419,385,270,104,102,398,228) | MA/PA/Spaulder or Ozezan | Typical Ult: Glacial Colossus |
-| **SPC/PA Healer** | Green Balance (Warden), Siphoning (Nightblade), Curative Runeforms (Arcanist) | [SPC skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=319,412,320,323,64,60,196,270,406,431,3,419) | SPC (5 body)/PA (FB staff, ring, 2 body)/Pearls/Potentates (ring + BB staff) | Role is to reduce ult cost and spam Barrier on cooldown<br>Typical Ult: Barrier |
+| **SPC/MA Healer** | Green Balance (Warden), Siphoning (Nightblade), Curative Runeforms (Arcanist) | [SPC skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=319,431,320,323,64,60,196,270,406,412,3,419) | SPC (5 body)/MA (FB staff, ring, 2 body)/Pearls/Potentates (ring + BB staff) | Role is to reduce ult cost and spam Barrier on cooldown<br>Typical Ult: Barrier |
 
 <!-- Table inside collapsed section broken in leapDay theme?
 <details>
@@ -168,7 +168,7 @@ Portal Tank 2 [Sax/PA/Naz]: Steed Mundus - Ele Sus Z'Maja/Crystals:  *[Igneous W
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 Healers
 R Group Healer: [MA/PA/Spaulder or Ozezan]:  *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Glacial Colossus :HEAL_necro: ; Healthy Offering :HEAL_NB: ]*
-L Kite Healer: [SPC/PA/Pearls/Potentates] (Ele Sus Grapes):  *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Evolving Runemend :arc_heal:; Barrier ]*
+L Kite Healer: [SPC/MA/Pearls/Potentates] (Ele Sus Grapes):  *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Evolving Runemend :arc_heal:; Barrier ]*
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 PORTAL 1
 L DPS CW: 
@@ -198,7 +198,7 @@ MT [TT/Yoln/Naz]:  *[Frost Cloak :TANK_warden:; Igneous Weapons  :TankDK: ; Runi
 OT [Pearl/Lucent/AD]:  *[Charged Atronach :TANKsorc: ]*
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 **HEAD STACK**
-Tomb H [SPC/PA/Pearls/Potentates]:  *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Evolving Runemend :arc_heal:; Barrier ]*
+Tomb H [SPC/MA/Pearls/Potentates]:  *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Evolving Runemend :arc_heal:; Barrier ]*
 1: [Z'en]
 2: 
 3: 
@@ -236,7 +236,7 @@ Your Local Time:
 MT [TT/Yoln/Naz]: *[Frost Cloak :TANK_warden:; Igneous Weapons  :TankDK:; Runic Sunder :Arc_TANK: ]*
 OT [Pearl/Lucent/AD] (Guard): *[Charged Atronach :TANKsorc: ]* 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-H [SPC/PA/Pearls/Potentates]:  *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Evolving Runemend :arc_heal:; Barrier ]*
+H [SPC/MA/Pearls/Potentates]:  *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Evolving Runemend :arc_heal:; Barrier ]*
 H [MA/PA/Spaulder or Ozezan]:  *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Glacial Colossus :HEAL_necro: ; Healthy Offering :HEAL_NB: ]* 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 M1 [Z'en]:  
@@ -266,7 +266,7 @@ Your Local Time:
 MT: [Crimson/Yoln/Naz]: *[Frost Cloak :TANK_warden:;  Igneous Weapons :TankDK: ]*
 OT: [Pearl/Lucent/Spaulder] (Lord Warden on Bahsei): *[Summoning Armor :TANK_necro: ; Charged Atronach :TANK_sorc: ]*
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-KH: [SPC/PA/Pearls/Potentates]:  *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Evolving Runemend :arc_heal:; Barrier ]*
+KH: [SPC/MA/Pearls/Potentates]:  *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Evolving Runemend :arc_heal:; Barrier ]*
 GH: [MA/PA/Spaulder or Ozezan]:  *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Glacial Colossus :HEAL_necro: ; Healthy Offering :HEAL_NB: ]* 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 DPS: [Zen] 
@@ -294,7 +294,7 @@ Your Local Time:
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 **RIGHT STACK**
 MT [Yoln/Crimson/Naz]: *[Frost Cloak :TANK_warden:; Igneous Weapons  :TankDK: ]*
-H [SPC/PA/Pearls/Potentates]:  *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Evolving Runemend :arc_heal:; Barrier ]*
+H [SPC/MA/Pearls/Potentates]:  *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Evolving Runemend :arc_heal:; Barrier ]*
 M1 top right: 
 M2 bottom right: 
 M3 dome swap:  
@@ -337,7 +337,7 @@ MT [Yoln/Crimson/Naz]: *[Frost Cloak :TANK_warden: ; Igneous Weapons  :TankDK: ]
 OT [Pearl/Lucent/AD]: *[Charged Atronach :TANKsorc: ]* 
 
 H1 [MA/PA/Spaulder or Ozezan]:  *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Glacial Colossus :HEAL_necro: ; Healthy Offering :HEAL_NB: ]* 
-H2 [SPC/PA/Pearls/Potentates]:  *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Evolving Runemend :arc_heal:; Barrier ]*
+H2 [SPC/MA/Pearls/Potentates]:  *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Evolving Runemend :arc_heal:; Barrier ]*
 
 1 [Z'en]:
 2: 
@@ -363,7 +363,7 @@ Your Local Time:
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 **GARGOYLE**
 MT [Yoln/Crimson/Naz]: *[Frost Cloak :TANK_warden: ; Igneous Weapons  :TankDK: ]*
-(W 90 /S 60) H1: [SPC/PA/Pearls/Potentates]:  *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Evolving Runemend :arc_heal:; Barrier ]*
+(W 90 /S 60) H1: [SPC/MA/Pearls/Potentates]:  *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Evolving Runemend :arc_heal:; Barrier ]*
 
 S DPS: 
 SW DPS: 
