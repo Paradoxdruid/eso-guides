@@ -14,7 +14,7 @@ See [Guiding Principles](#guiding-principles) and [Buff Calculations](#buff-calc
 
 | Role | Class Lines | Skill Bar Links | Typical Sets | Notes |
 | ---- | ----------- | --------------- | ------------ | ----- |
-| **Main Tank** | Winter's Embrace (Warden), Soldier of Apocrypha (Arcanist), Earthern Heart (Dragonknight) | [MT skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=28,139,26,211,33,419,206,270,430,288,136,408) | Pearl/Yolna/Tremor, Crimson/Yolna/Naz | Can use Inner Rage instead of Runic Sunder<br>Typical Ult: Aggressive Horn |
+| **Main Tank** | Winter's Embrace (Warden), Soldier of Apocrypha (Arcanist), Earthern Heart (Dragonknight) | [MT skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=28,139,26,211,33,419,206,270,430,288,136,408) | Pearl/Yolna/Tremor, Crimson/Yolna/Naz | Can use Runic Sunder instead of Inner Rage for increased penetration<br>Typical Ult: Aggressive Horn |
 | **Off Tank** | Daedric Summoning (Sorcerer), Bone Tyrant (Necromancer), Siphoning (Nightblade) |  [OT skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=152,359,403,218,223,419,221,270,430,288,69,145) | Sax/WM/AD, Sax/Pearl/AD, Sax/Lucent/AD |  Typical Ult: Charged Atronach |
 | **MA/PA Healer** | Siphoning (Nightblade), Restoring Light (Templar), Gravelord (Necromancer) |  [MAPA skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=319,412,406,323,64,419,385,270,104,102,398,228) | MA/PA/Spaulder or Ozezan | Typical Ult: Glacial Colossus |
 | **SPC/(PP or MA) Healer** | Green Balance (Warden), Siphoning (Nightblade), Curative Runeforms (Arcanist) | [SPC skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=319,431,320,323,64,60,196,270,406,412,3,419) | SPC (FB staff, ring, 2 body)/PP or MA (5 body)/Pearls/Potentates (ring + BB staff) | Role is to reduce ult cost and spam Barrier on cooldown<br>Typical Ult: Barrier |
@@ -24,12 +24,10 @@ See [Guiding Principles](#guiding-principles) and [Buff Calculations](#buff-calc
 
 <summary>Support loadout skills details</summary>
 
-| Role | Skills |
-| ---- | ------ |
-| **MT** | **FB:** Impervious Runeward, Igneous Shield, Runic Sunder, Polar Wind, Runegaurd of Still Waters, Replenishing Barrier<br>**BB:** Expansive Frost Cloak, Elemental Blockade, Leashing Soul, Elemental Susceptibility, Igneous Weapons, Aggressive Horn |
-| **OT** | **FB:** Hardened Ward, Exhilarating Drain, Inner Rage, Hungry Scythe, Necrotic Potency, Replenishing Barrier<br>**BB:** Summoning Armor, Elemental Blockade, Leashing Soul, Elemental Susceptibility, Siphoning Attacks, Charged Atronach |
-| **ROJO Healer** | **FB:** Illustrious Healing, Echoing Vigor, Energy Orb, Combat Prayer, Healthy Offering, Replenishing Barrier<br>**BB:** Warding Contingency, Elemental Blockade, Extended Ritual, Radiant Aura, Overflowing Altar, Aggressive Horn |
-| **SPC/PP Healer** | **FB:** Illustrious Healing, Healing Burst, Radiating Regeneration, Combat Prayer, Healthy Offering, Replenishing Barrier<br>**BB:** Budding Seeds, Elemental Blockade, Energy Orb, Echoing Vigor, Trample, Glacial Colossus |
+* **MT**: *FB:* Impervious Runeward, Igneous Shield, Runic Sunder, Polar Wind, Runegaurd of Still Waters, Replenishing Barrier; *BB:* Expansive Frost Cloak, Elemental Blockade, Leashing Soul, Elemental Susceptibility, Igneous Weapons, Aggressive Horn
+* **OT**: *FB:* Hardened Ward, Exhilarating Drain, Inner Rage, Hungry Scythe, Necrotic Potency, Replenishing Barrier; *BB:* Summoning Armor, Elemental Blockade, Leashing Soul, Elemental Susceptibility, Siphoning Attacks, Charged Atronach
+* **MAPA Healer**:  *FB:* Illustrious Healing, Echoing Vigor, Energy Orb, Combat Prayer, Healthy Offering, Replenishing Barrier; *BB:* Warding Contingency, Elemental Blockade, Extended Ritual, Radiant Aura, Overflowing Altar, Aggressive Horn
+* **SPC Healer**:  *FB:* Illustrious Healing, Healing Burst, Radiating Regeneration, Combat Prayer, Healthy Offering, Replenishing Barrier; *BB:* Budding Seeds, Elemental Blockade, Energy Orb, Echoing Vigor, Trample, Glacial Colossus
  
 </details>
 -->
@@ -38,7 +36,7 @@ See [Guiding Principles](#guiding-principles) and [Buff Calculations](#buff-calc
 
 | Type | Class Lines | Skill Bar Links | Typical Sets | Notes |
 | ---- | ----------- | --------------- | ------------ | ----- |
-| **Meta Beam Arcanist** | Herald of the Tome (Arcanist), Assassination (Nightblade), Aedric Spear (Templar) | [Beam skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=299,370,18,16,429,36,20,274,22,47,429,12) | Null Arca/Deadly Strikes/Velothi/Maelstrom Inferno (or Maelstrom Greatsword) | Aedric Spear is for passives only, can easily swap to Gravelord, Ardent Flame, Dawn's Wrath or others |
+| **Meta Beam Arcanist** | Herald of the Tome (Arcanist), Assassination (Nightblade), Aedric Spear (Templar) | [Beam skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=299,370,18,16,429,36,20,274,22,47,429,12) | Null Arca/Deadly Strikes/Velothi/Maelstrom Inferno (or Maelstrom Greatsword) | Aedric Spear is for passives only, can easily swap to Gravelord, Ardent Flame, Dawn's Wrath or others<br>For increased Crit damage, slot [Spear FB](https://sheumais.github.io/esoskillbarbuilder/?skills=299,81,18,16,429,36,20,274,22,47,429,12) |
 | **Blastbones Necro** | Gravelord (Necromancer), Assassination (Nightblade), Aedric Spear (Templar) | [Necro skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=231,234,232,238,429,36,237,334,336,47,429,228) | Corpseburster/Null Arca/Velthi/Maelstrom Greatsword | Aedric Spear is for passives only, can easily swap to Ardent Flame, Dawn's Wrath, Animal Companions, or others |
 | **Non-Beam Nightblade** | Assassination (Nightblade), Herald of the Tome (Arcanist), Stormcalling (Sorcerer) | [NB skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=43,39,46,19,429,36,173,20,334,372,429,12) | Null Arca/Tideborn/Velothi/Maelstrom Greatsword | Lots of flexibility with Stormcalling line for others |
 | **Zen DK** |  Ardent Flame (Dragonknight), Dawn's Wrath (Templar), Assassination (Nightblade) | [DK skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=43,372,113,111,114,36,47,119,334,380,87,109) | Z'en's Redress/Null Arca/Velothi/Maelstrom Greatsword or Inferno Staff | Lots of line flexibility |
@@ -60,10 +58,10 @@ Your Local Time:
 **Addons**: Crutch Alerts, Ody's Support Icons, Hodors (for supports)
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-MT [Pearl/Yoln/Tremor]: *[Frost Cloak :TANK_warden:; Igneous Weapons  :TankDK:; Runic Sunder :Arc_TANK: ]*
+MT [Pearl/Yoln/Tremor]: *[Frost Cloak :TANK_warden:; Igneous Weapons  :TankDK: ]*
 OT [Sax/WM/AD]:  *[Charged Atronach :TANKsorc: ]* 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-H [SPC/PP/Pearls/Potentates]:  *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Evolving Runemend :arc_heal:; Barrier ]*
+H [SPC/PP/Pearls/Potentates]:  *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Barrier ]*
 H [MA/PA/Spaulder or Ozezan]:  *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Glacial Colossus :HEAL_necro: ; Healthy Offering :HEAL_NB: ]*
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 M1: [Z'en]
@@ -104,7 +102,7 @@ DPS:
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 **LEFT STACK (Reducer)**
 OT [Pearl/Sax/Nunatak] (Purge for First Boss): *[Charged Atronach :TANKsorc:  ]*
-H [SPC/MA/Pearls/Potentates] (Purge):  *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Evolving Runemend :arc_heal:; Barrier ]*
+H [SPC/MA/Pearls/Potentates] (Purge):  *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Barrier ]*
 DPS: 
 DPS:
 DPS:
@@ -135,7 +133,7 @@ Your Local Time:
 MT [Crimson/Yoln/Naz]  *[Frost Cloak :TANK_warden:; Igneous Weapons :TankDK: ]*
 OT [Sax/Pearl/Spaulder] *[Charged Atronach :TANKsorc:  ]*
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-GH [SPC/MA] *[Budding Seeds :HEAL_warden:; Healthy Offering :HEAL_NB:; Evolving Runemend :arc_heal:; Barrier ]*
+GH [SPC/MA] *[Budding Seeds :HEAL_warden:; Healthy Offering :HEAL_NB:; Barrier ]*
 FK [Zen/MA/AD]  *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Healthy Offering :HEAL_NB: ; Glacial Colossus :HEAL_necro: ]*
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 L1:  *[ Pragmatic Fatecarver :Arc_STAM: ]*
@@ -168,7 +166,7 @@ Portal Tank 2 [Sax/Pearl/Naz]: Steed Mundus - Ele Sus Z'Maja/Crystals:  *[Igneou
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 Healers
 R Group Healer: [MA/PA/Spaulder or Ozezan]:  *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Glacial Colossus :HEAL_necro: ; Healthy Offering :HEAL_NB: ]*
-L Kite Healer: [SPC/MA/Pearls/Potentates] (Ele Sus Grapes):  *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Evolving Runemend :arc_heal:; Barrier ]*
+L Kite Healer: [SPC/MA/Pearls/Potentates] (Ele Sus Grapes):  *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Barrier ]*
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 PORTAL 1
 L DPS CW: 
@@ -194,11 +192,11 @@ Your Local Time:
 **Addons**: HowTo Sunspire, Crutch Alerts, Ody's Support Icons, Hodors
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-MT [Pearl/Yoln/Tremor]:  *[Frost Cloak :TANK_warden:; Igneous Weapons  :TankDK: ; Runic Sunder :Arc_TANK: ]*
+MT [Pearl/Yoln/Tremor]:  *[Frost Cloak :TANK_warden:; Igneous Weapons  :TankDK:  ]*
 OT [Sax/WM/AD]:  *[Charged Atronach :TANKsorc: ]*
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 **HEAD STACK**
-Tomb H [SPC/PP/Pearls/Potentates]:  *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Evolving Runemend :arc_heal:; Barrier ]*
+Tomb H [SPC/PP/Pearls/Potentates]:  *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Barrier ]*
 1: [Z'en]
 2: 
 3: 
@@ -233,10 +231,10 @@ Your Local Time:
 
 **Addons**: HowTo Kynes, Crutch Alerts, Ody's Support Icons, Hodors
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-MT [Pearl/Yoln/Tremor]: *[Frost Cloak :TANK_warden:; Igneous Weapons  :TankDK:; Runic Sunder :Arc_TANK: ]*
+MT [Pearl/Yoln/Tremor]: *[Frost Cloak :TANK_warden:; Igneous Weapons  :TankDK: ]*
 OT [Sax/WM/AD] (Guard): *[Charged Atronach :TANKsorc: ]* 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-H [SPC/PP/Pearls/Potentates]:  *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Evolving Runemend :arc_heal:; Barrier ]*
+H [SPC/PP/Pearls/Potentates]:  *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Barrier ]*
 H [MA/PA/Spaulder or Ozezan]:  *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Glacial Colossus :HEAL_necro: ; Healthy Offering :HEAL_NB: ]* 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 M1 [Z'en]:  
@@ -266,7 +264,7 @@ Your Local Time:
 MT: [Crimson/Yoln/Naz]: *[Frost Cloak :TANK_warden:;  Igneous Weapons :TankDK: ]*
 OT: [Pearl/Sax/Spaulder] (Lord Warden on Bahsei): *[Summoning Armor :TANK_necro: ; Charged Atronach :TANK_sorc: ]*
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-KH: [SPC/MA/Pearls/Potentates]:  *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Evolving Runemend :arc_heal:; Barrier ]*
+KH: [SPC/MA/Pearls/Potentates]:  *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Barrier ]*
 GH: [MA/PA/Spaulder or Ozezan]:  *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Glacial Colossus :HEAL_necro: ; Healthy Offering :HEAL_NB: ]* 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 DPS: [Zen] 
@@ -294,7 +292,7 @@ Your Local Time:
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 **RIGHT STACK**
 MT [Yoln/Crimson/Naz]: *[Frost Cloak :TANK_warden:; Igneous Weapons  :TankDK: ]*
-H [SPC/MA/Pearls/Potentates]:  *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Evolving Runemend :arc_heal:; Barrier ]*
+H [SPC/MA/Pearls/Potentates]:  *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:;  Barrier ]*
 M1 top right: 
 M2 bottom right: 
 M3 dome swap:  
@@ -337,7 +335,7 @@ MT [Yoln/Crimson/Naz]: *[Frost Cloak :TANK_warden: ; Igneous Weapons  :TankDK: ]
 OT [Pearl/Sax/AD]: *[Charged Atronach :TANKsorc: ]* 
 
 H1 [MA/PA/Spaulder or Ozezan]:  *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Glacial Colossus :HEAL_necro: ; Healthy Offering :HEAL_NB: ]* 
-H2 [SPC/MA/Pearls/Potentates]:  *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Evolving Runemend :arc_heal:; Barrier ]*
+H2 [SPC/MA/Pearls/Potentates]:  *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Barrier ]*
 
 1 [Z'en]:
 2: 
@@ -363,7 +361,7 @@ Your Local Time:
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 **GARGOYLE**
 MT [Yoln/Crimson/Naz]: *[Frost Cloak :TANK_warden: ; Igneous Weapons  :TankDK: ]*
-(W 90 /S 60) H1: [SPC/MA/Pearls/Potentates]:  *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Evolving Runemend :arc_heal:; Barrier ]*
+(W 90 /S 60) H1: [SPC/MA/Pearls/Potentates]:  *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Barrier ]*
 
 S DPS: 
 SW DPS: 
@@ -431,6 +429,7 @@ Knot:
 
 ## Changelog
 
+* 2025-05-15: Fixed Tank mentions of required Runic Sunder.  Added note that Beam arcs can slot spear for increased crit damage.
 * 2025-05-14: Adjusted Healer roles and sets to reflect the ability to spam Barrier and maximize Major Slayer uptimes.  Swapped Tank sets for Sax and no TT.
 * 2025-05-13: Added Buff calculations to explain why certain sets aren't needed; added explanation of Yolnakriin meta.  Changed skill layouts to table form to include notes.
 * 2025-05-12: Moved Glacial Colossus to SPC Healer; kept Reaving Blows CP requirement only for vAS; revised MT and OT lines to move Winter's Embrace to MT and add Siphoning to OT
