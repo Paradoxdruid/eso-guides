@@ -4,7 +4,7 @@
 
 These represent Paradoxdruid's best attempt at capturing the mid-tier meta for U46 (groups who regularly do vet and some vet HM content; not trifecta progs or scorepushing attempts). 
 
-**Wait, you've got it all wrong!**  Yeah, maybe I do, that's totally fair.  And in any case, there's lots of goos approaches and strategies, and not a one-size-fits-all approach that will always apply.  I added a brief discussion of [Other Approaches](#other-approaches) towards the end of the document, to point out a few other common thoughts, and why I'm not currently recommending them.  
+**Wait, you've got it all wrong!**  Yeah, maybe I do, that's totally fair.  And in any case, there's lots of good approaches and strategies, and not a one-size-fits-all approach that will always apply.  I added a brief discussion of [Other Approaches](#other-approaches) towards the end of the document, to point out a few other common thoughts, and why I'm not currently recommending them for mid-tier groups.  
 
 Thanks for all the feedback I've received to date!
 
