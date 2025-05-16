@@ -1,8 +1,12 @@
 # Paradoxdruid's ESO Guides
 
-*This is a work in progess; last updated 2025-05-14*
+*This is a work in progess; last updated 2025-05-16*
 
 These represent Paradoxdruid's best attempt at capturing the mid-tier meta for U46 (groups who regularly do vet and some vet HM content; not trifecta progs or scorepushing attempts). 
+
+**Wait, you've got it all wrong!**  Yeah, maybe I do, that's totally fair.  And in any case, there's lots of goos approaches and strategies, and not a one-size-fits-all approach that will always apply.  I added a brief discussion of [Other Approaches](#other-approaches) towards the end of the document, to point out a few other common thoughts, and why I'm not currently recommending them.  
+
+Thanks for all the feedback I've received to date!
 
 ---------------------------------------
 
@@ -15,9 +19,9 @@ See [Guiding Principles](#guiding-principles) and [Buff Calculations](#buff-calc
 | Role | Class Lines | Skill Bar Links | Typical Sets | Notes |
 | ---- | ----------- | --------------- | ------------ | ----- |
 | **Main Tank** | Winter's Embrace (Warden), Soldier of Apocrypha (Arcanist), Earthern Heart (Dragonknight) | [MT skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=28,139,26,211,33,419,206,270,430,288,136,408) | Pearl/Yolna/Tremor, Crimson/Yolna/Naz | Can use Runic Sunder instead of Inner Rage for increased penetration<br>Typical Ult: Aggressive Horn |
-| **Off Tank** | Daedric Summoning (Sorcerer), Bone Tyrant (Necromancer), Siphoning (Nightblade) |  [OT skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=152,359,403,218,223,419,221,270,430,288,69,145) | Sax/WM/AD, Sax/Pearl/AD, Sax/Lucent/AD |  Typical Ult: Charged Atronach |
-| **MA/PA Healer** | Siphoning (Nightblade), Restoring Light (Templar), Gravelord (Necromancer) |  [MAPA skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=319,412,406,323,64,419,385,270,104,102,398,228) | MA/PA/Spaulder or Ozezan | Typical Ult: Glacial Colossus |
-| **SPC/(PP or MA) Healer** | Green Balance (Warden), Siphoning (Nightblade), Curative Runeforms (Arcanist) | [SPC skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=319,431,320,323,64,60,196,270,406,412,3,419) | SPC (FB staff, ring, 2 body)/PP or MA (5 body)/Pearls/Potentates (ring + BB staff) | Role is to reduce ult cost and spam Barrier on cooldown<br>Typical Ult: Barrier |
+| **Off Tank** | Daedric Summoning (Sorcerer), Bone Tyrant (Necromancer), Siphoning (Nightblade) |  [OT skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=152,359,403,218,223,419,221,270,430,415,69,145) | Sax/PA/AD, Sax/Pearl/AD, Sax/Lucent/AD |  Typical Ult: Charged Atronach |
+| **MA/JO Healer** | Siphoning (Nightblade), Restoring Light (Templar), Gravelord (Necromancer) |  [MAPA skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=319,412,406,323,64,419,385,270,104,102,398,228) | MA/JO/Spaulder or Ozezan, MA/PA/Spaulder or Ozezan | Typical Ult: Glacial Colossus |
+| **SPC/MA (or PP) Healer** | Green Balance (Warden), Siphoning (Nightblade), Curative Runeforms (Arcanist) | [SPC skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=319,431,320,323,64,60,196,270,406,412,3,419) | SPC (FB staff, ring, 2 body)/MA (or PP) (5 body)/Pearls/Potentates (ring + BB staff) | Role is to reduce ult cost and spam Barrier on cooldown<br>Typical Ult: Barrier |
 
 <!-- Table inside collapsed section broken in leapDay theme?
 <details>
@@ -59,10 +63,10 @@ Your Local Time:
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 MT [Pearl/Yoln/Tremor]: *[Frost Cloak :TANK_warden:; Igneous Weapons  :TankDK: ]*
-OT [Sax/WM/AD]:  *[Charged Atronach :TANKsorc: ]* 
+OT [Sax/PA/AD]:  *[Charged Atronach :TANKsorc: ]* 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-H [SPC/PP/Pearls/Potentates]:  *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Barrier ]*
-H [MA/PA/Spaulder or Ozezan]:  *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Glacial Colossus :HEAL_necro: ; Healthy Offering :HEAL_NB: ]*
+H [SPC/MA/Pearls/Potentates]:  *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Barrier ]*
+H [MA/JO/Spaulder or Ozezan]:  *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Glacial Colossus :HEAL_necro: ; Healthy Offering :HEAL_NB: ]*
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 M1: [Z'en]
 M2: [MK]
@@ -101,7 +105,7 @@ DPS:
 DPS:
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 **LEFT STACK (Reducer)**
-OT [Pearl/Sax/Nunatak] (Purge for First Boss): *[Charged Atronach :TANKsorc:  ]*
+OT [Sax/Pearl/Nunatak] (Purge for First Boss): *[Charged Atronach :TANKsorc:  ]*
 H [SPC/MA/Pearls/Potentates] (Purge):  *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Barrier ]*
 DPS: 
 DPS:
@@ -193,17 +197,17 @@ Your Local Time:
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 MT [Pearl/Yoln/Tremor]:  *[Frost Cloak :TANK_warden:; Igneous Weapons  :TankDK:  ]*
-OT [Sax/WM/AD]:  *[Charged Atronach :TANKsorc: ]*
+OT [Sax/PA/AD]:  *[Charged Atronach :TANKsorc: ]*
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 **HEAD STACK**
-Tomb H [SPC/PP/Pearls/Potentates]:  *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Barrier ]*
+Tomb H [SPC/MA/Pearls/Potentates]:  *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Barrier ]*
 1: [Z'en]
 2: 
 3: 
 4:
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 **WING STACK**
-GH [MA/PA/Spaulder or Ozezan]:  *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Glacial Colossus :HEAL_necro: ; Healthy Offering :HEAL_NB: ]*
+GH [MA/JO/Spaulder or Ozezan]:  *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Glacial Colossus :HEAL_necro: ; Healthy Offering :HEAL_NB: ]*
 5: 
 6:
 7:
@@ -232,10 +236,10 @@ Your Local Time:
 **Addons**: HowTo Kynes, Crutch Alerts, Ody's Support Icons, Hodors
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 MT [Pearl/Yoln/Tremor]: *[Frost Cloak :TANK_warden:; Igneous Weapons  :TankDK: ]*
-OT [Sax/WM/AD] (Guard): *[Charged Atronach :TANKsorc: ]* 
+OT [Sax/PA/AD] (Guard): *[Charged Atronach :TANKsorc: ]* 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-H [SPC/PP/Pearls/Potentates]:  *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Barrier ]*
-H [MA/PA/Spaulder or Ozezan]:  *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Glacial Colossus :HEAL_necro: ; Healthy Offering :HEAL_NB: ]* 
+H [SPC/MA/Pearls/Potentates]:  *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Barrier ]*
+H [MA/JO/Spaulder or Ozezan]:  *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Glacial Colossus :HEAL_necro: ; Healthy Offering :HEAL_NB: ]* 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 M1 [Z'en]:  
 M2 [MK]:   
@@ -426,9 +430,31 @@ Knot:
   * (optional Lucent Echoes 11%, if bad Major Force uptimes)
   * Overcap with no need for EC
 
+## Other Approaches
+
+* One likely approach is putting DPS players in Courage Banner; this means the Tank doesn't need to run Yolna.  **Why I don't recommend:**
+  *  In U46, there's less "must-have" tank sets, given the high crit damage and penetration.
+  *  Minor Heroism is difficult to source--  the best options are Banner or Heroism pots, and most mid-tier groups can't afford to pop Heroism pots on cooldown and/or are bad at constantly chugging potions in general.
+* What happened to ROJO?  **Why I don't recommend:**
+  * First off, ROJO is still a great setup, and there's nothing wrong with it, per se.
+  * But with the increased Ult generation available to healers, "spammable" ult sets and ults become more useful, allowing high uptimes just from ult generation.
+  * ROJO's major weakness--  requiring HAs that slow down casting.  These lower ult gen from ult-generating spammables and reduce raw casts available.
+* High-tier groups often run Berserk on the Banner.  They source other buffs; Savagery from potions and heroism from Torchbearer, for example.  **Why I don't recommend:**
+  * For mid-tier groups, "fire and forget" buffs, such as always-on Camo Hunter lead to substantially higher uptimes and don't require as much player skill and coordination to achieve good results.
+* Healers getting big Pillager ults has been the meta for a while.  **Why I don't recommend:**
+  * With the increased Ult generation available to healers in U46, "spammable" ult sets and ults become more useful, allowing high uptimes just from ult generation.
+  * Additionally, Pillagers was nerfed to 40% of it's former effectiveness, and the Pearls nerf reduces the ability to get those maximized pillager's ults.
+  * However, it's still a unique buff, and I'm sure it will still see use.
+* Why worry about Major Force?  Run Lucent Echoes and/or EC, have DPS players slot a spear ability, and you don't need Major Force at all.  **Why I don't recommend**:
+  * With the increased Ult generation available to Off Tanks in U46, "spammable" ult sets and ults become more useful, allowing high uptimes just from ult generation.  An OT in Sax can have very high Major Force uptimes, especially if MT runs Horn as well.
+  * Aggressive Horn remains a unique stat buff and is worthwhile even if major force is less required.
+  * Focusing on buffs with previously low uptimes, like Major Berserk from Atronach, will lead to higher group DPS.
+  * For mid-tier groups, we expect a range of preparedness and sets from players.  Reducing the need for EC, Lucent Echoes, etc makes the roster more accessible for less well geared-out players.
+
 
 ## Changelog
 
+* 2025-05-16: Added Other approaches section, fully gave up on Pillager's in suggested setups.
 * 2025-05-15: Fixed Tank mentions of required Runic Sunder.  Added note that Beam arcs can slot spear for increased crit damage.
 * 2025-05-14: Adjusted Healer roles and sets to reflect the ability to spam Barrier and maximize Major Slayer uptimes.  Swapped Tank sets for Sax and no TT.
 * 2025-05-13: Added Buff calculations to explain why certain sets aren't needed; added explanation of Yolnakriin meta.  Changed skill layouts to table form to include notes.
