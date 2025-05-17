@@ -1,6 +1,6 @@
 # Paradoxdruid's ESO Guides
 
-*This is a work in progess; last updated 2025-05-16*
+*This is a work in progess; last updated 2025-05-17*
 
 These represent Paradoxdruid's best attempt at capturing the mid-tier meta for U46 (groups who regularly do vet and some vet HM content; not trifecta progs or scorepushing attempts). 
 
@@ -20,8 +20,13 @@ See [Guiding Principles](#guiding-principles) and [Buff Calculations](#buff-calc
 | ---- | ----------- | --------------- | ------------ | ----- |
 | **Main Tank** | Winter's Embrace (Warden), Soldier of Apocrypha (Arcanist), Earthern Heart (Dragonknight) | [MT skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=28,139,26,211,33,419,206,270,430,288,136,408) | Pearl/Yolna/Tremor, Crimson/Yolna/Naz | Can use Runic Sunder instead of Inner Rage for increased penetration<br>Typical Ult: Aggressive Horn |
 | **Off Tank** | Daedric Summoning (Sorcerer), Bone Tyrant (Necromancer), Siphoning (Nightblade) |  [OT skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=152,359,403,218,223,419,221,270,430,415,69,145) | Sax/PA/AD, Sax/Pearl/AD, Sax/Lucent/AD |  Typical Ult: Charged Atronach |
-| **MA/JO Healer** | Siphoning (Nightblade), Restoring Light (Templar), Gravelord (Necromancer) |  [MAPA skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=319,412,406,323,64,419,385,270,104,102,398,228) | MA/JO/Spaulder or Ozezan, MA/PA/Spaulder or Ozezan | Typical Ult: Glacial Colossus |
+| **MA/Sax (or PA) Healer** | Siphoning (Nightblade), Restoring Light (Templar), Gravelord (Necromancer) |  [MA/Sax skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=319,412,406,323,64,419,385,270,104,102,398,228) | MA/Sax/Spaulder or Ozezan, MA/PA/Spaulder or Ozezan | Typical Ult: Glacial Colossus |
 | **SPC/MA (or PP) Healer** | Green Balance (Warden), Siphoning (Nightblade), Curative Runeforms (Arcanist) | [SPC skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=319,431,320,323,64,60,196,270,406,412,3,419) | SPC (FB staff, ring, 2 body)/MA (or PP) (5 body)/Pearls/Potentates (ring + BB staff) | Role is to reduce ult cost and spam Barrier on cooldown<br>Typical Ult: Barrier |
+
+**Scribed Skill Details** 
+* **Wield Soul on Tanks**: Pull, Druid's Resurgance, Cowardice
+* **Warding Contingency on Healers**: Damage Shield, Gladiator's Tenacity, Minor Protection
+* **Soul Burst on Healers**: Damage Shield, Anchorite's Potency, flex
 
 <!-- Table inside collapsed section broken in leapDay theme?
 <details>
@@ -66,7 +71,7 @@ MT [Pearl/Yoln/Tremor]: *[Frost Cloak :TANK_warden:; Igneous Weapons  :TankDK: ]
 OT [Sax/PA/AD]:  *[Charged Atronach :TANKsorc: ]* 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 H [SPC/MA/Pearls/Potentates]:  *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Barrier ]*
-H [MA/JO/Spaulder or Ozezan]:  *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Glacial Colossus :HEAL_necro: ; Healthy Offering :HEAL_NB: ]*
+H [MA/Sax/Spaulder or Ozezan]:  *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Glacial Colossus :HEAL_necro: ; Healthy Offering :HEAL_NB: ]*
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 M1: [Z'en]
 M2: [MK]
@@ -207,7 +212,7 @@ Tomb H [SPC/MA/Pearls/Potentates]:  *[Budding Seeds :HEAL_warden: ; Healthy Offe
 4:
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 **WING STACK**
-GH [MA/JO/Spaulder or Ozezan]:  *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Glacial Colossus :HEAL_necro: ; Healthy Offering :HEAL_NB: ]*
+GH [MA/Sax/Spaulder or Ozezan]:  *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Glacial Colossus :HEAL_necro: ; Healthy Offering :HEAL_NB: ]*
 5: 
 6:
 7:
@@ -239,7 +244,7 @@ MT [Pearl/Yoln/Tremor]: *[Frost Cloak :TANK_warden:; Igneous Weapons  :TankDK: ]
 OT [Sax/PA/AD] (Guard): *[Charged Atronach :TANKsorc: ]* 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 H [SPC/MA/Pearls/Potentates]:  *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Barrier ]*
-H [MA/JO/Spaulder or Ozezan]:  *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Glacial Colossus :HEAL_necro: ; Healthy Offering :HEAL_NB: ]* 
+H [MA/Sax/Spaulder or Ozezan]:  *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Glacial Colossus :HEAL_necro: ; Healthy Offering :HEAL_NB: ]* 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 M1 [Z'en]:  
 M2 [MK]:   
@@ -269,7 +274,7 @@ MT: [Crimson/Yoln/Naz]: *[Frost Cloak :TANK_warden:;  Igneous Weapons :TankDK: ]
 OT: [Pearl/Sax/Spaulder] (Lord Warden on Bahsei): *[Summoning Armor :TANK_necro: ; Charged Atronach :TANK_sorc: ]*
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 KH: [SPC/MA/Pearls/Potentates]:  *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Barrier ]*
-GH: [MA/PA/Spaulder or Ozezan]:  *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Glacial Colossus :HEAL_necro: ; Healthy Offering :HEAL_NB: ]* 
+GH: [MA/Sax/Spaulder or Ozezan]:  *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Glacial Colossus :HEAL_necro: ; Healthy Offering :HEAL_NB: ]* 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 DPS: [Zen] 
 DPS: (Guard): 
@@ -454,6 +459,7 @@ Knot:
 
 ## Changelog
 
+* 2025-05-17: Reverted usage of JO based on feedback, changed to Sax.  Added scribed skills per suggestions.
 * 2025-05-16: Added Other approaches section, fully gave up on Pillager's in suggested setups.
 * 2025-05-15: Fixed Tank mentions of required Runic Sunder.  Added note that Beam arcs can slot spear for increased crit damage.
 * 2025-05-14: Adjusted Healer roles and sets to reflect the ability to spam Barrier and maximize Major Slayer uptimes.  Swapped Tank sets for Sax and no TT.
