@@ -2,9 +2,9 @@
 
 *This is a work in progess; last updated 2025-05-19*
 
-These represent Paradoxdruid's best attempt at capturing the mid-tier meta for U46 (groups who regularly do vet and some vet HM content; not trifecta progs or scorepushing attempts). 
+These represent Paradoxdruid's best attempt at capturing the mid-tier meta for U46 (groups who regularly do vet and vet HM content; not trifecta progs or scorepushing attempts). 
 
-**Wait, you've got it all wrong!**  Yeah, maybe I do, that's totally fair.  And in any case, there's lots of good approaches and strategies, and not a one-size-fits-all approach that will always apply.  I added a brief discussion of [Other Approaches](#other-approaches) towards the end of the document, to point out a few other common thoughts, and why I'm not currently recommending them for mid-tier groups.  
+**Wait, you've got it all wrong!**  Yeah, maybe I do, that's totally fair.  And in any case, there's lots of good approaches and strategies, and not a one-size-fits-all approach that will always apply. See discussion of [Other Approaches](#other-approaches) towards the end of the document, to point out a few other common thoughts, and why I'm not currently recommending them for mid-tier groups.  
 
 Thanks for all the feedback I've received to date!
 
@@ -14,7 +14,13 @@ Thanks for all the feedback I've received to date!
 
 See [Guiding Principles](#guiding-principles) and [Buff Calculations](#buff-calculations) for explanations of set selections.
 
-## Example Support Loadouts
+**Approach and Assumptions**
+
+In this standard setup, we rely on most DPS being Arc/NB, and/or bringing Cro/Plar lines.  Because of this, Penetration and Crit Damage can be capped without some previously excellent support sets.  However, Minor Courage is difficult to source, so we put MT in Yolnakriin set.  Ultimate generation is also much easier with access to subclassing, so OT and both healers are focusing on spamming out heals as often as possible for high buff uptimes.
+
+Please look at [Other Approaches](#other-approaches) for a few other possible meta setups and discussion.
+
+## Support Loadouts
 
 | Role | Class Lines | Skill Bar Links | Typical Sets | Notes |
 | ---- | ----------- | --------------- | ------------ | ----- |
@@ -35,15 +41,15 @@ See [Guiding Principles](#guiding-principles) and [Buff Calculations](#buff-calc
 * **MAPA Healer**:  *FB:* Illustrious Healing, Extended Ritual, Energy Orb, Combat Prayer, Healthy Offering, Replenishing Barrier; *BB:* Warding Contingency, Elemental Blockade, Echoing Vigor, Radiant Aura, Overflowing Altar, Aggressive Horn
 * **SPC Healer**:  *FB:* Illustrious Healing, Warding Burst, Radiating Regeneration (flex), Combat Prayer, Healthy Offering, Replenishing Barrier; *BB:* Budding Seeds, Elemental Blockade, Energy Orb, Echoing Vigor, Evolving Runemend, Glacial Colossus
 
-## Example DPS Loadouts
+## DPS Loadouts
 
 | Type | Class Lines | Skill Bar Links | Typical Sets | Notes |
 | ---- | ----------- | --------------- | ------------ | ----- |
-| **Meta Beam Arcanist** | Herald of the Tome (Arcanist), Assassination (Nightblade), Aedric Spear (Templar) | [Beam skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=299,370,18,16,429,36,20,274,22,47,429,12) | Null Arca/Deadly Strikes/Velothi/Maelstrom Inferno (or Maelstrom Greatsword) | Aedric Spear is for passives only, can easily swap to Gravelord, Ardent Flame, Dawn's Wrath or others<br>For increased Crit damage, slot [Spear FB](https://sheumais.github.io/esoskillbarbuilder/?skills=299,81,18,16,429,36,20,274,22,47,429,12) |
-| **Blastbones Necro** | Gravelord (Necromancer), Assassination (Nightblade), Aedric Spear (Templar) | [Necro skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=231,234,232,238,429,36,237,334,336,47,429,228) | Corpseburster/Null Arca/Velthi/Maelstrom Greatsword | Aedric Spear is for passives only, can easily swap to Ardent Flame, Dawn's Wrath, Animal Companions, or others |
+| **Meta Beam Arcanist** | Herald of the Tome (Arcanist), Assassination (Nightblade), Aedric Spear (Templar) | [Beam skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=299,370,18,16,429,36,20,274,22,47,429,12) | Null Arca (or Whorl of the Depths)/Deadly Strikes/Velothi/Maelstrom Inferno (or Maelstrom Greatsword) | Aedric Spear is for passives only, can easily swap to Gravelord, Ardent Flame, Dawn's Wrath or others<br>For increased Crit damage, slot [Spear FB](https://sheumais.github.io/esoskillbarbuilder/?skills=299,81,18,16,429,36,20,274,22,47,429,12)<br>Ansuuls is also a good armor set |
+| **Blastbones Necro** | Gravelord (Necromancer), Assassination (Nightblade), Aedric Spear (Templar) | [Necro skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=231,234,232,238,429,36,237,334,336,47,429,228) | Corpseburster/Null Arca (or Depths, Ansuuls)/Velthi/Maelstrom Greatsword | Aedric Spear is for passives only, can easily swap to Ardent Flame, Dawn's Wrath, Animal Companions, or others |
 | **Non-Beam Nightblade** | Assassination (Nightblade), Herald of the Tome (Arcanist), Stormcalling (Sorcerer) | [NB skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=43,39,46,19,429,36,173,20,334,372,429,12) | Null Arca/Tideborn/Velothi/Maelstrom Greatsword | Lots of flexibility with Stormcalling line for others |
-| **Zen DK** |  Ardent Flame (Dragonknight), Dawn's Wrath (Templar), Assassination (Nightblade) | [DK skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=43,372,113,111,114,36,47,119,334,380,87,109) | Z'en's Redress/Null Arca/Velothi/Maelstrom Greatsword or Inferno Staff | Lots of line flexibility |
-| **Frost Focused** | Winter's Embrace (Warden), Herald of the Tome (Arcanist), Assassination (Nightblade) | [Frost skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=372,47,14,19,429,36,21,334,210,209,429,36) | Null Arca or Whorl of the Depths/Ice Furnace or Frostbite/Velothi/Maelstrom Ice Staff |  |
+| **Zen DK** |  Ardent Flame (Dragonknight), Dawn's Wrath (Templar), Assassination (Nightblade) | [DK skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=43,372,113,111,114,36,47,119,334,379,87,109) | Z'en's Redress/Null Arca (or Ansuuls)/Velothi/Maelstrom Greatsword or Inferno Staff | Lots of line flexibility |
+| **Frost Focused** | Winter's Embrace (Warden), Herald of the Tome (Arcanist), Assassination (Nightblade) | [Frost skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=372,47,14,19,429,36,21,334,210,209,429,36) | Whorl of the Depths/Ice Furnace or Frostbite/Velothi/Maelstrom Ice Staff |  |
 
 ----------------------------------------------
 
@@ -450,10 +456,14 @@ Knot:
   * Focusing on buffs with previously low uptimes, like Major Berserk from Atronach, will lead to higher group DPS.
   * For mid-tier groups, we expect a range of preparedness and sets from players.  Reducing the need for EC, Lucent Echoes, etc makes the roster more accessible for less well geared-out players.
 
+**Other meta setups, in brief:**
+
+* All/most supports in Bone Tyrant (Necromancer) for high ult gen in trash.  Move Winter's Embrace / Frost Cloak onto a Healer.
+* Running Courage on the Banner.  Tank drops Yolna.  Both Healers running Healing Burst with Anchorite's Potency for ult gen, and/or sourcing Minor Heroism from Heroism Potions.  Slayer Stacks become very important.  (Note that Soul Burst heals based on loading order into trial, so there's some shenanigans to optimie here).
 
 ## Changelog
 
-* 2025-05-19: Revised support skills and gear loadouts for clarity
+* 2025-05-19: Revised support skills and gear loadouts for clarity.  Added more discussin of other approaches and assumptions.
 * 2025-05-17: Reverted usage of JO based on feedback, changed to Sax.  Added scribed skills per suggestions.
 * 2025-05-16: Added Other approaches section, fully gave up on Pillager's in suggested setups.
 * 2025-05-15: Fixed Tank mentions of required Runic Sunder.  Added note that Beam arcs can slot spear for increased crit damage.
