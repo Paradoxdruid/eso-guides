@@ -28,16 +28,12 @@ See [Guiding Principles](#guiding-principles) and [Buff Calculations](#buff-calc
 * **Warding Contingency on Healers**: Damage Shield, Gladiator's Tenacity, Minor Protection
 * **Soul Burst on Healers**: Damage Shield, Anchorite's Potency, flex
 
-<details>
-
-<summary>Support loadout skills written</summary>
+**Support loadout skills**
 
 * **MT**: *FB:* Impervious Runeward, Igneous Shield, Inner Rage, Polar Wind, Runegaurd of Still Waters, Replenishing Barrier; *BB:* Expansive Frost Cloak, Elemental Blockade, Leashing Soul, Elemental Susceptibility, Igneous Weapons, Aggressive Horn
 * **OT**: *FB:* Hardened Ward, Braided Tether, Inner Rage, Hungry Scythe, Necrotic Potency, Replenishing Barrier; *BB:* Summoning Armor, Elemental Blockade, Leashing Soul, Elemental Susceptibility, Spirit Guardian, Charged Atronach
 * **MAPA Healer**:  *FB:* Illustrious Healing, Extended Ritual, Energy Orb, Combat Prayer, Healthy Offering, Replenishing Barrier; *BB:* Warding Contingency, Elemental Blockade, Echoing Vigor, Radiant Aura, Overflowing Altar, Aggressive Horn
 * **SPC Healer**:  *FB:* Illustrious Healing, Warding Burst, Radiating Regeneration (flex), Combat Prayer, Healthy Offering, Replenishing Barrier; *BB:* Budding Seeds, Elemental Blockade, Energy Orb, Echoing Vigor, Evolving Runemend, Glacial Colossus
- 
-</details>
 
 ## Example DPS Loadouts
 
