@@ -49,9 +49,9 @@ Please look at [Other Approaches](#other-approaches) for a few other possible me
 
 | Type | Class Lines | Skill Bar Links | Typical Sets | Notes |
 | ---- | ----------- | --------------- | ------------ | ----- |
-| **Meta Beam Arcanist** | Herald of the Tome (Arcanist), Assassination (Nightblade), Aedric Spear (Templar) | [Beam skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=299,370,18,16,429,36,20,274,22,47,429,12) | Null Arca (or Whorl of the Depths)/Deadly Strikes/Velothi/Maelstrom Inferno (or Maelstrom Greatsword) | Aedric Spear is for passives only, can easily swap to Gravelord, Ardent Flame, Dawn's Wrath or others<br>For increased Crit damage, slot [Spear FB](https://sheumais.github.io/esoskillbarbuilder/?skills=299,81,18,16,429,36,20,274,22,47,429,12)<br>Ansuuls is also a good armor set |
-| **Blastbones Necro** | Gravelord (Necromancer), Assassination (Nightblade), Aedric Spear (Templar) | [Necro skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=231,234,232,238,429,36,237,334,336,47,429,228) | Corpseburster/Null Arca (or Depths, Ansuuls)/Velthi/Maelstrom Greatsword | Aedric Spear is for passives only, can easily swap to Ardent Flame, Dawn's Wrath, Animal Companions, or others |
-| **Non-Beam Nightblade** | Assassination (Nightblade), Herald of the Tome (Arcanist), Stormcalling (Sorcerer) | [NB skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=43,39,46,19,429,36,173,20,334,372,429,12) | Null Arca/Tideborn/Velothi/Maelstrom Greatsword | Lots of flexibility with Stormcalling line for others |
+| **Meta Beam Arcanist** | Herald of the Tome (Arcanist), Assassination (Nightblade), Aedric Spear (Templar) | [Beam skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=299,370,18,16,429,36,20,274,22,47,429,12) | Null Arca (or Whorl of the Depths)/Deadly Strikes/Velothi/Maelstrom Inferno (or Maelstrom Greatsword) | • Aedric Spear is for passives only, can easily swap to Gravelord, Ardent Flame, Dawn's Wrath or others<br>• For increased Crit damage, slot [Spear FB](https://sheumais.github.io/esoskillbarbuilder/?skills=299,81,18,16,429,36,20,274,22,47,429,12)<br>• Ansuuls is also a good armor set |
+| **Blastbones Necro** | Gravelord (Necromancer), Assassination (Nightblade), Aedric Spear (Templar) | [Necro skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=231,234,232,238,429,36,237,334,336,47,429,228) | Corpseburster/Null Arca (or Depths, Ansuuls)/Velthi/Maelstrom Greatsword | • Aedric Spear is for passives only, can easily swap to Ardent Flame, Dawn's Wrath, Animal Companions, or others |
+| **Non-Beam Nightblade** | Assassination (Nightblade), Herald of the Tome (Arcanist), Stormcalling (Sorcerer) | [NB skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=43,39,46,19,429,36,173,20,334,372,429,12) | Null Arca/Tideborn/Velothi/Maelstrom Greatsword | • Lots of flexibility with Stormcalling line for others |
 | **Frost Focused** | Winter's Embrace (Warden), Herald of the Tome (Arcanist), Assassination (Nightblade) | [Frost skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=372,47,14,19,429,36,21,334,210,209,429,36) | Whorl of the Depths/Ice Furnace or Frostbite/Velothi/Maelstrom Ice Staff |  |
 
 ----------------------------------------------
@@ -76,8 +76,8 @@ OT [Sax/PA/AD]:  *[Charged Atronach :TANKsorc: ]*
 H [SPC/MA/Pearls/Potentates]:  *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Barrier ]*
 H [MA/Sax/Spaulder or Ozezan]:  *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Glacial Colossus :HEAL_necro: ; Healthy Offering :HEAL_NB: ]*
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-M1: [Z'en]
-M2: [MK]
+M1: [Z'en/MK] *[Traveling Knife ]*
+M2: 
 M3:
 M4:
 R1:
@@ -107,7 +107,7 @@ Your Local Time:
 **RIGHT STACK (Reactor)**
 MT [Yoln/Crimson/Naz] (Purge for first boss): *[Frost Cloak :TANK_warden:; Igneous Weapons :TankDK: ]*
 H [MA/PA/Spaulder or Ozezan] (Purge):  *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Glacial Colossus :HEAL_necro: ; Healthy Offering :HEAL_NB: ]*
-DPS: [Z'en]
+DPS: [Z'en/MK] *[Traveling Knife ]*
 DPS:
 DPS:
 DPS:
@@ -188,7 +188,7 @@ PORTAL 2
 L DPS CW:
 L DPS CCW: 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-R BACKUP PORTAL 1 DPS [Z’en]: 
+R BACKUP PORTAL 1 DPS [Z'en/MK]: *[Traveling Knife ]* 
 R BACKUP PORTAL 2 DPS: 
 R GRAPE SLAYER:
 ```
@@ -209,7 +209,7 @@ OT [Sax/PA/AD]:  *[Charged Atronach :TANKsorc: ]*
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 **HEAD STACK**
 Tomb H [SPC/MA/Pearls/Potentates]:  *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Barrier ]*
-1: [Z'en]
+1: [Z'en/MK] *[Traveling Knife ]*
 2: 
 3: 
 4:
@@ -249,8 +249,8 @@ OT [Sax/PA/AD] (Guard): *[Charged Atronach :TANKsorc: ]*
 H [SPC/MA/Pearls/Potentates]:  *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Barrier ]*
 H [MA/Sax/Spaulder or Ozezan]:  *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Glacial Colossus :HEAL_necro: ; Healthy Offering :HEAL_NB: ]* 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-M1 [Z'en]:  
-M2 [MK]:   
+M1 [Z'en/MK] *[Traveling Knife ]*  
+M2  
 M3:  
 M4:  
 R1:  
@@ -279,7 +279,7 @@ OT: [Pearl/Sax/Spaulder] (Lord Warden on Bahsei): *[Summoning Armor :TANK_necro:
 KH: [SPC/MA/Pearls/Potentates]:  *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Barrier ]*
 GH: [MA/Sax/Spaulder or Ozezan]:  *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Glacial Colossus :HEAL_necro: ; Healthy Offering :HEAL_NB: ]* 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-DPS: [Zen] 
+DPS: [Z'en/MK] *[Traveling Knife ]*
 DPS: (Guard): 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 1.1:
@@ -308,7 +308,7 @@ H [SPC/MA/Pearls/Potentates]:  *[Budding Seeds :HEAL_warden: ; Healthy Offering 
 M1 top right: 
 M2 bottom right: 
 M3 dome swap:  
-M4 [Z'en]: 
+M4 [Z'en/MK] *[Traveling Knife ]* 
 
 **LEFT STACK**
 OT [Pearl/Sax/AD]:  *[Charged Atronach :TANKsorc:  ]* 
@@ -349,7 +349,7 @@ OT [Pearl/Sax/AD]: *[Charged Atronach :TANKsorc: ]*
 H1 [MA/PA/Spaulder or Ozezan]:  *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Glacial Colossus :HEAL_necro: ; Healthy Offering :HEAL_NB: ]* 
 H2 [SPC/MA/Pearls/Potentates]:  *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Barrier ]*
 
-1 [Z'en]:
+1 [Z'en/MK]: *[Traveling Knife ]*
 2: 
 3 (portal):
 4 (portal):
@@ -386,7 +386,7 @@ OT [Pearl/Sax/AD]:  *[ Charged Atronach :TANKsorc:  ]* (kite boss 2)
 N DPS: 
 NE DPS: 
 E DPS:  
-SE DPS: [Zen] *[Igneous Weapons :STAM_DK:  boss 1]*
+SE DPS: [Z'en/MK] *[Traveling Knife ; Igneous Weapons :STAM_DK:  boss 1]*
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 Knot:
 1
