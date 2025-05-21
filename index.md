@@ -16,7 +16,7 @@ See [Guiding Principles](#guiding-principles) and [Buff Calculations](#buff-calc
 
 **Approach and Assumptions**
 
-In this standard setup, we rely on most DPS being Arc/NB, and/or bringing Cro/Plar lines.  Because of this, Penetration and Crit Damage can be capped without some previously excellent support sets.  However, Minor Courage is difficult to source, so we put MT in Yolnakriin set.  Ultimate generation is also much easier with access to subclassing, so OT and both healers are focusing on spamming out heals as often as possible for high buff uptimes.
+In this standard setup, we rely on most DPS being Arc/NB, and/or bringing Cro/Plar lines.  Because of this, Penetration and Crit Damage can be capped without some previously excellent support sets.  However, Minor Courage is difficult to source, so we put MT in Yolnakriin set.  Ultimate generation is also much easier with access to subclassing, so OT and both healers are focusing on spamming out ultimates as often as possible for high buff uptimes.
 
 Please look at [Other Approaches](#other-approaches) for a few other possible meta setups and discussion.
 
@@ -27,7 +27,7 @@ Please look at [Other Approaches](#other-approaches) for a few other possible me
 | **Main Tank** | Winter's Embrace (Warden), Soldier of Apocrypha (Arcanist), Earthern Heart (Dragonknight) | [MT skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=28,139,403,211,33,419,206,270,430,288,136,408) | Pearl/Yolna/Tremor, Crimson/Yolna/Naz | • Can use Runic Sunder instead of Inner Rage for increased penetration<br>• Typical Ult: Aggressive Horn |
 | **Off Tank** | Daedric Summoning (Sorcerer), Bone Tyrant (Necromancer), Living Death (Necromancer) |  [OT skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=152,250,403,218,223,419,221,270,430,415,249,145) | Sax/PA/AD, Sax/Pearl/AD, Sax/Lucent/AD |  • Typical Ult: Charged Atronach |
 | **MA/Sax (or PA) Healer** | Siphoning (Nightblade), Restoring Light (Templar), Gravelord (Necromancer) |  [MA/Sax skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=319,104,406,323,64,419,385,270,412,102,398,228) | MA (body)/Sax (BB)/Spaulder or Ozezan, MA/PA/Spaulder or Ozezan | • Typical Ult: Glacial Colossus<br>• Pearls mythic is optional<br>• Can also run **ROJO** if desired |
-| **SPC/MA (or PP) Healer** | Green Balance (Warden), Siphoning (Nightblade), Curative Runeforms (Arcanist) | [SPC skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=319,431,320,323,64,60,196,270,406,412,3,419) | SPC (FB)/MA (or PP) (body)/Pearls/Potentates (ring + BB) | • Role is to reduce ult cost and spam Barrier on cooldown<br>• Typical Ult: Barrier<br>• Potentates set is optional |
+| **SPC/MA (or PP) Healer** | Green Balance (Warden), Siphoning (Nightblade), Curative Runeforms (Arcanist) | [SPC skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=319,431,320,323,64,60,196,270,406,412,3,419) | SPC (FB)/MA (or PP) (body)/Pearls/Potentates (ring + BB) | • Role is to reduce ult cost and spam Barrier on cooldown<br>• Typical Ult: Barrier<br>• Potentates set is optional, can use **Symph of Blades** instead |
 | **Support DPS** | Ardent Flame (Dragonknight), Gravelord (Necromancer), Assassination (Nightblade) | [Zen skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=299,235,302,47,113,36,119,407,379,114,385,228) | Zen/MK, Zen/Kosh | • Provides Zen and/or MK, fills gaps in Major Vuln<br>• Can wear Encratis monster set |
 
 **Scribed Skill Details** 
