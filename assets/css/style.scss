@@ -3,35 +3,86 @@
 
 @import "{{ site.theme }}";
 
-section
-{
- width:85%;
- right: -13%;
-}
-#banner
-{
- right:1%;
- margin-right:0px;
- .fork
- {
-  left:15%;
-  margin-left:0;
- }
-}
-.wrapper
-{
- width:95%
-}
-nav
-{
- width: 14%;
- left:0;
- margin-left:0;
-}
-footer
-{
- width: 14%;
- left:0;
- margin-left:0;
+/* 1. make padding/borders count inside widths */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
 }
 
+/* 2. wrapper becomes a flex‑container */
+.wrapper {
+  max-width: 650px;    // keeps your original max‑width
+  width: 95%;          // fluid on desktop
+  margin: 0 auto;
+  position: relative;
+  display: flex;       
+  padding: 0 1rem;     // small left/right breathing room
+}
+
+/* … later in your file you had: */
+/*
+.wrapper {
+  width:650px;
+  margin:0 auto;
+  position:relative;
+}
+*/
+
+/* 3. Swap out the fixed‑sidebar nav for a flex‑item */
+nav {
+  // remove these old rules:
+  // position: fixed;
+  top: auto !important;
+  left: auto !important;
+  margin-left: auto !important;
+  width: auto !important;
+
+  flex: 0 0 230px;     // sidebar stays 230px wide
+  margin-right: 1rem;  // gap between nav → content
+  position: relative;  
+  text-align: left;    // or whatever you prefer
+
+  ul {
+    // keep your existing `ul { … }` styles in place
+  }
+}
+
+/* 4. get rid of the old “hide nav” at 1060px */
+@media print, screen and (max-width: 1060px) {
+  div.wrapper {
+    width: auto;
+    margin: 0;
+  }
+
+  // remove or comment out:
+  nav { display: auto; }
+  //
+  // and leave your header/section/footer float: none
+  // if you still want them to drop below the banner
+}
+
+/* 5. new stacking at small widths */
+@media screen and (max-width: 600px) {
+  .wrapper {
+    flex-direction: column;
+    padding: 0 1rem;
+  }
+
+  nav {
+    flex: none;       // stop using the 230px
+    width: 100%;
+    margin: 0 0 1rem; // bottom gap
+  }
+
+  section {
+    flex: 1;          // fill remaining space
+    width: 100%;
+  }
+
+  footer {
+    position: relative;
+    left: auto;
+    margin-top: 1rem;
+  }
+}
