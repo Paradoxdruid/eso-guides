@@ -1,8 +1,11 @@
 # Paradoxdruid's ESO Guides
 
-*This is a work in progess; last updated 2025-05-21*
+*This is a work in progess; last updated 2025-05-22*
 
-These represent Paradoxdruid's best attempt at capturing the mid-tier meta for U46 (groups who regularly do vet and vet HM content; not trifecta progs or scorepushing attempts). 
+These represent Paradoxdruid's best attempt at capturing the mid-tier meta for U46 (groups who regularly do vet and vet HM content; not trifecta progs or scorepushing attempts).  I list loadouts for two primary metas:
+
+* **[Default](#default-support-loadouts-using-major-force-not-requiring-aedric-spear-fb-skill-on-dps):** we expect most DPS to have passives from Arcanist and Nightblade
+* **[Alternative](#alternative-support-loadouts-using-lucent-echoes-and-requiring-aedric-spear-fb-skill-on-dps):** Slightly more intensive, where we expect most DPS to have passives from Arcanist, Nightblade, *and* Templar
 
 **Wait, you've got it all wrong!**  Yeah, maybe I do, that's totally fair.  And in any case, there's lots of good approaches and strategies, and not a one-size-fits-all approach that will always apply. See discussion of [Other Approaches](#other-approaches) towards the end of the document, to point out a few other common thoughts, and why I'm not currently recommending them for mid-tier groups.  
 
@@ -20,7 +23,9 @@ In this standard setup, we rely on most DPS being Arc/NB, and/or bringing Cro/Pl
 
 Please look at [Other Approaches](#other-approaches) for a few other possible meta setups and discussion.
 
-## Support Loadouts
+## Support Loadouts 
+
+### Default Support Loadouts: Using Major Force, not requiring Aedric Spear FB skill on DPS
 
 | Role | Class Lines | Skill Bar Links | Typical Sets | Notes |
 | ---- | ----------- | --------------- | ------------ | ----- |
@@ -45,11 +50,21 @@ Please look at [Other Approaches](#other-approaches) for a few other possible me
 * **SPC Healer**:  *FB:* Illustrious Healing, Warding Burst, Radiating Regeneration (flex), Combat Prayer, Healthy Offering, Replenishing Barrier; *BB:* Budding Seeds, Elemental Blockade, Energy Orb, Echoing Vigor, Evolving Runemend, Glacial Colossus
 * **Support DPS**: *FB:* Quick Cloak, Unnerving Boneyard, Traveling Knife, Relentless Focus, Venomous Claw, Incapacitating Strikes; **BB:* Flames of Oblivion, Mystic Orb, Degeneration, Engulfing Flames, Fiery Contingency, Glacial Colossus
 
+### Alternative Support Loadouts: Using Lucent Echoes, and requiring Aedric Spear FB skill on DPS
+
+| Role | Class Lines | Skill Bar Links | Typical Sets | Notes |
+| ---- | ----------- | --------------- | ------------ | ----- |
+| **Main Tank** | Winter's Embrace (Warden), Soldier of Apocrypha (Arcanist), Earthern Heart (Dragonknight) | [MT skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=28,139,403,211,33,419,206,270,430,288,136,24) | Pearl/Yolna/Tremor, Crimson/Yolna/Naz | • Can use Runic Sunder instead of Inner Rage for increased penetration<br>• Typical Ult: Gibbering Shelter, can use Aggressive Horn for resource buff |
+| **Off Tank** | Daedric Summoning (Sorcerer), Bone Tyrant (Necromancer), Living Death (Necromancer) |  [OT skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=152,250,403,218,223,419,221,270,430,415,249,145) | Lucent/PA/AD, Lucent/Pearl/AD, Sax/Lucent/AD |  • Typical Ult: Charged Atronach |
+| **MA/Sax (or PA) Healer** | Siphoning (Nightblade), Restoring Light (Templar), Gravelord (Necromancer) |  [MA/Sax skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=319,104,406,323,64,419,385,270,412,102,398,228) | MA (body)/Jo (BB)/Spaulder or Ozezan, MA/PA/Spaulder or Ozezan | • Typical Ult: Glacial Colossus<br>• Pearls mythic is optional<br>• Can also run **ROJO** if desired |
+| **SPC/MA (or PP) Healer** | Green Balance (Warden), Siphoning (Nightblade), Curative Runeforms (Arcanist) | [SPC skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=319,431,320,323,64,60,196,270,406,412,3,419) | SPC (FB)/MA (or PP) (body)/Pearls/Potentates (ring + BB) | • Role is to reduce ult cost and spam Barrier on cooldown<br>• Typical Ult: Barrier<br>• Potentates set is optional, can use **Symph of Blades** instead |
+| **Support DPS** | Ardent Flame (Dragonknight), Gravelord (Necromancer), Assassination (Nightblade) | [Zen skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=299,235,302,47,113,36,119,407,379,114,385,228) | Zen/MK, Zen/Kosh, Zen/Null Arca | • Provides Zen and/or MK, fills gaps in Major Vuln<br>• Can wear Encratis monster set |
+
 ## DPS Loadouts
 
 | Type | Class Lines | Skill Bar Links | Typical Sets | Notes |
 | ---- | ----------- | --------------- | ------------ | ----- |
-| **Meta Beam Arcanist** | Herald of the Tome (Arcanist), Assassination (Nightblade), Aedric Spear (Templar) | [Beam skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=299,370,18,16,429,36,20,274,22,47,429,12) | Null Arca (or Whorl of the Depths)/Deadly Strikes/Velothi/Maelstrom Inferno (or Maelstrom Greatsword) | • Aedric Spear is for passives only, can easily swap to Gravelord, Ardent Flame, Dawn's Wrath or others<br>• For increased Crit damage, slot [Spear FB](https://sheumais.github.io/esoskillbarbuilder/?skills=299,81,18,16,429,36,20,274,22,47,429,12)<br>• Ansuuls and Coral are also good armor sets, especially for AoE fights |
+| **Meta Beam Arcanist** | Herald of the Tome (Arcanist), Assassination (Nightblade), Aedric Spear (Templar) | [Beam skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=299,370,18,16,429,36,20,274,22,47,429,12) | Null Arca (or Whorl of the Depths)/Deadly Strikes/Velothi/Maelstrom Inferno (or Maelstrom Greatsword) | • Aedric Spear is for passives only, can easily swap to Gravelord, Ardent Flame, Dawn's Wrath or others<br>• For Crit damage on the **Alternative** support loadout, slot [Spear FB](https://sheumais.github.io/esoskillbarbuilder/?skills=299,81,18,16,429,36,20,274,22,47,429,12)<br>• Ansuuls and Coral are also good armor sets, especially for AoE fights |
 | **Blastbones Necro** | Gravelord (Necromancer), Assassination (Nightblade), Aedric Spear (Templar) | [Necro skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=231,234,232,238,429,36,237,334,336,47,429,228) | Corpseburster/Null Arca (or Depths, Ansuuls)/Velthi/Maelstrom Greatsword | • Aedric Spear is for passives only, can easily swap to Ardent Flame, Dawn's Wrath, Animal Companions, or others |
 | **Non-Beam Nightblade** | Assassination (Nightblade), Herald of the Tome (Arcanist), Stormcalling (Sorcerer) | [NB skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=43,39,46,19,429,36,173,20,334,372,429,12) | Null Arca/Tideborn/Velothi/Maelstrom Greatsword | • Lots of flexibility with Stormcalling line for others |
 | **Frost Focused** | Winter's Embrace (Warden), Herald of the Tome (Arcanist), Assassination (Nightblade) | [Frost skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=372,47,14,19,429,36,21,334,210,209,429,36) | Whorl of the Depths/Ice Furnace or Frostbite/Velothi/Maelstrom Ice Staff |  |
@@ -466,6 +481,7 @@ Knot:
 
 ## Changelog
 
+* 2025-05-22: Explicitly listed alternative support loadout with Lucent and DPS with spear skill, to ditch Major Force.
 * 2025-05-21: Made a support DPS explicit.  Pointed out that MAPA Healer can use ROJO if desired.
 * 2025-05-19: Revised support skills and gear loadouts for clarity.  Added more discussin of other approaches and assumptions.
 * 2025-05-17: Reverted usage of JO based on feedback, changed to Sax.  Added scribed skills per suggestions.
