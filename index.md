@@ -4,8 +4,8 @@
 
 These represent Paradoxdruid's best attempt at capturing the mid-tier meta for U46 (groups who regularly do vet and vet HM content; not trifecta progs or scorepushing attempts).  I list loadouts for two primary metas:
 
-* **[Default](#default-support-loadouts-using-major-force-not-requiring-aedric-spear-fb-skill-on-dps):** we expect most DPS to have passives from Arcanist and Nightblade
-* **[Alternative](#alternative-support-loadouts-using-lucent-echoes-and-requiring-aedric-spear-fb-skill-on-dps):** Slightly more intensive, where we expect most DPS to have passives from Arcanist, Nightblade, *and* Templar
+* **[Default](#default-support-loadouts):** we expect most DPS to have passives from Arcanist and Nightblade
+* **[Alternative](#alternative-support-loadouts):** Slightly more intensive, where we expect most DPS to have passives from Arcanist, Nightblade, *and* Templar
 
 **Wait, you've got it all wrong!**  Yeah, maybe I do, that's totally fair.  And in any case, there's lots of good approaches and strategies, and not a one-size-fits-all approach that will always apply. See discussion of [Other Approaches](#other-approaches) towards the end of the document, to point out a few other common thoughts, and why I'm not currently recommending them for mid-tier groups.  
 
@@ -25,7 +25,9 @@ Please look at [Other Approaches](#other-approaches) for a few other possible me
 
 ## Support Loadouts 
 
-### Default Support Loadouts: Using Major Force, not requiring Aedric Spear FB skill on DPS
+### Default Support Loadouts
+
+**Using Major Force, not requiring Aedric Spear FB skill on DPS**
 
 | Role | Class Lines | Skill Bar Links | Typical Sets | Notes |
 | ---- | ----------- | --------------- | ------------ | ----- |
@@ -50,7 +52,9 @@ Please look at [Other Approaches](#other-approaches) for a few other possible me
 * **SPC Healer**:  *FB:* Illustrious Healing, Warding Burst, Radiating Regeneration (flex), Combat Prayer, Healthy Offering, Replenishing Barrier; *BB:* Budding Seeds, Elemental Blockade, Energy Orb, Echoing Vigor, Evolving Runemend, Glacial Colossus
 * **Support DPS**: *FB:* Quick Cloak, Unnerving Boneyard, Traveling Knife, Relentless Focus, Venomous Claw, Incapacitating Strikes; **BB:* Flames of Oblivion, Mystic Orb, Degeneration, Engulfing Flames, Fiery Contingency, Glacial Colossus
 
-### Alternative Support Loadouts: Using Lucent Echoes, and requiring Aedric Spear FB skill on DPS
+### Alternative Support Loadouts
+
+**Using Lucent Echoes, and requiring Aedric Spear FB skill on DPS**
 
 | Role | Class Lines | Skill Bar Links | Typical Sets | Notes |
 | ---- | ----------- | --------------- | ------------ | ----- |
