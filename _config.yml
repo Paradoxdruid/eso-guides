@@ -2,11 +2,11 @@ title: Paradoxdruid's ESO Trial Guides
 description: Mid-tier builds, trial rosters, and other info.
 show_downloads: false
 google_analytics:
-# theme: jekyll-theme-leap-day
-remote_theme: just-the-docs/just-the-docs
+theme: jekyll-theme-leap-day
+# remote_theme: just-the-docs/just-the-docs
 
-plugins:
-  - jekyll-seo-tag
+# plugins:
+#   - jekyll-seo-tag
 
-nav_enabled: true
-heading_anchors: true
+# nav_enabled: true
+# heading_anchors: true
