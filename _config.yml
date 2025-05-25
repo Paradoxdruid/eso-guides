@@ -4,3 +4,6 @@ show_downloads: false
 google_analytics:
 # theme: jekyll-theme-leap-day
 remote_theme: just-the-docs
+
+plugins:
+  - jekyll-seo-tag
