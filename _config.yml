@@ -7,3 +7,6 @@ remote_theme: just-the-docs/just-the-docs
 
 plugins:
   - jekyll-seo-tag
+
+nav_enabled: true
+heading_anchors: true
