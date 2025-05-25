@@ -42,7 +42,7 @@ Please look at [Other Approaches](#other-approaches) for a few other possible me
 * **Warding Contingency on Healers**: Damage Shield, Gladiator's Tenacity, Minor Protection
 * **Soul Burst on Healers**: Damage Shield, Anchorite's Potency, flex
 * **Contingency on support DPS**: Fire, Lingering Torment, flex
-* **Traveling Knife on support DPS**: Multitarget, Warrior's Opportunity, Off Balance
+* **Traveling Knife on support DPS**: Multitarget, Assassin's misery, Off Balance
 
 **Support loadout skills**
 
@@ -50,7 +50,7 @@ Please look at [Other Approaches](#other-approaches) for a few other possible me
 * **OT**: *FB:* Hardened Ward, Braided Tether, Inner Rage, Hungry Scythe, Necrotic Potency, Replenishing Barrier; *BB:* Summoning Armor, Elemental Blockade, Leashing Soul, Elemental Susceptibility, Spirit Guardian, Charged Atronach
 * **MAPA Healer**:  *FB:* Illustrious Healing, Extended Ritual, Energy Orb, Combat Prayer, Healthy Offering, Replenishing Barrier; *BB:* Warding Contingency, Elemental Blockade, Echoing Vigor, Radiant Aura, Overflowing Altar, Aggressive Horn
 * **SPC Healer**:  *FB:* Illustrious Healing, Warding Burst, Radiating Regeneration (flex), Combat Prayer, Healthy Offering, Replenishing Barrier; *BB:* Budding Seeds, Elemental Blockade, Energy Orb, Echoing Vigor, Evolving Runemend, Glacial Colossus
-* **Support DPS**: *FB:* Quick Cloak, Unnerving Boneyard, Traveling Knife, Relentless Focus, Venomous Claw, Incapacitating Strikes; **BB:* Flames of Oblivion, Mystic Orb, Degeneration, Engulfing Flames, Fiery Contingency, Glacial Colossus
+* **Support DPS**: *FB:* Quick Cloak, Unnerving Boneyard, Traveling Knife, Barbed Trap, Flames of Oblivion, Incapacitating Strikes; **BB:* Stampede, Carve, Engulfing Flames, Relentless Focus, Venomous Claw, Glacial Colossus
 
 ### Alternative Support Loadouts
 
