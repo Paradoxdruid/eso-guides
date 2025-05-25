@@ -1,6 +1,6 @@
 # Paradoxdruid's ESO Guides
 
-*This is a work in progess; last updated 2025-05-22*
+*This is a work in progess; last updated 2025-05-25*
 
 These represent Paradoxdruid's best attempt at capturing the mid-tier meta for U46 (groups who regularly do vet and vet HM content; not trifecta progs or scorepushing attempts).  I list loadouts for two primary metas:
 
@@ -35,7 +35,7 @@ Please look at [Other Approaches](#other-approaches) for a few other possible me
 | **Off Tank** | Daedric Summoning (Sorcerer), Bone Tyrant (Necromancer), Living Death (Necromancer) |  [OT skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=152,250,403,218,223,419,221,270,430,415,249,145) | Sax/PA/AD, Sax/Pearl/AD, Sax/Lucent/AD |  • Typical Ult: Charged Atronach |
 | **MA/Sax (or PA) Healer** | Siphoning (Nightblade), Restoring Light (Templar), Gravelord (Necromancer) |  [MA/Sax skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=319,104,406,323,64,419,385,270,412,102,398,228) | MA (body)/Sax (BB)/Spaulder or Ozezan, MA/PA/Spaulder or Ozezan | • Typical Ult: Glacial Colossus<br>• Pearls mythic is optional<br>• Can also run **ROJO** if desired |
 | **SPC/MA (or PP) Healer** | Green Balance (Warden), Siphoning (Nightblade), Curative Runeforms (Arcanist) | [SPC skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=319,431,320,323,64,60,196,270,406,412,3,419) | SPC (FB)/MA (or PP) (body)/Pearls/Potentates (ring + BB) | • Role is to reduce ult cost and spam Barrier on cooldown<br>• Typical Ult: Barrier<br>• Potentates set is optional, can use **Symph of Blades** instead |
-| **Support DPS** | Ardent Flame (Dragonknight), Gravelord (Necromancer), Assassination (Nightblade) | [Zen skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=299,235,302,47,113,36,119,407,379,114,385,228) | Zen/MK, Zen/Kosh, Zen/Null Arca | • Provides Zen and/or MK, fills gaps in Major Vuln<br>• Can wear Encratis monster set |
+| **Support DPS** | Ardent Flame (Dragonknight), Gravelord (Necromancer), Assassination (Nightblade) | [Zen skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=299,235,302,372,119,36,334,336,113,114,47,228) | Zen/MK, Zen/Kosh, Zen/Null Arca | • Provides Zen and/or MK, fills gaps in Major Vuln<br>• Can wear Encratis monster set |
 
 **Scribed Skill Details** 
 * **Wield Soul on Tanks**: Pull, Druid's Resurgance, Cowardice
@@ -485,6 +485,7 @@ Knot:
 
 ## Changelog
 
+* 2025-05-25: Fixed Support DPS skill bars, credit Banyu
 * 2025-05-22: Explicitly listed alternative support loadout with Lucent and DPS with spear skill, to ditch Major Force.
 * 2025-05-21: Made a support DPS explicit.  Pointed out that MAPA Healer can use ROJO if desired.
 * 2025-05-19: Revised support skills and gear loadouts for clarity.  Added more discussin of other approaches and assumptions.
