@@ -30,7 +30,7 @@ Please look at [Other Approaches](#other-approaches) for a few other possible me
 | **Off Tank** | Daedric Summoning (Sorcerer), Bone Tyrant (Necromancer), Siphoning (Nightblade) |  [OT skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=152,62,403,218,223,419,221,270,430,415,69,145) | Sax/PA/AD, Sax/Pearl/AD, Sax/Lucent/AD |  • **Wear Lucent if group needs more crit damage**<br> • Typical Ult: Charged Atronach<br> • Can replace Funnel Health with Vamp Drain |
 | **MA/Sax (or PA) Healer**<br>or **ROJO Healer** | Siphoning (Nightblade), Restoring Light (Templar), Gravelord (Necromancer) |  [MA/Sax skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=319,104,406,323,64,419,385,270,412,102,398,228) | • MA (body)/Sax (BB)/Master's Resto (FB)/Spaulder or Ozezan, MA/PA (BB)/Master's Resto (FB)/Spaulder or Ozezan<br>• RO (BB)/JO (body)/Master's Resto (FB)/Ozezan | • Typical Ult: Glacial Colossus<br>• Pearls mythic is optional<br> • If Contingency with Growing Impact and Intellect/Endurance is used, can drop Templar line for others |
 | **SPC/MA (or PP) Healer** | Green Balance (Warden), Siphoning (Nightblade), Curative Runeforms (Arcanist) | [SPC skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=319,431,320,323,64,60,196,270,406,412,3,419) | SPC (FB)/MA (or PP) (body)/Pearls/Potentates (ring + BB) | • Spam Barrier<br>• Typical Ult: Barrier<br>• **Potentates set is optional, can use Symph of Blades instead** <br> • If paired with ROJO healer, SPC/PA also can work |
-| **Support DPS** | Ardent Flame (Dragonknight), Gravelord (Necromancer), Assassination (Nightblade) | [Zen skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=299,235,302,372,119,36,334,336,113,114,47,228) | Zen/MK, Zen/Kosh, Zen/Null Arca | • Provides Zen and/or MK, fills gaps in Major Vuln<br>• Can wear Encratis monster set |
+| **Support DPS** | Ardent Flame (Dragonknight), Gravelord (Necromancer), Assassination (Nightblade) | [Zen skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=299,235,302,372,119,36,334,336,113,114,47,228) | Zen/Null Arca, Zen/Ansuuls, Zen/Kosh  | • Provides Zen, fills gaps in Major Vuln<br>• Can wear Encratis monster set |
 
 **Scribed Skill Details** 
 * **Wield Soul on Tanks**: Pull, Druid's Resurgance, Cowardice
@@ -78,7 +78,7 @@ OT [Sax/PA/AD]:  *[Charged Atronach :TANKsorc: ]*
 H [SPC/MA/Pearls/Potentates]:  *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Barrier ]*
 H [MA/Sax/Master's Resto/Spaulder or Ozezan]:  *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Glacial Colossus :HEAL_necro: ; Healthy Offering :HEAL_NB: ]*
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-M1: [Z'en/MK] *[Traveling Knife ]*
+M1: [Z'en] *[Traveling Knife ]*
 M2: 
 M3:
 M4:
@@ -109,7 +109,7 @@ Your Local Time:
 **RIGHT STACK (Reactor)**
 MT [Yoln/Crimson/Naz] (Purge for first boss): *[Frost Cloak :TANK_warden:; Igneous Weapons :TankDK: ]*
 H [MA/PA//Master's Resto/Spaulder or Ozezan] (Purge):  *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Glacial Colossus :HEAL_necro: ; Healthy Offering :HEAL_NB: ]*
-DPS: [Z'en/MK] *[Traveling Knife ]*
+DPS: [Z'en] *[Traveling Knife ]*
 DPS:
 DPS:
 DPS:
@@ -190,7 +190,7 @@ PORTAL 2
 L DPS CW:
 L DPS CCW: 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-R BACKUP PORTAL 1 DPS [Z'en/MK]: *[Traveling Knife ]* 
+R BACKUP PORTAL 1 DPS [Z'en]: *[Traveling Knife ]* 
 R BACKUP PORTAL 2 DPS: 
 R GRAPE SLAYER:
 ```
@@ -211,7 +211,7 @@ OT [Sax/PA/AD]:  *[Charged Atronach :TANKsorc: ]*
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 **HEAD STACK**
 Tomb H [SPC/MA/Pearls/Potentates]:  *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Barrier ]*
-1: [Z'en/MK] *[Traveling Knife ]*
+1: [Z'en] *[Traveling Knife ]*
 2: 
 3: 
 4:
@@ -251,7 +251,7 @@ OT [Sax/PA/AD] (Guard): *[Charged Atronach :TANKsorc: ]*
 H [SPC/MA/Pearls/Potentates]:  *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Barrier ]*
 H [MA/Sax//Master's Resto/Spaulder or Ozezan]:  *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Glacial Colossus :HEAL_necro: ; Healthy Offering :HEAL_NB: ]* 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-M1 [Z'en/MK] *[Traveling Knife ]*  
+M1 [Z'en] *[Traveling Knife ]*  
 M2  
 M3:  
 M4:  
@@ -281,7 +281,7 @@ OT: [Pearl/Sax/Spaulder] (Lord Warden on Bahsei): *[Summoning Armor :TANK_necro:
 KH: [SPC/MA/Pearls/Potentates]:  *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Barrier ]*
 GH: [MA/Sax/Master's Resto/Spaulder or Ozezan]:  *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Glacial Colossus :HEAL_necro: ; Healthy Offering :HEAL_NB: ]* 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-DPS: [Z'en/MK] *[Traveling Knife ]*
+DPS: [Z'en] *[Traveling Knife ]*
 DPS: (Guard): 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 1.1:
@@ -310,7 +310,7 @@ H [SPC/MA/Pearls/Potentates]:  *[Budding Seeds :HEAL_warden: ; Healthy Offering 
 M1 top right: 
 M2 bottom right: 
 M3 dome swap:  
-M4 [Z'en/MK] *[Traveling Knife ]* 
+M4 [Z'en] *[Traveling Knife ]* 
 
 **LEFT STACK**
 OT [Pearl/Sax/AD]:  *[Charged Atronach :TANKsorc:  ]* 
@@ -351,7 +351,7 @@ OT [Pearl/Sax/AD]: *[Charged Atronach :TANKsorc: ]*
 H1 [MA/PA/Master's Resto/Spaulder or Ozezan]:  *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Glacial Colossus :HEAL_necro: ; Healthy Offering :HEAL_NB: ]* 
 H2 [SPC/MA/Pearls/Potentates]:  *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Barrier ]*
 
-1 [Z'en/MK]: *[Traveling Knife ]*
+1 [Z'en]: *[Traveling Knife ]*
 2: 
 3 (portal):
 4 (portal):
@@ -388,7 +388,7 @@ OT [Pearl/Sax/AD]:  *[ Charged Atronach :TANKsorc:  ]* (kite boss 2)
 N DPS: 
 NE DPS: 
 E DPS:  
-SE DPS: [Z'en/MK] *[Traveling Knife ; Igneous Weapons :STAM_DK:  boss 1]*
+SE DPS: [Z'en] *[Traveling Knife ; Igneous Weapons :STAM_DK:  boss 1]*
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 Knot:
 1
@@ -468,7 +468,7 @@ Knot:
 
 ## Changelog
 
-* 2025-05-30: Explicitly list Master's Resto for MA/Sax / ROJO Healer; remove confusing Alternative loadouts
+* 2025-05-30: Explicitly list Master's Resto for MA/Sax / ROJO Healer; remove confusing Alternative loadouts; removed MK recommendation
 * 2025-05-28: Made ROJO a more explicit option (dang it); listed growing impact contigency option; switched OT to siphoning
 * 2025-05-25: Fixed Support DPS skill bars, credit Banyu
 * 2025-05-22: Explicitly listed alternative support loadout with Lucent and DPS with spear skill, to ditch Major Force.
