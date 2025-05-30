@@ -2,10 +2,7 @@
 
 *This is a work in progess; last updated 2025-05-30*
 
-These represent Paradoxdruid's best attempt at capturing the mid-tier meta for U46 (groups who regularly do vet and vet HM content; not trifecta progs or scorepushing attempts).  I list loadouts for two primary metas:
-
-* **[Default](#default-support-loadouts):** we expect most DPS to have passives from Arcanist and Nightblade
-* **[Alternative](#alternative-support-loadouts):** Slightly more intensive, where we expect most DPS to have passives from Arcanist, Nightblade, *and* Templar
+These represent Paradoxdruid's best attempt at capturing the mid-tier meta for U46 (groups who regularly do vet and vet HM content; not trifecta progs or scorepushing attempts).  
 
 **Wait, you've got it all wrong!**  Yeah, maybe I do, that's totally fair.  And in any case, there's lots of good approaches and strategies, and not a one-size-fits-all approach that will always apply. See discussion of [Other Approaches](#other-approaches) towards the end of the document, to point out a few other common thoughts, and why I'm not currently recommending them for mid-tier groups.  
 
@@ -25,21 +22,19 @@ Please look at [Other Approaches](#other-approaches) for a few other possible me
 
 ## Support Loadouts 
 
-### Default Support Loadouts
-
 **Using Major Force, not requiring Aedric Spear FB skill on DPS**
 
 | Role | Class Lines | Skill Bar Links | Typical Sets | Notes |
 | ---- | ----------- | --------------- | ------------ | ----- |
 | **Main Tank** | Winter's Embrace (Warden), Soldier of Apocrypha (Arcanist), Earthern Heart (Dragonknight) | [MT skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=28,139,403,211,33,419,206,270,430,288,136,408) | Pearl/Yolna/Tremor, Crimson/Yolna/Naz | • Can use Runic Sunder instead of Inner Rage for increased penetration<br>• Typical Ult: Aggressive Horn |
-| **Off Tank** | Daedric Summoning (Sorcerer), Bone Tyrant (Necromancer), Siphoning (Nightblade) |  [OT skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=152,62,403,218,223,419,221,270,430,415,69,145) | Sax/PA/AD, Sax/Pearl/AD, Sax/Lucent/AD |  • Typical Ult: Charged Atronach<br> • Can replace Funnel Health with Vamp Drain |
+| **Off Tank** | Daedric Summoning (Sorcerer), Bone Tyrant (Necromancer), Siphoning (Nightblade) |  [OT skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=152,62,403,218,223,419,221,270,430,415,69,145) | Sax/PA/AD, Sax/Pearl/AD, Sax/Lucent/AD |  • **Wear Lucent if group needs more crit damage**<br> • Typical Ult: Charged Atronach<br> • Can replace Funnel Health with Vamp Drain |
 | **MA/Sax (or PA) Healer**<br>or **ROJO Healer** | Siphoning (Nightblade), Restoring Light (Templar), Gravelord (Necromancer) |  [MA/Sax skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=319,104,406,323,64,419,385,270,412,102,398,228) | • MA (body)/Sax (BB)/Master's Resto (FB)/Spaulder or Ozezan, MA/PA (BB)/Master's Resto (FB)/Spaulder or Ozezan<br>• RO (BB)/JO (body)/Master's Resto (FB)/Ozezan | • Typical Ult: Glacial Colossus<br>• Pearls mythic is optional<br> • If Contingency with Growing Impact and Intellect/Endurance is used, can drop Templar line for others |
-| **SPC/MA (or PP) Healer** | Green Balance (Warden), Siphoning (Nightblade), Curative Runeforms (Arcanist) | [SPC skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=319,431,320,323,64,60,196,270,406,412,3,419) | SPC (FB)/MA (or PP) (body)/Pearls/Potentates (ring + BB) | • Spam Barrier<br>• Typical Ult: Barrier<br>• Potentates set is optional, can use **Symph of Blades** instead<br> • If paired with ROJO healer, SPC/PA also can work |
+| **SPC/MA (or PP) Healer** | Green Balance (Warden), Siphoning (Nightblade), Curative Runeforms (Arcanist) | [SPC skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=319,431,320,323,64,60,196,270,406,412,3,419) | SPC (FB)/MA (or PP) (body)/Pearls/Potentates (ring + BB) | • Spam Barrier<br>• Typical Ult: Barrier<br>• **Potentates set is optional, can use Symph of Blades instead** <br> • If paired with ROJO healer, SPC/PA also can work |
 | **Support DPS** | Ardent Flame (Dragonknight), Gravelord (Necromancer), Assassination (Nightblade) | [Zen skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=299,235,302,372,119,36,334,336,113,114,47,228) | Zen/MK, Zen/Kosh, Zen/Null Arca | • Provides Zen and/or MK, fills gaps in Major Vuln<br>• Can wear Encratis monster set |
 
 **Scribed Skill Details** 
 * **Wield Soul on Tanks**: Pull, Druid's Resurgance, Cowardice
-* **Warding Contingency on Healers**: Damage Shield, Gladiator's Tenacity, Minor Protection *or* Damage Shield, Growing Impact, Intellect and Endurance
+* **Warding Contingency on Healers**: Damage Shield, Growing Impact, Minor Protection / Intellect and Endurance
 * **Soul Burst on Healers**: Damage Shield, Anchorite's Potency, flex
 * **Contingency on support DPS**: Fire, Lingering Torment, flex
 * **Traveling Knife on support DPS**: Multitarget, Assassin's misery, Off Balance
@@ -52,26 +47,14 @@ Please look at [Other Approaches](#other-approaches) for a few other possible me
 * **SPC Healer**:  *FB:* Illustrious Healing, Warding Burst, Radiating Regeneration (flex), Combat Prayer, Healthy Offering, Replenishing Barrier; *BB:* Budding Seeds, Elemental Blockade, Energy Orb, Echoing Vigor, Evolving Runemend, Glacial Colossus
 * **Support DPS**: *FB:* Quick Cloak, Unnerving Boneyard, Traveling Knife, Barbed Trap, Flames of Oblivion, Incapacitating Strikes; **BB:* Stampede, Carve, Engulfing Flames, Relentless Focus, Venomous Claw, Glacial Colossus
 
-### Alternative Support Loadouts
-
-**Using Lucent Echoes, and requiring Aedric Spear FB skill on DPS**
-
-| Role | Class Lines | Skill Bar Links | Typical Sets | Notes |
-| ---- | ----------- | --------------- | ------------ | ----- |
-| **Main Tank** | Winter's Embrace (Warden), Soldier of Apocrypha (Arcanist), Earthern Heart (Dragonknight) | [MT skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=28,139,403,211,33,419,206,270,430,288,136,24) | Pearl/Yolna/Tremor, Crimson/Yolna/Naz | • Can use Runic Sunder instead of Inner Rage for increased penetration<br>• Typical Ult: Gibbering Shelter, can use Aggressive Horn for resource buff |
-| **Off Tank** | Daedric Summoning (Sorcerer), Bone Tyrant (Necromancer), Siphoning (Nightblade) |  [OT skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=152,62,403,218,223,419,221,270,430,415,69,145) | Lucent/PA/AD, Lucent/Pearl/AD, Sax/Lucent/AD |  • Typical Ult: Charged Atronach<br> • Can replace Funnel Health with Vamp Drain |
-| **MA/Sax (or PA) Healer**<br>or **ROJO Healer** | Siphoning (Nightblade), Restoring Light (Templar), Gravelord (Necromancer) |  [MA/Sax skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=319,104,406,323,64,419,385,270,412,102,398,228) | • MA (body)/Sax (BB)/Spaulder or Ozezan, MA/PA/Spaulder or Ozezan<br>• RO (BB)/JO (body)/Ozezan | • Typical Ult: Glacial Colossus<br>• Pearls mythic is optional<br> • If Contingency with Growing Impact and Intellect/Endurance is used, can drop Templar line for others |
-| **SPC/MA (or PP) Healer** | Green Balance (Warden), Siphoning (Nightblade), Curative Runeforms (Arcanist) | [SPC skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=319,431,320,323,64,60,196,270,406,412,3,419) | SPC (FB)/MA (or PP) (body)/Pearls/Potentates (ring + BB) | • Spam Barrier<br>• Typical Ult: Barrier<br>• Potentates set is optional, can use **Symph of Blades** instead<br> • If paired with ROJO healer, SPC/PA also can work |
-| **Support DPS** | Ardent Flame (Dragonknight), Gravelord (Necromancer), Assassination (Nightblade) | [Zen skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=299,235,302,47,113,36,119,407,379,114,385,228) | Zen/MK, Zen/Kosh, Zen/Null Arca | • Provides Zen and/or MK, fills gaps in Major Vuln<br>• Can wear Encratis monster set |
-
 ## DPS Loadouts
 
 | Type | Class Lines | Skill Bar Links | Typical Sets | Notes |
 | ---- | ----------- | --------------- | ------------ | ----- |
-| **Meta Beam Arcanist** | Herald of the Tome (Arcanist), Assassination (Nightblade), Aedric Spear (Templar) | [Beam skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=299,370,18,16,429,36,20,274,22,47,429,12) | Null Arca (or Whorl of the Depths)/Deadly Strikes/Velothi/Maelstrom Inferno (or Maelstrom Greatsword) | • Aedric Spear is for passives only, can easily swap to Gravelord, Ardent Flame, Dawn's Wrath or others<br>• For Crit damage on the **Alternative** support loadout, slot [Spear FB](https://sheumais.github.io/esoskillbarbuilder/?skills=299,81,18,16,429,36,20,274,22,47,429,12)<br>• Ansuuls and Coral are also good armor sets, especially for AoE fights |
+| **Meta Beam Arcanist** | Herald of the Tome (Arcanist), Assassination (Nightblade), Aedric Spear (Templar) | [Beam skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=299,370,18,16,429,36,20,274,22,47,429,12) | Null Arca (or Whorl of the Depths)/Deadly Strikes/Velothi/Maelstrom Inferno (or Maelstrom Greatsword) | • Aedric Spear is for passives only, can easily swap to Gravelord, Ardent Flame, Dawn's Wrath or others<br>• **For increased Crit damage, slot [Spear FB](https://sheumais.github.io/esoskillbarbuilder/?skills=299,81,18,16,429,36,20,274,22,47,429,12)** <br>• Ansuuls and Coral are also good armor sets, especially for AoE fights |
 | **Blastbones Necro** | Gravelord (Necromancer), Assassination (Nightblade), Aedric Spear (Templar) | [Necro skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=231,234,232,238,429,36,237,334,336,47,429,228) | Corpseburster/Null Arca (or Depths, Ansuuls)/Velthi/Maelstrom Greatsword | • Aedric Spear is for passives only, can easily swap to Ardent Flame, Dawn's Wrath, Animal Companions, or others |
 | **Non-Beam Nightblade** | Assassination (Nightblade), Herald of the Tome (Arcanist), Stormcalling (Sorcerer) | [NB skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=43,39,46,19,429,36,173,20,334,372,429,12) | Null Arca/Tideborn/Velothi/Maelstrom Greatsword | • Lots of flexibility with Stormcalling line for others |
-| **Frost Focused** | Winter's Embrace (Warden), Herald of the Tome (Arcanist), Assassination (Nightblade) | [Frost skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=372,47,14,19,429,36,21,334,210,209,429,36) | Whorl of the Depths/Ice Furnace or Frostbite/Velothi/Maelstrom Ice Staff |  |
+| **Frost Focused** | Winter's Embrace (Warden), Herald of the Tome (Arcanist), Assassination (Nightblade) | [Frost skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=372,47,14,19,429,36,21,334,210,209,429,36) | Whorl of the Depths/Ice Furnace or Frostbite/Velothi/Maelstrom Ice Staff | • Lots of flexibility with skill lines |
 
 ----------------------------------------------
 
@@ -93,7 +76,7 @@ MT [Pearl/Yoln/Tremor]: *[Frost Cloak :TANK_warden:; Igneous Weapons  :TankDK: ]
 OT [Sax/PA/AD]:  *[Charged Atronach :TANKsorc: ]* 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 H [SPC/MA/Pearls/Potentates]:  *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Barrier ]*
-H [MA/Sax/Spaulder or Ozezan]:  *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Glacial Colossus :HEAL_necro: ; Healthy Offering :HEAL_NB: ]*
+H [MA/Sax/Master's Resto/Spaulder or Ozezan]:  *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Glacial Colossus :HEAL_necro: ; Healthy Offering :HEAL_NB: ]*
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 M1: [Z'en/MK] *[Traveling Knife ]*
 M2: 
@@ -125,7 +108,7 @@ Your Local Time:
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 **RIGHT STACK (Reactor)**
 MT [Yoln/Crimson/Naz] (Purge for first boss): *[Frost Cloak :TANK_warden:; Igneous Weapons :TankDK: ]*
-H [MA/PA/Spaulder or Ozezan] (Purge):  *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Glacial Colossus :HEAL_necro: ; Healthy Offering :HEAL_NB: ]*
+H [MA/PA//Master's Resto/Spaulder or Ozezan] (Purge):  *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Glacial Colossus :HEAL_necro: ; Healthy Offering :HEAL_NB: ]*
 DPS: [Z'en/MK] *[Traveling Knife ]*
 DPS:
 DPS:
@@ -164,7 +147,7 @@ Your Local Time:
 MT [Crimson/Yoln/Naz]  *[Frost Cloak :TANK_warden:; Igneous Weapons :TankDK: ]*
 OT [Sax/Pearl/Spaulder] *[Charged Atronach :TANKsorc:  ]*
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-GH [SPC/MA] *[Budding Seeds :HEAL_warden:; Healthy Offering :HEAL_NB:; Barrier ]*
+GH [SPC/MA/Master's Resto] *[Budding Seeds :HEAL_warden:; Healthy Offering :HEAL_NB:; Barrier ]*
 FK [Zen/MA/AD]  *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Healthy Offering :HEAL_NB: ; Glacial Colossus :HEAL_necro: ]*
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 L1:  *[ Pragmatic Fatecarver :Arc_STAM: ]*
@@ -196,7 +179,7 @@ Portal Tank 1 [Sax/Pearl/AD]: Steed mundus - Ele Sus Z'Maja/Crystal: *[Igneous W
 Portal Tank 2 [Sax/Pearl/Naz]: Steed Mundus - Ele Sus Z'Maja/Crystals:  *[Igneous Weapons :TankDK: ]*
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 Healers
-R Group Healer: [MA/PA/Spaulder or Ozezan]:  *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Glacial Colossus :HEAL_necro: ; Healthy Offering :HEAL_NB: ]*
+R Group Healer: [MA/PA//Master's Resto/Spaulder or Ozezan]:  *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Glacial Colossus :HEAL_necro: ; Healthy Offering :HEAL_NB: ]*
 L Kite Healer: [SPC/MA/Pearls/Potentates] (Ele Sus Grapes):  *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Barrier ]*
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 PORTAL 1
@@ -234,7 +217,7 @@ Tomb H [SPC/MA/Pearls/Potentates]:  *[Budding Seeds :HEAL_warden: ; Healthy Offe
 4:
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 **WING STACK**
-GH [MA/Sax/Spaulder or Ozezan]:  *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Glacial Colossus :HEAL_necro: ; Healthy Offering :HEAL_NB: ]*
+GH [MA/Sax//Master's Resto/Spaulder or Ozezan]:  *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Glacial Colossus :HEAL_necro: ; Healthy Offering :HEAL_NB: ]*
 5: 
 6:
 7:
@@ -266,7 +249,7 @@ MT [Pearl/Yoln/Tremor]: *[Frost Cloak :TANK_warden:; Igneous Weapons  :TankDK: ]
 OT [Sax/PA/AD] (Guard): *[Charged Atronach :TANKsorc: ]* 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 H [SPC/MA/Pearls/Potentates]:  *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Barrier ]*
-H [MA/Sax/Spaulder or Ozezan]:  *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Glacial Colossus :HEAL_necro: ; Healthy Offering :HEAL_NB: ]* 
+H [MA/Sax//Master's Resto/Spaulder or Ozezan]:  *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Glacial Colossus :HEAL_necro: ; Healthy Offering :HEAL_NB: ]* 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 M1 [Z'en/MK] *[Traveling Knife ]*  
 M2  
@@ -296,7 +279,7 @@ MT: [Crimson/Yoln/Naz]: *[Frost Cloak :TANK_warden:;  Igneous Weapons :TankDK: ]
 OT: [Pearl/Sax/Spaulder] (Lord Warden on Bahsei): *[Summoning Armor :TANK_necro: ; Charged Atronach :TANK_sorc: ]*
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 KH: [SPC/MA/Pearls/Potentates]:  *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Barrier ]*
-GH: [MA/Sax/Spaulder or Ozezan]:  *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Glacial Colossus :HEAL_necro: ; Healthy Offering :HEAL_NB: ]* 
+GH: [MA/Sax/Master's Resto/Spaulder or Ozezan]:  *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Glacial Colossus :HEAL_necro: ; Healthy Offering :HEAL_NB: ]* 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 DPS: [Z'en/MK] *[Traveling Knife ]*
 DPS: (Guard): 
@@ -331,7 +314,7 @@ M4 [Z'en/MK] *[Traveling Knife ]*
 
 **LEFT STACK**
 OT [Pearl/Sax/AD]:  *[Charged Atronach :TANKsorc:  ]* 
-H [MA/PA/Spaulder or Ozezan]:  *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Glacial Colossus :HEAL_necro: ; Healthy Offering :HEAL_NB: ]* 
+H [MA/PA/Master's Resto/Spaulder or Ozezan]:  *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Glacial Colossus :HEAL_necro: ; Healthy Offering :HEAL_NB: ]* 
 M1 top left:
 M2 bottom left: 
 M3 dome swap: 
@@ -365,7 +348,7 @@ Your Local Time:
 MT [Yoln/Crimson/Naz]: *[Frost Cloak :TANK_warden: ; Igneous Weapons  :TankDK: ]*
 OT [Pearl/Sax/AD]: *[Charged Atronach :TANKsorc: ]* 
 
-H1 [MA/PA/Spaulder or Ozezan]:  *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Glacial Colossus :HEAL_necro: ; Healthy Offering :HEAL_NB: ]* 
+H1 [MA/PA/Master's Resto/Spaulder or Ozezan]:  *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Glacial Colossus :HEAL_necro: ; Healthy Offering :HEAL_NB: ]* 
 H2 [SPC/MA/Pearls/Potentates]:  *[Budding Seeds :HEAL_warden: ; Healthy Offering :HEAL_NB:; Barrier ]*
 
 1 [Z'en/MK]: *[Traveling Knife ]*
@@ -401,7 +384,7 @@ NW DPS:
 
 **SCORPION**
 OT [Pearl/Sax/AD]:  *[ Charged Atronach :TANKsorc:  ]* (kite boss 2)
-(E 90 / N 60) H2: [MA/PA/Spaulder or Ozezan, SPC/MA first boss]:  *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Glacial Colossus :HEAL_necro: ; Healthy Offering :HEAL_NB: ]*   
+(E 90 / N 60) H2: [MA/PA/Master's Resto/Spaulder or Ozezan, SPC/MA first boss]:  *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Glacial Colossus :HEAL_necro: ; Healthy Offering :HEAL_NB: ]*   
 N DPS: 
 NE DPS: 
 E DPS:  
@@ -481,11 +464,11 @@ Knot:
 **Other meta setups, in brief:**
 
 * All/most supports in Bone Tyrant (Necromancer) for high ult gen in trash.  Move Winter's Embrace / Frost Cloak onto a Healer.
-* Running Courage on the Banner.  Tank drops Yolna.  Both Healers running Healing Burst with Anchorite's Potency for ult gen, and/or sourcing Minor Heroism from Heroism Potions.  Slayer Stacks become very important.  (Note that Soul Burst heals based on loading order into trial, so there's some shenanigans to optimie here).
+* Running Courage on the Banner.  Tank drops Yolna.  Both Healers running Healing Burst with Anchorite's Potency for ult gen, and/or sourcing Minor Heroism from Heroism Potions.  Slayer Stacks become very important.  (Note that Soul Burst heals based on loading order into trial, so there's some shenanigans to optimize here).
 
 ## Changelog
 
-* 2025-05-30: Explicitly list Master's Resto for MA/Sax / ROJO Healer
+* 2025-05-30: Explicitly list Master's Resto for MA/Sax / ROJO Healer; remove confusing Alternative loadouts
 * 2025-05-28: Made ROJO a more explicit option (dang it); listed growing impact contigency option; switched OT to siphoning
 * 2025-05-25: Fixed Support DPS skill bars, credit Banyu
 * 2025-05-22: Explicitly listed alternative support loadout with Lucent and DPS with spear skill, to ditch Major Force.
