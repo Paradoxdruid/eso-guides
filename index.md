@@ -147,8 +147,8 @@ Your Local Time:
 MT [Crimson/Yoln/Naz]  *[Frost Cloak :TANK_warden:; Igneous Weapons :TankDK: ]*
 OT [Sax/Pearl/Spaulder] *[Charged Atronach :TANKsorc:  ]*
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-GH [SPC/MA/Master's Resto] *[Budding Seeds :HEAL_warden:; Healthy Offering :HEAL_NB:; Barrier ]*
-FK [Zen/MA/AD]  *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Healthy Offering :HEAL_NB: ; Glacial Colossus :HEAL_necro: ]*
+GH [SPC/PP/Master's Resto] *[Budding Seeds :HEAL_warden:; Healthy Offering :HEAL_NB:; Barrier ]*
+FK [Zen/AD]  *[Radiant Aura :HEAL_templar:; Extended Ritual :HEAL_templar: ; Healthy Offering :HEAL_NB: ; Glacial Colossus :HEAL_necro: ]*
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 L1:  *[ Pragmatic Fatecarver :Arc_STAM: ]*
 L2: *[ Pragmatic Fatecarver :Arc_STAM: ]*
