@@ -415,7 +415,7 @@ Knot:
 
 * **Typical Meta Penetration (Arc/NB):**
   * Major Breach (Ele Sus) 5,948
-  * Minor Breach (Cruxweaver on MT or good Brittle uptimes) 2,974
+  * Minor Breach (Cruxweaver on MT or good Wall/Ele Sus uptimes) 2,974
   * Crusher 2,108
   * Piercing Blue CP 700
   * (just a note, NB Master Assassin grants crit and not penetration now)
@@ -423,6 +423,7 @@ Knot:
   * Velothi: 1,650
   * Arcanist passives, 2 abilities slotted (Flail and Beam): 2,480
   * (optional: 1 Light Armor 939)
+  * (optional: Ansuuls 1,487)
   * SUBTOTAL: 15,860; need 2,340 to reach cap
   * Tremorscale 2,640 (or Runic Sunder 2,200)
   * **TOTAL**: 18,500 (18,060 with sunder)
@@ -468,7 +469,7 @@ Knot:
 
 ## Changelog
 
-* 2025-05-30: Explicitly list Master's Resto for MA/Sax / ROJO Healer; remove confusing Alternative loadouts; removed MK recommendation
+* 2025-05-30: Explicitly list Master's Resto for MA/Sax / ROJO Healer; remove confusing Alternative loadouts; removed MK recommendation; clarify penetration minor breach
 * 2025-05-28: Made ROJO a more explicit option (dang it); listed growing impact contigency option; switched OT to siphoning
 * 2025-05-25: Fixed Support DPS skill bars, credit Banyu
 * 2025-05-22: Explicitly listed alternative support loadout with Lucent and DPS with spear skill, to ditch Major Force.
