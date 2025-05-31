@@ -1,6 +1,6 @@
 # Paradoxdruid's ESO Guides
 
-*This is a work in progess; last updated 2025-05-30*
+*This is a work in progess; last updated 2025-05-31*
 
 These represent Paradoxdruid's best attempt at capturing the mid-tier meta for U46 (groups who regularly do vet and vet HM content; not trifecta progs or scorepushing attempts).  
 
@@ -51,7 +51,8 @@ Please look at [Other Approaches](#other-approaches) for a few other possible me
 
 | Type | Class Lines | Skill Bar Links | Typical Sets | Notes |
 | ---- | ----------- | --------------- | ------------ | ----- |
-| **Meta Beam Arcanist** | Herald of the Tome (Arcanist), Assassination (Nightblade), Aedric Spear (Templar) | [Beam skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=299,370,18,16,429,36,20,274,22,47,429,12) | Null Arca (or Whorl of the Depths)/Deadly Strikes/Velothi/Maelstrom Inferno (or Maelstrom Greatsword) | • Aedric Spear is for passives only, can easily swap to Gravelord, Ardent Flame, Dawn's Wrath or others<br>• **For increased Crit damage, slot [Spear FB](https://sheumais.github.io/esoskillbarbuilder/?skills=299,81,18,16,429,36,20,274,22,47,429,12)** <br>• Ansuuls and Coral are also good armor sets, especially for AoE fights |
+| **Meta Beam Arcanist**<br>Aedric Spear variant | Herald of the Tome (Arcanist), Assassination (Nightblade), Aedric Spear (Templar) | [Beam skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=299,370,18,16,429,36,20,274,22,47,429,12) | Null Arca (or Whorl of the Depths)/Deadly Strikes/Velothi/Maelstrom Inferno (or Maelstrom Greatsword) | • Aedric Spear is for passives only, can easily swap to Gravelord, Ardent Flame, or others<br>• **For increased Crit damage, slot [Spear FB](https://sheumais.github.io/esoskillbarbuilder/?skills=299,81,18,16,429,36,20,274,22,47,429,12)** <br>• Ansuuls and Coral are also good armor sets, especially for AoE fights |
+| **Meta Beam Arcanist**<br>Dawn's Wrath variant | Herald of the Tome (Arcanist), Assassination (Nightblade), Dawn's Wrath (Templar) | [Beam skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=299,94,18,16,429,36,20,334,89,47,429,12) | Null Arca (or Ansuuls)/Deadly Strikes/Velothi/Maelstrom Greatsword (or Maelstrom Inferno) | • Coral and Whorl are also good armor sets<br> • Usually benefits from Major Savagery on Banner |
 | **Blastbones Necro** | Gravelord (Necromancer), Assassination (Nightblade), Aedric Spear (Templar) | [Necro skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=231,234,232,238,429,36,237,334,336,47,429,228) | Corpseburster/Null Arca (or Depths, Ansuuls)/Velthi/Maelstrom Greatsword | • Aedric Spear is for passives only, can easily swap to Ardent Flame, Dawn's Wrath, Animal Companions, or others |
 | **Non-Beam Nightblade** | Assassination (Nightblade), Herald of the Tome (Arcanist), Stormcalling (Sorcerer) | [NB skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=43,39,46,19,429,36,173,20,334,372,429,12) | Null Arca/Tideborn/Velothi/Maelstrom Greatsword | • Lots of flexibility with Stormcalling line for others |
 | **Frost Focused** | Winter's Embrace (Warden), Herald of the Tome (Arcanist), Assassination (Nightblade) | [Frost skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=372,47,14,19,429,36,21,334,210,209,429,36) | Whorl of the Depths/Ice Furnace or Frostbite/Velothi/Maelstrom Ice Staff | • Lots of flexibility with skill lines |
@@ -469,6 +470,7 @@ Knot:
 
 ## Changelog
 
+* 2025-05-31: Added Dawn's Wrath variant meta Beam arcanist
 * 2025-05-30: Explicitly list Master's Resto for MA/Sax / ROJO Healer; remove confusing Alternative loadouts; removed MK recommendation; clarify penetration minor breach
 * 2025-05-28: Made ROJO a more explicit option (dang it); listed growing impact contigency option; switched OT to siphoning
 * 2025-05-25: Fixed Support DPS skill bars, credit Banyu
