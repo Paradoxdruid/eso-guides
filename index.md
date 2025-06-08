@@ -22,8 +22,6 @@ Please look at [Other Approaches](#other-approaches) for a few other possible me
 
 ## Support Loadouts 
 
-**Using Major Force, not requiring Aedric Spear FB skill on DPS**
-
 | Role | Class Lines | Skill Bar Links | Typical Sets | Notes |
 | ---- | ----------- | --------------- | ------------ | ----- |
 | **Main Tank** | Winter's Embrace (Warden), Soldier of Apocrypha (Arcanist), Daedric Summoning (Sorcerer) | [MT skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=28,153,403,211,33,419,206,270,430,288,154,145) | Pearl/Yolna/Tremor, Crimson/Yolna/Naz | • Can use Runic Sunder instead of Inner Rage for increased penetration, if needed<br>• Typical Ult: Charged Atronach |
@@ -406,15 +404,14 @@ Knot:
 
 ## Guiding Principles
 
-* Most dps will be in meta Arc/NB combos, which feature high penetration and crit damage.  With Reaving Blows CP and/or Pragmatic Fatecarver, they have high innate survivability.
-* Mid-tier players aren't perfect yet at stacking when needed, so effective use of slayer stacks is difficult.
+* Most dps will be in meta Arc/NB combos, which feature high penetration and crit damage.  With Pragmatic Fatecarver and/or Reaving Blows CP, they have high innate survivability.
 * Due to meta classes being Arc/NB, there is no need for Roar of Alkosh, Elemental Catalyst, or Crimson Oath's Rive sets in most fights (see calculations below).
 * With the changes to Zena's (targets 6, not smart targeting), sourcing Minor Courage requires a change.  Both healers in Healing Burst with Courage affix is possible, but again doesn't smart target.  All Banners in Courage works, but requires expensive Heroism potions.  Tank in Yolnakriin is the easiest source to reliably get everyone Minor Courage.  The recovery buffs from Zena's are moved to a healer running Radiant Aura.
 * With changes to ult gen, pillager's profit is no longer worth it, but it's possible for healers to generate enough ult to spam low cost Barrier and Colossus ults almost on cooldown.
 
 ## Buff Calculations
 
-* **Typical Meta Penetration (Arc/NB):**
+* **Typical Meta Penetration (Arc/NB/Aedric):**
   * Major Breach (Ele Sus) 5,948
   * Minor Breach (Cruxweaver on MT or good Wall/Ele Sus uptimes) 2,974
   * Crusher 2,108
@@ -423,23 +420,21 @@ Knot:
   * (Null Arca and Deadliy Strikes have no Pen lines)
   * Velothi: 1,650
   * Arcanist passives, 2 abilities slotted (Flail and Beam): 2,480
-  * (optional: 1 Light Armor 939)
-  * (optional: Ansuuls 1,487)
-  * SUBTOTAL: 15,860; need 2,340 to reach cap
-  * Tremorscale 2,640 (or Runic Sunder 2,200)
-  * **TOTAL**: 18,500 (18,060 with sunder)
+  * 1 Light Armor 939
+  * Ansuuls 1,487
+  * **TOTAL**: 18,286
   * Overcap with no need for Kosh or Crimson
 
-* **Typical Meta Crit Damage (Arc/NB):**
+* **Typical Meta Crit Damage (Arc/NB/Aedric):**
   * Base 50%
   * Minor Brittle 10%
   * Velothi / Minor Force 10%
-  * 7 Medium armor 14% (optional: 6 pieces works, too)
+  * 6 Medium armor 12%
   * Nightblade passive 10%
   * Arcanist passive 12%
-  * Major Force (Horn and Sax) 20% 
-  * **TOTAL**: 126%
-  * (optional Lucent Echoes 11%, if bad Major Force uptimes)
+  * Lucent Echoes 11%
+  * Aedric Spear FB 12%
+  * **TOTAL**: 127%
   * Overcap with no need for EC
 
 ## Other Approaches
@@ -447,6 +442,7 @@ Knot:
 * One likely approach is putting DPS players in Courage Banner; this means the Tank doesn't need to run Yolna.  **Why I don't recommend:**
   *  In U46, there's less "must-have" tank sets, given the high crit damage and penetration.
   *  Minor Heroism is difficult to source--  the best options are Banner or Heroism pots, and most mid-tier groups can't afford to pop Heroism pots on cooldown and/or are bad at constantly chugging potions in general.
+  *  In the meta builds, we're moving away from Camo Hunter, so Major Savagery on the Banner is easier than chugging Weapon Power Potions.
 * What happened to ROJO?  **Why I don't recommend:**
   * First off, ROJO is still a great setup, and there's nothing wrong with it, per se.
   * But with the increased Ult generation available to healers, "spammable" ult sets and ults become more useful, allowing high uptimes just from ult generation.
@@ -457,11 +453,6 @@ Knot:
   * With the increased Ult generation available to healers in U46, "spammable" ult sets and ults become more useful, allowing high uptimes just from ult generation.
   * Additionally, Pillagers was nerfed to 40% of it's former effectiveness, and the Pearls nerf reduces the ability to get those maximized pillager's ults.
   * However, it's still a unique buff, and I'm sure it will still see use.
-* Why worry about Major Force?  Run Lucent Echoes and/or EC, have DPS players slot a spear ability, and you don't need Major Force at all.  **Why I don't recommend**:
-  * With the increased Ult generation available to Off Tanks in U46, "spammable" ult sets and ults become more useful, allowing high uptimes just from ult generation.  An OT in Sax can have very high Major Force uptimes, especially if MT runs Horn as well.
-  * Aggressive Horn remains a unique stat buff and is worthwhile even if major force is less required.
-  * Focusing on buffs with previously low uptimes, like Major Berserk from Atronach, will lead to higher group DPS.
-  * For mid-tier groups, we expect a range of preparedness and sets from players.  Reducing the need for EC, Lucent Echoes, etc makes the roster more accessible for less well geared-out players.
 
 **Other meta setups, in brief:**
 
