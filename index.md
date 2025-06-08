@@ -1,6 +1,6 @@
 # Paradoxdruid's ESO Guides
 
-*This is a work in progess; last updated 2025-05-31*
+*This is a work in progess; last updated 2025-06-07 with new support loadouts*
 
 These represent Paradoxdruid's best attempt at capturing the mid-tier meta for U46 (groups who regularly do vet and vet HM content; not trifecta progs or scorepushing attempts).  
 
@@ -26,10 +26,10 @@ Please look at [Other Approaches](#other-approaches) for a few other possible me
 
 | Role | Class Lines | Skill Bar Links | Typical Sets | Notes |
 | ---- | ----------- | --------------- | ------------ | ----- |
-| **Main Tank** | Winter's Embrace (Warden), Soldier of Apocrypha (Arcanist), Earthern Heart (Dragonknight) | [MT skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=28,139,403,211,33,419,206,270,430,288,136,408) | Pearl/Yolna/Tremor, Crimson/Yolna/Naz | • Can use Runic Sunder instead of Inner Rage for increased penetration<br>• Typical Ult: Aggressive Horn |
-| **Off Tank** | Daedric Summoning (Sorcerer), Bone Tyrant (Necromancer), Siphoning (Nightblade) |  [OT skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=152,62,403,218,223,419,221,270,430,415,69,145) | Sax/PA/AD, Sax/Pearl/AD, Sax/Lucent/AD |  • **Wear Lucent if group needs more crit damage**<br> • Typical Ult: Charged Atronach<br> • Can replace Funnel Health with Vamp Drain |
-| **MA/Sax (or PA) Healer**<br>or **ROJO Healer** | Siphoning (Nightblade), Restoring Light (Templar), Gravelord (Necromancer) |  [MA/Sax skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=319,104,406,323,64,419,385,270,412,102,398,228) | • MA (body)/Sax (BB)/Master's Resto (FB)/Spaulder or Ozezan, MA/PA (BB)/Master's Resto (FB)/Spaulder or Ozezan<br>• RO (BB)/JO (body)/Master's Resto (FB)/Ozezan | • Typical Ult: Glacial Colossus<br>• Pearls mythic is optional<br> • If Contingency with Growing Impact and Intellect/Endurance is used, can drop Templar line for others |
-| **SPC/MA (or PP) Healer** | Green Balance (Warden), Siphoning (Nightblade), Curative Runeforms (Arcanist) | [SPC skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=319,431,320,323,64,60,196,270,406,412,3,419) | SPC (FB)/MA (or PP) (body)/Pearls/Potentates (ring + BB) | • Spam Barrier<br>• Typical Ult: Barrier<br>• **Potentates set is optional, can use Symph of Blades instead** <br> • If paired with ROJO healer, SPC/PA also can work |
+| **Main Tank** | Winter's Embrace (Warden), Soldier of Apocrypha (Arcanist), Daedric Summoning (Sorcerer) | [MT skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=28,153,403,211,33,419,206,270,430,288,154,145) | Pearl/Yolna/Tremor, Crimson/Yolna/Naz | • Can use Runic Sunder instead of Inner Rage for increased penetration, if needed<br>• Typical Ult: Charged Atronach |
+| **Off Tank** | Grave Lord (Necromancer), Bone Tyrant (Necromancer), Siphoning (Nightblade) |  [OT skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=385,224,403,218,223,419,221,270,430,288,69,228) | Sax/PA/AD, Sax/Pearl/AD, Sax/Lucent/AD |  • **Wear Lucent if group needs more crit damage**<br> • Typical Ult: Glacial Colossus |
+| **MA/Sax (or PA) Healer**<br>or **ROJO Healer** | Siphoning (Nightblade), Restoring Light (Templar), Curative Runeforms (Arcanist) |  [MA/Sax skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=319,431,320,323,104,60,69,272,406,412,102,0) | • MA (body)/Sax (BB)/Master's Resto (FB)/Spaulder or Ozezan, MA/PA (BB)/Master's Resto (FB)/Spaulder or Ozezan<br>• RO (BB)/JO (body)/Master's Resto (FB)/Ozezan | • Typical Ult: Glyphic of the Tides<br>• Pearls mythic is optional instead of Master's Resto<br> • If Contingency with Growing Impact and Intellect/Endurance is used, can drop Templar line for others |
+| **SPC/MA (or PP) Healer** | Green Balance (Warden), Siphoning (Nightblade), Curative Runeforms (Arcanist) | [SPC skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=319,196,406,323,431,60,69,272,412,6,398,420) | SPC (FB)/MA (or PP) (body)/Pearls/Potentates (ring + BB) | • Typical Ult: Barrier<br> • **Potentates set is optional, can use Symph of Blades instead** <br> • If paired with ROJO healer, SPC/PA also can work |
 | **Support DPS** | Ardent Flame (Dragonknight), Gravelord (Necromancer), Assassination (Nightblade) | [Zen skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=299,235,302,372,119,36,334,336,113,114,47,228) | Zen/Null Arca, Zen/Ansuuls, Zen/Kosh  | • Provides Zen, fills gaps in Major Vuln<br>• Can wear Encratis monster set |
 
 **Scribed Skill Details** 
@@ -41,20 +41,20 @@ Please look at [Other Approaches](#other-approaches) for a few other possible me
 
 **Support loadout skills**
 
-* **MT**: *FB:* Impervious Runeward, Igneous Shield, Inner Rage, Polar Wind, Runegaurd of Still Waters, Replenishing Barrier; *BB:* Expansive Frost Cloak, Elemental Blockade, Leashing Soul, Elemental Susceptibility, Igneous Weapons, Aggressive Horn
-* **OT**: *FB:* Hardened Ward, Funnel Health, Inner Rage, Hungry Scythe, Necrotic Potency, Replenishing Barrier; *BB:* Summoning Armor, Elemental Blockade, Leashing Soul, Elemental Susceptibility, Siphoning Attacks, Charged Atronach
-* **MAPA Healer**:  *FB:* Illustrious Healing, Extended Ritual, Energy Orb, Combat Prayer, Healthy Offering, Replenishing Barrier; *BB:* Warding Contingency, Elemental Blockade, Echoing Vigor, Radiant Aura, Overflowing Altar, Aggressive Horn
-* **SPC Healer**:  *FB:* Illustrious Healing, Warding Burst, Radiating Regeneration (flex), Combat Prayer, Healthy Offering, Replenishing Barrier; *BB:* Budding Seeds, Elemental Blockade, Energy Orb, Echoing Vigor, Evolving Runemend, Glacial Colossus
+* **MT**: *FB:* Impervious Runeward, Regenerative Ward, Inner Rage, Polar Wind, Runeguard of Still Waters, Replenishing Barrier; *BB:* Expansive Frost Cloak, Elemental Blockade, Leashing Soul, Elemental Susceptibility, Bound Aegis, Charged Atronach
+* **OT**: *FB:* Ulfsild's Contingency, Agony Totem, Inner Rage, Hungry Scythe, Necrotic Potency, Replenishing Barrier; *BB:* Summoning Armor, Elemental Blockade, Leashing Soul, Elemental Susceptibility, Siphoning Attacks, Glacial Colossus
+* **MAPA Healer**:  *FB:* Illustrious Healing, Extended Ritual, Radiating Regeneration, Combat Prayer, Warding Burst, Soul Siphon; *BB:* Siphoning Attacks, Elemental Blockade, Echoing Vigor, Radiant Aura, Energy Orb, Glyphic of the Tides
+* **SPC Healer**:  *FB:* Illustrious Healing, Warding Burst, Energy Orb, Budding Seeds, Combat Prayer, Soul Siphon; *BB:* Siphoning Attacks, Elemental Blockade, Echoing Vigor, Chakram of Destiny, Overflowing Altar, Reviving Barrier
 * **Support DPS**: *FB:* Quick Cloak, Unnerving Boneyard, Traveling Knife, Barbed Trap, Flames of Oblivion, Incapacitating Strikes; **BB:* Stampede, Carve, Engulfing Flames, Relentless Focus, Venomous Claw, Glacial Colossus
 
 ## DPS Loadouts
 
 | Type | Class Lines | Skill Bar Links | Typical Sets | Notes |
 | ---- | ----------- | --------------- | ------------ | ----- |
-| **Meta Beam Arcanist**<br>Aedric Spear variant | Herald of the Tome (Arcanist), Assassination (Nightblade), Aedric Spear (Templar) | [Beam skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=299,370,18,16,429,36,20,274,22,47,429,12) | Null Arca (or Whorl of the Depths)/Deadly Strikes/Velothi/Maelstrom Inferno (or Maelstrom Greatsword) | • Aedric Spear is for passives only, can easily swap to Gravelord, Ardent Flame, or others<br>• **For increased Crit damage, slot [Spear FB](https://sheumais.github.io/esoskillbarbuilder/?skills=299,81,18,16,429,36,20,274,22,47,429,12)** <br>• Ansuuls and Coral are also good armor sets, especially for AoE fights |
-| **Meta Beam Arcanist**<br>Dawn's Wrath variant | Herald of the Tome (Arcanist), Assassination (Nightblade), Dawn's Wrath (Templar) | [Beam skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=299,94,18,16,429,36,20,334,89,47,429,12) | Null Arca (or Ansuuls)/Deadly Strikes/Velothi/Maelstrom Greatsword (or Maelstrom Inferno) | • Coral and Whorl are also good armor sets<br> • Usually benefits from Major Savagery on Banner |
-| **Blastbones Necro** | Gravelord (Necromancer), Assassination (Nightblade), Aedric Spear (Templar) | [Necro skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=231,234,232,238,429,36,237,334,336,47,429,228) | Corpseburster/Null Arca (or Depths, Ansuuls)/Velthi/Maelstrom Greatsword | • Aedric Spear is for passives only, can easily swap to Ardent Flame, Dawn's Wrath, Animal Companions, or others |
-| **Non-Beam Nightblade** | Assassination (Nightblade), Herald of the Tome (Arcanist), Stormcalling (Sorcerer) | [NB skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=43,39,46,19,429,36,173,20,334,372,429,12) | Null Arca/Tideborn/Velothi/Maelstrom Greatsword | • Lots of flexibility with Stormcalling line for others |
+> | **Meta Beam Arcanist**<br>Aedric Spear variant | Herald of the Tome (Arcanist), Assassination (Nightblade), Aedric Spear (Templar) | [Beam skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=299,370,18,16,429,36,20,274,22,47,429,12) | Ansuul's Torment (or Null Arca)/Deadly Strikes/Velothi/1 light Slimecraw/Maelstrom Inferno (or Maelstrom Greatsword) | • Aedric Spear is for passives only, can easily swap to Gravelord, Ardent Flame, or others<br>• **For increased Crit damage, slot [Spear FB](https://sheumais.github.io/esoskillbarbuilder/?skills=299,81,18,16,429,36,20,274,22,47,429,12)** |
+| **Meta Beam Arcanist**<br>Dawn's Wrath variant | Herald of the Tome (Arcanist), Assassination (Nightblade), Dawn's Wrath (Templar) | [Beam skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=299,94,18,16,429,36,20,334,89,47,429,12) | Ansuul's Torment (or Null Arca)/Deadly Strikes/Velothi/1 light Slimecraw/Maelstrom Inferno (or Maelstrom Greatsword) | • Usually benefits from Major Savagery on Banner |
+| **Blastbones Necro** | Gravelord (Necromancer), Assassination (Nightblade), Aedric Spear (Templar) | [Necro skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=231,234,232,238,429,36,237,334,336,47,429,228) | Corpseburster/Ansuuls/Velthi/1 piece light Slimecraw/Maelstrom Greatsword | • Aedric Spear is for passives only, can easily swap to Ardent Flame, Dawn's Wrath, Animal Companions, or others |
+| **Non-Beam Nightblade** | Assassination (Nightblade), Herald of the Tome (Arcanist), Stormcalling (Sorcerer) | [NB skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=43,39,46,19,429,36,173,20,334,372,429,12) | Ansuul's/Tideborn/Velothi/1 piece light Slimecraw/Maelstrom Greatsword | • Lots of flexibility with Stormcalling line for others |
 | **Frost Focused** | Winter's Embrace (Warden), Herald of the Tome (Arcanist), Assassination (Nightblade) | [Frost skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=372,47,14,19,429,36,21,334,210,209,429,36) | Whorl of the Depths/Ice Furnace or Frostbite/Velothi/Maelstrom Ice Staff | • Lots of flexibility with skill lines |
 
 ----------------------------------------------
@@ -470,6 +470,7 @@ Knot:
 
 ## Changelog
 
+* 2025-06-07: Revised support skill lines; made the meta of Ansuuls + 1 piece light armor the standard
 * 2025-05-31: Added Dawn's Wrath variant meta Beam arcanist
 * 2025-05-30: Explicitly list Master's Resto for MA/Sax / ROJO Healer; remove confusing Alternative loadouts; removed MK recommendation; clarify penetration minor breach
 * 2025-05-28: Made ROJO a more explicit option (dang it); listed growing impact contigency option; switched OT to siphoning
