@@ -2,11 +2,22 @@
 
 _This is a work in progess; last updated 2025-11-13 with new meta skill bars and revised support loadouts_
 
-These represent Paradoxdruid's best attempt at capturing the mid-tier meta for U46 (groups who regularly do vet and vet HM content; not trifecta progs or scorepushing attempts).
+These represent Paradoxdruid's best attempt at capturing the mid-tier meta for U48 (groups who regularly do vet and vet HM content; not trifecta progs or scorepushing attempts).
 
 **Wait, you've got it all wrong!** Yeah, maybe I do, that's totally fair. And in any case, there's lots of good approaches and strategies, and not a one-size-fits-all approach that will always apply. See discussion of [Other Approaches](#other-approaches) towards the end of the document, to point out a few other common thoughts, and why I'm not currently recommending them for mid-tier groups.
 
 Thanks for all the feedback I've received to date!
+
+---
+
+# Table of Contents
+
+- [U48 Build Guides](#eso-update-48-mid-tier-build-guides)
+  - [Support Build Guides](#support-loadouts)
+  - [DPS Build Guides](#update-48-dps-loadouts)
+- [Why Do I Use these Skills](#why-do-i-use-these-skills)
+- [U48 Trial Rosters](#eso-update-48-mid-tier-trial-rosters)
+- [Notes](#notes)
 
 ---
 
