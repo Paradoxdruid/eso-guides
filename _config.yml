@@ -3,6 +3,10 @@ description: Mid-tier builds, trial rosters, and other info.
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-leap-day
+
+toc:
+    min_level: 1
+    max_level: 2
 # remote_theme: just-the-docs/just-the-docs
 
 # plugins:
