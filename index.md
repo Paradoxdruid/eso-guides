@@ -102,6 +102,8 @@ Please look at [Other Approaches](#other-approaches) for a few other possible me
 | ------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
 | Herald of the Tome (Arcanist), <br>Aedric Spear (Templar), <br>Ardent Flame (Dragonknight) | _FB_: Quick Cloak, Venomous Claw, Cephaliarch's Flail, Pragmatic Fatecarver, Camo Hunter, Ult: Crescent Sweep<br><br>_BB_: Inspired Scholarship, Blockade of Fire, Flames of Oblivion, Fulminating Rune, Molten Whip, Ult: Standard of Might<br><br>[Beam skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=299,113,18,17,370,72,20,274,119,22,111,109) | • AOE: Ansuul's Torment/Deadly Strikes/Velothi/1 light Slimecraw/Maelstrom Inferno<br><br> • Single-Target: Null Arca/Tideborn/Velothi/1 light Slimecraw/Maelstrom Greatsword | • Replace Camo Hunter and Molten whip if running **Banner** (Shock/Cavaliar's Charge/Heroism) |
 
+**See [Parse Examples](./parses.html) for the Beam Arcanist**
+
 ### Meta Beam Arcanist (Dawn's Wrath variant)
 
 ![Beam Dawn skill bar](./assets/images/Beam_Dawn_skillbar.png)
