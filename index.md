@@ -6,12 +6,12 @@ These represent Paradoxdruid's best attempt at capturing the mid-tier meta for U
 
 # Table of Contents
 
-- [U48 Build Guides](#eso-update-48-mid-tier-build-guides)
-  - [Support Build Guides](#support-loadouts)
-  - [DPS Build Guides](#update-48-dps-loadouts)
-- [Why Do I Use these Skills](#why-do-i-use-these-skills)
-- [U48 Trial Rosters](#eso-update-48-mid-tier-trial-rosters)
-- [Notes](#notes)
+| Guide Section                                                                                                                                                                      | Why Do I Want To Read This?                                                                                                                                          |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| • [U48 Build Guides](#eso-update-48-mid-tier-build-guides)<br>&nbsp;&nbsp;• [Support Build Guides](#support-loadouts)<br>&nbsp;&nbsp;• [DPS Build Guides](#update-48-dps-loadouts) | I want to see skill bars, subclassing, and commonly worn armor sets to get up and running fast. **(Start here!)**                                                    |
+| • [Why Do I Use these Skills](#why-do-i-use-these-skills)                                                                                                                          | I want to see the details of why certain skills are used, and see alternative skills and breakdowns                                                                  |
+| • [U48 Trial Rosters](#eso-update-48-mid-tier-trial-rosters)                                                                                                                       | I plan to lead a trial, and I'd like a discord-ready roster template with roles, sets, and trial specific roles and group organization                               |
+| • [Notes](#notes)                                                                                                                                                                  | I want to understand how these builds reach penetration and crit damage cap, if there's other approaches that might work, or better understand assumptions made here |
 
 ---
 
