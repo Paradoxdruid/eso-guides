@@ -16,4 +16,4 @@ Return to [Paradoxdruid's ESO Guides: Builds and Rosters](./)
 
 | Damage                                                                                                     | Info                                                                                                 |
 | ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| [![aedric_dummy_damage](./assets/images/aedric_dummy_damage.png)](./assets/images/aedric_dummy_damage.png) | [![aedric_dummy_info](./assets/images/aedric_dummy_info.png)](./assets/images/aedric_dummy_info.png) |
+| [![aedric_dummy_damage](./assets/images/aedric_dummy_damage.png)](./assets/images/aedric_dummy_damage.png){:target="_blank" rel="noopener"} | [![aedric_dummy_info](./assets/images/aedric_dummy_info.png)](./assets/images/aedric_dummy_info.png){:target="_blank" rel="noopener"} |
