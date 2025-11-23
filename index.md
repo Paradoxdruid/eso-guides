@@ -1,3 +1,9 @@
+---
+layout: default
+title: Index
+---
+
+
 # Paradoxdruid's ESO Guides
 
 _This is a work in progess; last updated 2025-11-19._
@@ -15,7 +21,7 @@ These represent Paradoxdruid's best attempt at capturing the mid-tier meta for U
 
 ---
 
-**Wait, you've got it all wrong!** Yeah, maybe I do, that's totally fair. And in any case, there's lots of good approaches and strategies, and not a one-size-fits-all approach that will always apply. See discussion of [Other Approaches](#other-approaches) to point out a few other common thoughts. Thanks for all the feedback I've received to date!
+**Wait, you've got it all wrong!** Yeah, maybe I do, that's totally fair. And in any case, there's lots of good approaches and strategies, and not a one-size-fits-all approach that will always apply. Thanks for all the feedback I've received to date!
 
 ---
 
@@ -27,10 +33,6 @@ See [Guiding Principles](#guiding-principles) and [Buff Calculations](#buff-calc
 
 - In this standard setup, we rely on most DPS being Arc/NB/Ardent, and/or bringing Cro/Plar lines.
 - Because of this, Penetration and Crit Damage can be capped without some previously excellent support sets.
-- However, Minor Courage is difficult to source, so we put MT in Yolnakriin set.
-- Ultimate generation is also much easier with access to subclassing, so OT and both healers are focusing on spamming out ultimates as often as possible for high buff uptimes. We put for Heroism on Banners to ensure these 3 supports always have Minor Heroism.
-
-Please look at [Other Approaches](#other-approaches) for a few other possible meta setups and discussion.
 
 ## Support Loadouts
 
@@ -149,33 +151,33 @@ Please look at [Other Approaches](#other-approaches) for a few other possible me
 
 ### Back Bar
 
-| Icon                                                                | Name                                                                                           | Explanation                                                                                                                                                                                                                                                                                                                                                                                 |
-| ------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![frost blockade](./assets/icons/ability_destructionstaff_002b.png) | **Blockade of Frost**                                                                          | This is one of your most important debuff skills, and should always be active. It sets enemies Chilled and gives a projectile shield to your team, and procs the Crusher enchantment for pen.                                                                                                                                                                                               |
-| ![ele sus](./assets/icons/ability_destructionstaff_011b.png)        | **Elemental Susceptibility**                                                                   | This is your most important debuff skill, and should always be active. It applies Major Breach (increasing team damage by more than 10%) and, if Blockade of Frost is active, _also_ applies Minor Breach and Minor Brittle, for another ~4% damage increase, and Minor Maim. If healer has lightning blockade down, it **also** procs Off-Balance and Minor Vuln. Always keep both active! |
-| ![leashing soul](./assets/icons/ability_otherclass_003_a.png)       | **Leashing Soul**                                                                              | This scribed skill is the best Pull / chain in the game; long-range, cheap (with the Druid's script), and can apply Major Maim or Major Cowardice, reducing boss damage by up to 10%. I use this even on bosses I've taunted, to keep Major Maim up.                                                                                                                                        |
-| ![frost cloak](./assets/icons/ability_warden_001_a.png)             | **Expansive Frost Cloak**                                                                      | Group-wide Major Resolve, which reduces damage taken by ~9%. It needs to always be up.                                                                                                                                                                                                                                                                                                      |
-|                                                                     | Flex spot:                                                                                     |                                                                                                                                                                                                                                                                                                                                                                                             |
-|                                                                     | ![stone giant](./assets/icons/ability_dragonknight_013_a.png){:height="40em" width="40em"}     | **Stone Giant**: This ability increases group damage as you stack it; at full stacks it's roughly 3% more group damage. But it has a cast time, so you cannot Block while casting it, making it tricky to cast at times.                                                                                                                                                                    |
-|                                                                     | ![igneous weapons](./assets/icons/ability_dragonknight_015_a.png){:height="40em" width="40em"} | **Igneous Weapons**: Provides Major Brutality, which is massive damage boost (~+10%). However, most DPS can source this themselves from Inspired Scholarship, Skeletal Archer, or potions, so it's being run less and less.                                                                                                                                                                 |
-|                                                                     | ![contingency](./assets/icons/ability_grimoire_magesguild.png){:height="40em" width="40em"}    | **Ulfsild's Contingency**: A strong choice for survivability, it gives a good damage shield to you and allies, as well as a brief 8% unique damage reduction buff, and can give you Minor Mag & Stam recovery if you're far from group or healer isn't providing it.                                                                                                                        |
-| ![horn](./assets/icons/ability_ava_003_a.png)                       | Ultimate: **Aggressive Horn**                                                                  | Provides Major Force, which (if needed) gives ~4% damage to group --though many groups can reach crit cap without, as well as +10% max resources, which is another ~3% damage boost.                                                                                                                                                                                                        |
+| Icon                                                                | Name                                                              | Explanation                                                                                                                                                                                                                                                                                                                                                                                 |
+| ------------------------------------------------------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![frost blockade](./assets/icons/ability_destructionstaff_002b.png) | **Blockade of Frost**                                             | This is one of your most important debuff skills, and should always be active. It applies minor breach to chilled enemies and gives a projectile shield to your team, as well as proccing your weapon enchantment (Crusher for pen)                                                                                                                                                         |
+| ![ele sus](./assets/icons/ability_destructionstaff_011b.png)        | **Elemental Susceptibility**                                      | This is your most important debuff skill, and should always be active on important enemies. It applies Major Breach (increasing team damage by more than 10%) and the Burning, Chilled and Concussed status effects. These status effects provide Minor Maim, Minor Brittle and Minor Vulnerability. This skill also pairs well with wall of elements: Wall of Frost (from yourself) snares and reduces the armor of Chilled enemies and Wall of Storms (from a healer) sets Concussed enemies Off Balance. |
+| ![leashing soul](./assets/icons/ability_otherclass_003_a.png)       | **Leashing Soul**                                                 | This scribed skill is the best Pull / chain in the game; long-range, cheap (with the Druid's script), and can apply Major Maim or Major Cowardice, reducing boss damage by up to 10%. I use this even on bosses I've taunted, to keep Major Maim up.                                                                                                                                        |
+| ![frost cloak](./assets/icons/ability_warden_001_a.png)             | **Expansive Frost Cloak**                                         | Group-wide Major Resolve, which reduces damage taken by ~9%. It needs to always be up.                                                                                                                                                                                                                                                                                                      |
+|                                                                     | Flex spot:                                                        |                                                                                                                                                                                                                                                                                                                                                                                             |
+|                                                                     | ![stone giant](./assets/icons/ability_dragonknight_013_a.png)     | **Stone Giant**: This ability increases group damage as you stack it; at full stacks it's roughly 4k dps per damage dealer. The first cast has a cast time which drops your block requiring caution and attention when using this skill.                                                                                                                                                    |
+|                                                                     | ![igneous weapons](./assets/icons/ability_dragonknight_015_a.png) | **Igneous Weapons**: Provides Major Brutality, which is massive damage boost (~+10%). However, most DPS can source this themselves from Inspired Scholarship, Skeletal Archer, or potions, so it's being run less and less.                                                                                                                                                                 |
+|                                                                     | ![contingency](./assets/icons/ability_grimoire_magesguild.png)    | **Ulfsild's Contingency**: A strong choice for survivability, it gives a good damage shield to you and allies, as well as a brief 8% unique damage reduction buff, and can give you Minor Mag & Stam recovery if you're far from group or healer isn't providing it.                                                                                                                        |
+| ![horn](./assets/icons/ability_ava_003_a.png)                       | Ultimate: **Aggressive Horn**                                     | Provides Major Force, which (if needed) gives ~4% damage to group --though many groups can reach crit cap without, as well as +10% max resources, which is another ~3% damage boost.                                                                                                                                                                                                        |
 
 ### Situational Tank Skills
 
-| Icon                                                    | Name                                                                                          | Explanation                                                                                                                                                                                                                                      |
-| ------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| ![caltrops](./assets/icons/ability_ava_001_b.png)       | **Razor Caltrops**                                                                            | In trash, this replaces Ele Sus, to apply Major Breach to the whole group. It also slows small adds, giving DPS time to burn them before they get hit.                                                                                           |
-| ![goading](./assets/icons/ability_grimoire_1handed.png) | **Goading Throw**                                                                             | If you run sword and shield, this taunt is a stamina-based alternative that can also provide a strong heal, but no Radiate synergy.                                                                                                              |
-| ![sunder](./assets/icons/ability_arcanist_007_a.png)    | **Runic Sunder**                                                                              | Can replace Inner Rage as your taunt. It has shorter range and doesn't provide the powerful Radiate synergy, but applies Minor Maim, reducing boss damage 5%, a unique 2% damage reduction for you, and some penetration if your group needs it. |
-| ![charging](./assets/icons/ability_ava_002_b.png)       | **Charging Maneuver**                                                                         | Gives your group +45% speed for running through long trials.                                                                                                                                                                                     |
-| ![runeward](./assets/icons/ability_arcanist_008_b.png)  | **Impervious Runeward**                                                                       | A massive shield that can allow you to use Magicka instead spending stamina on a roll dodge to survive heavy attacks if you time it right.                                                                                                       |
-| ![temporal](./assets/icons/ability_psijic_001_b.png)    | **Temporal Guard**                                                                            | A good FB ultimate for passive Minor Protection (not needed if using Runeguard skill) and a 5K shield that recharges after 10 seconds not blocking.                                                                                              |
-| ![race](./assets/icons/ability_psijic_005_b.png)        | **Race Against Time**                                                                         | Immediately removes slows, which can be very useful for some add packs or bosses.                                                                                                                                                                |
-|                                                         | Other Class Lines                                                                             | Instead of **Earthen Heart**, some groups prefer **Siphoning** skill line. If so, you lose Igneous Shield and Stone Giant, so you might use:                                                                                                     |
-|                                                         | ![soul siphon](./assets/icons/ability_nightblade_018_b.png){:height="40em" width="40em"}      | **Soul Siphon** ultimate to replace Barrier FB. Passively slotted, gives you +6% Mag and Stam, +3% self-healing, and it's again a great "oh shit" button.                                                                                        |
-|                                                         | ![warding burst](./assets/icons/ability_grimoire_soulmagic2.png){:height="40em" width="40em"} | **Warding Burst**: A replacement spammable shield FB, it is both a shield and a HoT.                                                                                                                                                             |
-|                                                         | ![siphoning](./assets/icons/ability_nightblade_003_b.png){:height="40em" width="40em"}        | **Siphoning Attacks**: A BB passive skill that keeps up the +6% Mag & Stam when you bar swap, and any damage you deal (like, constantly from Blockade) heals you and restores resources. Can also be cast to restore resources.                  |
+| Icon                                                    | Name                                                             | Explanation                                                                                                                                                                                                                                      |
+| ------------------------------------------------------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![caltrops](./assets/icons/ability_ava_001_b.png)       | **Razor Caltrops**                                               | In trash, this replaces Ele Sus, to apply Major Breach to the whole group. It also slows small adds, giving DPS time to burn them before they get hit.                                                                                           |
+| ![goading](./assets/icons/ability_grimoire_1handed.png) | **Goading Throw**                                                | If you run sword and shield, this taunt is a stamina-based alternative that can also provide a strong heal, but no Radiate synergy.                                                                                                              |
+| ![sunder](./assets/icons/ability_arcanist_007_a.png)    | **Runic Sunder**                                                 | Can replace Inner Rage as your taunt. It has shorter range and doesn't provide the powerful Radiate synergy, but applies Minor Maim, reducing boss damage 5%, a unique 2% damage reduction for you, and some penetration if your group needs it. |
+| ![charging](./assets/icons/ability_ava_002_b.png)       | **Charging Maneuver**                                            | Gives your group +45% speed for running through long trials.                                                                                                                                                                                     |
+| ![runeward](./assets/icons/ability_arcanist_008_b.png)  | **Impervious Runeward**                                          | A massive shield that can allow you to use Magicka instead spending stamina on a roll dodge to survive heavy attacks if you time it right.                                                                                                       |
+| ![temporal](./assets/icons/ability_psijic_001_b.png)    | **Temporal Guard**                                               | A good FB ultimate for passive Minor Protection (not needed if using Runeguard skill) and a 5K shield that recharges after 10 seconds not blocking.                                                                                              |
+| ![race](./assets/icons/ability_psijic_005_b.png)        | **Race Against Time**                                            | Immediately removes slows, which can be very useful for some add packs or bosses.                                                                                                                                                                |
+|                                                         | Other Class Lines                                                | Instead of **Earthen Heart**, some groups prefer **Siphoning** skill line. If so, you lose Igneous Shield and Stone Giant, so you might use:                                                                                                     |
+|                                                         | ![soul siphon](./assets/icons/ability_nightblade_018_b.png)      | **Soul Siphon** ultimate to replace Barrier FB. Passively slotted, gives you +6% Mag and Stam, +3% self-healing, and it's again a great "oh shit" button.                                                                                        |
+|                                                         | ![warding burst](./assets/icons/ability_grimoire_soulmagic2.png) | **Warding Burst**: A replacement spammable shield FB, it is both a shield and a HoT.                                                                                                                                                             |
+|                                                         | ![siphoning](./assets/icons/ability_nightblade_003_b.png)        | **Siphoning Attacks**: A BB passive skill that keeps up the +6% Mag & Stam when you bar swap, and any damage you deal (like, constantly from Blockade) heals you and restores resources. Can also be cast to restore resources.                  |
 
 ### Overall Outcomes
 
@@ -197,72 +199,72 @@ This gives roughly:
 
 ### Front Bar
 
-| Icon                                                        | Name                                                                                        | Explanation                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| ----------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![sunder](./assets/icons/ability_arcanist_007_a.png)        | **Runic Sunder**                                                                            | Bread and butter taunt; applies Minor Maim, reducing boss damage 5%, a unique 2% damage reduction for you, and some penetration if your group needs it. Also generates Crux to heal with Runeward.                                                                                                                                                                                                                                                   |
-| ![still waters](./assets/icons/ability_arcanist_010_a.png)  | **Runeguard of Still Waters**                                                               | Group Minor Resolve, reducing damage taken by ~4% (although this should be provided by healers from Combat Prayer), as well as 5% damage reduction from Minor Protection for yourself. Also gives you a self-heal when your health goes down, and Immobilizes small adds. From passives, also increases your armor by 3000 while active, and grants the group Minor Evasion, reducing AoE damage by 10%. (Can be swapped backbar with the flex spot) |
-| ![spiteward](./assets/icons/ability_arcanist_008_a.png)     | **Spiteward of the Lucid Mind**                                                             | A massive shield that can allow you to use Magicka instead spending stamina on a roll dodge to survive heavy attacks if you time it right. Spiteward also heals some but spends crux.                                                                                                                                                                                                                                                                |
-| ![vigor](./assets/icons/ability_ava_resolving_vigor.png)    | **Resolving Vigor**                                                                         | A powerful heal and HoT you can spam as needed. Also gives Minor Resolve, but so does Runeguard.                                                                                                                                                                                                                                                                                                                                                     |
-|                                                             | Flex Spot:                                                                                  |                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-|                                                             | ![trample](./assets/icons/ability_grimoire_assault.png){:height="40em" width="40em"}        | **Trample**: Provides Major Heroism to help you spam ults.                                                                                                                                                                                                                                                                                                                                                                                           |
-|                                                             | ![contingency](./assets/icons/ability_grimoire_magesguild.png){:height="40em" width="40em"} | **Ulfsild's Contingency**: A strong choice for survivability, it gives a good damage shield to you and allies, as well as a brief 8% unique damage reduction buff, and can give you Minor Mag & Stam recovery if you're far from group or healer isn't providing it.                                                                                                                                                                                 |
-|                                                             | ![flare](./assets/icons/ability_ava_lingering_flare.png){:height="40em" width="40em"}       | **Blinding Flare**: Passively provides Major Protection for 10% damage reduction. Very useful if you anticipate a lot of DoT damage.                                                                                                                                                                                                                                                                                                                 |
-| ![soul siphon](./assets/icons/ability_nightblade_018_b.png) | Ultimate: **Soul Siphon**                                                                   | This serves two purposes. Passively slotted, it gives you +6% Mag and Stam, +3% self-healing. Second, it's a good "oh shit" button if you or especially the group is taking too much damage, to buy some breathing room.                                                                                                                                                                                                                             |
+| Icon                                                        | Name                                                           | Explanation                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| ----------------------------------------------------------- | -------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sunder](./assets/icons/ability_arcanist_007_a.png)        | **Runic Sunder**                                               | Bread and butter taunt; applies Minor Maim, reducing boss damage 5%, a unique 2% damage reduction for you, and some penetration if your group needs it. Also generates Crux to heal with Runeward.                                                                                                                                                                                                                                                   |
+| ![still waters](./assets/icons/ability_arcanist_010_a.png)  | **Runeguard of Still Waters**                                  | Group Minor Resolve, reducing damage taken by ~4% (although this should be provided by healers from Combat Prayer), as well as 5% damage reduction from Minor Protection for yourself. Also gives you a self-heal when your health goes down, and Immobilizes small adds. From passives, also increases your armor by 3000 while active, and grants the group Minor Evasion, reducing AoE damage by 10%. (Can be swapped backbar with the flex spot) |
+| ![spiteward](./assets/icons/ability_arcanist_008_a.png)     | **Spiteward of the Lucid Mind**                                | A massive shield that can allow you to use Magicka instead spending stamina on a roll dodge to survive heavy attacks if you time it right. Spiteward also heals some but spends crux.                                                                                                                                                                                                                                                                |
+| ![vigor](./assets/icons/ability_ava_resolving_vigor.png)    | **Resolving Vigor**                                            | A powerful heal and HoT you can spam as needed. Also gives Minor Resolve, but so does Runeguard.                                                                                                                                                                                                                                                                                                                                                     |
+|                                                             | Flex Spot:                                                     |                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|                                                             | ![trample](./assets/icons/ability_grimoire_assault.png)        | **Trample**: Provides Major Heroism to help you spam ults.                                                                                                                                                                                                                                                                                                                                                                                           |
+|                                                             | ![contingency](./assets/icons/ability_grimoire_magesguild.png) | **Ulfsild's Contingency**: A strong choice for survivability, it gives a good damage shield to you and allies, as well as a brief 8% unique damage reduction buff, and can give you Minor Mag & Stam recovery if you're far from group or healer isn't providing it.                                                                                                                                                                                 |
+|                                                             | ![flare](./assets/icons/ability_ava_lingering_flare.png)       | **Blinding Flare**: Passively provides Major Protection for 10% damage reduction. Very useful if you anticipate a lot of DoT damage.                                                                                                                                                                                                                                                                                                                 |
+| ![soul siphon](./assets/icons/ability_nightblade_018_b.png) | Ultimate: **Soul Siphon**                                      | This serves two purposes. Passively slotted, it gives you +6% Mag and Stam, +3% self-healing. Second, it's a good "oh shit" button if you or especially the group is taking too much damage, to buy some breathing room.                                                                                                                                                                                                                             |
 
 ### Back Bar
 
 | Icon                                                                | Name                                  | Explanation                                                                                                                                                                                                                                                                                                                                                                                 |
 | ------------------------------------------------------------------- | ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![cruxweaver](./assets/icons/ability_arcanist_009_a.png)            | **Cruxweaver Armor**                  | Your source of Major Resolve, also procs Minor Breach on enemies and generates Crux for damage reduction.                                                                                                                                                                                                                                                                                   |
-| ![frost blockade](./assets/icons/ability_destructionstaff_002b.png) | **Blockade of Frost**                 | This is one of your most important debuff skills, and should always be active. It sets enemies Chilled and gives a projectile shield to your team, and procs the Crusher enchantment for pen.                                                                                                                                                                                               |
-| ![ele sus](./assets/icons/ability_destructionstaff_011b.png)        | **Elemental Susceptibility**          | This is your most important debuff skill, and should always be active. It applies Major Breach (increasing team damage by more than 10%) and, if Blockade of Frost is active, _also_ applies Minor Breach and Minor Brittle, for another ~4% damage increase, and Minor Maim. If healer has lightning blockade down, it **also** procs Off-Balance and Minor Vuln. Always keep both active! |
+| ![frost blockade](./assets/icons/ability_destructionstaff_002b.png) | **Blockade of Frost**                 | This is one of your most important debuff skills, and should always be active. It applies minor breach to chilled enemies and gives a projectile shield to your team, as well as proccing your weapon enchantment (Crusher for pen)                                                                                                                                                         |
+| ![ele sus](./assets/icons/ability_destructionstaff_011b.png)        | **Elemental Susceptibility**          | This is your most important debuff skill, and should always be active on important enemies. It applies Major Breach (increasing team damage by more than 10%) and the Burning, Chilled and Concussed status effects. These status effects provide Minor Maim, Minor Brittle and Minor Vulnerability. This skill also pairs well with wall of elements: Wall of Frost (from yourself) snares and reduces the armor of Chilled enemies and Wall of Storms (from a healer) sets Concussed enemies Off Balance. |
 | ![leashing soul](./assets/icons/ability_otherclass_003_a.png)       | **Leashing Soul**                     | This scribed skill is the best Pull / chain in the game; long-range, cheap (with the Druid's script), and can apply Major Maim or Major Cowardice, reducing boss damage by up to 10%. I use this even on bosses I've taunted, to keep Major Maim up.                                                                                                                                        |
 | ![siphoning](./assets/icons/ability_nightblade_003_b.png)           | **Siphoning Attacks**                 | A passive skill that keeps up the +6% Mag & Stam when you bar swap, and any damage you deal (like, constantly from Blockade) heals you and restores resources. Can also be cast to restore resources.                                                                                                                                                                                       |
 | ![atronach](./assets/icons/ability_sorcerer_endless_atronachs.png)  | Ultimate: **Summon Charged Atronach** | A powerful ult that also provides a synergy to give groupwide Major Berserk (+10% damage).                                                                                                                                                                                                                                                                                                  |
 
 ### Situational Tank Skills
 
-| Icon                                                    | Name                                                                                       | Explanation                                                                                                                                                                                                                                                                                                       |
-| ------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![caltrops](./assets/icons/ability_ava_001_b.png)       | **Razor Caltrops**                                                                         | In trash, this replaces Ele Sus, to apply Major Breach to the whole group. It also slows small adds, giving DPS time to burn them before they get hit.                                                                                                                                                            |
-| ![goading](./assets/icons/ability_grimoire_1handed.png) | **Goading Throw**                                                                          | If you run sword and shield, this taunt is a stamina-based alternative that can also provide a strong heal, but no Radiate synergy.                                                                                                                                                                               |
-| ![charging](./assets/icons/ability_ava_002_b.png)       | **Charging Maneuver**                                                                      | Gives your group +45% speed for running through long trials.                                                                                                                                                                                                                                                      |
-| ![temporal](./assets/icons/ability_psijic_001_b.png)    | **Temporal Guard**                                                                         | A good FB ultimate for passive Minor Protection (not needed if using Runeguard skill) and a 5K shield that recharges after 10 seconds not blocking.                                                                                                                                                               |
-| ![race](./assets/icons/ability_psijic_005_b.png)        | **Race Against Time**                                                                      | Immediately removes slows, which can be very useful for some add packs or bosses.                                                                                                                                                                                                                                 |
-|                                                         | Other Class Lines                                                                          | Instead of **Siphoning**, some groups prefer **Earthern Heart** or **Winter's Embrace** skill line on OT. If so, you lose Soul Siphon and Siphoning Attacks, so you might use:                                                                                                                                    |
-|                                                         | ![barrier](./assets/icons/ability_ava_006_b.png){:height="40em" width="40em"}              | **Reviving Barrier** ultimate: This serves two purposes. First, it usually is just used for the passive, which will give +10% Magicka recovery. Second, it's a good "oh shit" button if you or especially the group is taking too much damage, to buy some breathing room.                                        |
-|                                                         | ![igneous](./assets/icons/ability_dragonknight_017b.png){:height="40em" width="40em"}      | **Igneous Shield**: A decent damage shield that also shields allies. Greatly increases your self-healing. Through passives, it also restores Stamina and grants the group Minor Brutality (~1% damage bump). Shields are a great spammable to lessen hits, and give time for your health bar to refill from HoTs. |
-|                                                         | ![stone giant](./assets/icons/ability_dragonknight_013_a.png){:height="40em" width="40em"} | **Stone Giant**: This ability increases group damage as you stack it; at full stacks it's roughly 3% more group damage. But it has a cast time, so you cannot Block while casting it, making it tricky to cast at times.                                                                                          |
-|                                                         | ![frost cloak](./assets/icons/ability_warden_001_a.png){:height="40em" width="40em"}       | **Expansive Frost Cloak**: Group-wide Major Resolve, which reduces damage taken by ~9%. It should always be up.                                                                                                                                                                                                   |
-|                                                         | ![polar wind](./assets/icons/ability_warden_003_a.png){:height="40em" width="40em"}        | **Polar Wind**: A very strong self-heal. It heals a big chunk upfront, and applies a strong HoT effect as well. Your spammable heal, usually cast right after Igneous Shields to maximize the healing.                                                                                                            |
+| Icon                                                    | Name                                                          | Explanation                                                                                                                                                                                                                                                                                                       |
+| ------------------------------------------------------- | ------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![caltrops](./assets/icons/ability_ava_001_b.png)       | **Razor Caltrops**                                            | In trash, this replaces Ele Sus, to apply Major Breach to the whole group. It also slows small adds, giving DPS time to burn them before they get hit.                                                                                                                                                            |
+| ![goading](./assets/icons/ability_grimoire_1handed.png) | **Goading Throw**                                             | If you run sword and shield, this taunt is a stamina-based alternative that can also provide a variety of useful tools as needed. The strength of this skill is its customisability. If you need a heal, resources or a specific debuff that may be difficult to source otherwise it is very simple to put it on this skill.|
+| ![charging](./assets/icons/ability_ava_002_b.png)       | **Charging Maneuver**                                         | Gives your group +45% speed for running through long trials.                                                                                                                                                                                                                                                      |
+| ![temporal](./assets/icons/ability_psijic_001_b.png)    | **Temporal Guard**                                            | A good FB ultimate for passive Minor Protection (not needed if using Runeguard skill) and a 5K shield that recharges after 10 seconds not blocking.                                                                                                                                                               |
+| ![race](./assets/icons/ability_psijic_005_b.png)        | **Race Against Time**                                         | Immediately removes slows, which can be very useful for some add packs or bosses.                                                                                                                                                                                                                                 |
+|                                                         | Other Class Lines                                             | Instead of **Siphoning**, some groups prefer **Earthern Heart** or **Winter's Embrace** skill line on OT. If so, you lose Soul Siphon and Siphoning Attacks, so you might use:                                                                                                                                    |
+|                                                         | ![barrier](./assets/icons/ability_ava_006_b.png)              | **Reviving Barrier** ultimate: This serves two purposes. First, it usually is just used for the passive, which will give +10% Magicka recovery. Second, it's a good "oh shit" button if you or especially the group is taking too much damage, to buy some breathing room.                                        |
+|                                                         | ![igneous](./assets/icons/ability_dragonknight_017b.png)      | **Igneous Shield**: A decent damage shield that also shields allies. Greatly increases your self-healing. Through passives, it also restores Stamina and grants the group Minor Brutality (~1% damage bump). Shields are a great spammable to lessen hits, and give time for your health bar to refill from HoTs. |
+|                                                         | ![stone giant](./assets/icons/ability_dragonknight_013_a.png) | **Stone Giant**: This ability increases group damage as you stack it; at full stacks it's roughly 4k dps per damage dealer. The first cast has a cast time which drops your block requiring caution and attention when using this skill.                                                                          |
+|                                                         | ![frost cloak](./assets/icons/ability_warden_001_a.png)       | **Expansive Frost Cloak**: Group-wide Major Resolve, which reduces damage taken by ~9%. It should always be up.                                                                                                                                                                                                   |
+|                                                         | ![polar wind](./assets/icons/ability_warden_003_a.png)        | **Polar Wind**: A very strong self-heal. It heals a big chunk upfront, and applies a strong HoT effect as well. Your spammable heal, usually cast right after Igneous Shields to maximize the healing.                                                                                                            |
 
 ## Green Balance Healer Skills
 
 **Disclaimer**: As always, the "right" abilities will depend on group composition (what skills the other tank and the healers are running), what content you are doing (mechanics, boss specific needs, are you going to need to chain things), and other factors. This is just a starting point!
 
-**Note**: Just by having the Green Balance class line, all of your healing applies Minor Toughness, an important unique +10% health buff.
+**Note**: Just by having the Green Balance class line (specifically the maturation passive), all of your healing applies Minor Toughness to allies, an important and unique +10% max health buff.
 
 ### Front Bar
 
-| Icon                                                                | Name                                                                                        | Explanation                                                                                                                                                                                                                                                      |
-| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![illustrious](./assets/icons/ability_restorationstaff_004b.png)    | **Illustrious Healing**                                                                     | This is one of your primary ground heal over time (HoT) spells; it should always be up for the group. It smart targets, unlike the other morph.                                                                                                                  |
-| ![budding seeds](./assets/icons/ability_warden_007_b.png)           | **Budding Seeds**                                                                           | This is your other primary ground HoT. This also provides a good healing synergy. Often, you will keep this ability focused on the MT, so they have a synergy available to restore resources.                                                                    |
-| ![combat prayer](./assets/icons/ability_restorationstaff_003_b.png) | **Combat Prayer**                                                                           | Your main healing spammable and probably most-cast ability. It heals everyone in a large rectangle in front of you, as well as providing Minor Resolve (~3% damage reduction) and Minor Berserk (5% damage increase). If in doubt, spam this during heal checks. |
-| ![warding burst](./assets/icons/ability_grimoire_soulmagic2.png)    | **Warding Burst**                                                                           | This provides a useful damage shield for HoTs to heal the group under, and with _Anchorite's Potency_ gives you and the group ultimate generation.                                                                                                               |
-|                                                                     | Flex Spot:                                                                                  |                                                                                                                                                                                                                                                                  |
-|                                                                     | ![radiating](./assets/icons/ability_restorationstaff_002a.png){:height="40em" width="40em"} | **Radiating Regeneration**: This is a good semi-spammable for keeping magicka low and to provide a sticky heal when folks need to leave group for mechanics.                                                                                                     |
-|                                                                     | ![contingency](./assets/icons/ability_grimoire_magesguild.png){:height="40em" width="40em"} | **Warding Contingency**: With Damage Shield and Growing Impact, this skill can give groupwide Minor Protection (5% damage reduction) or Minor Mag & Stam recovery, if a healer with Restoring Light isn't providing it.                                          |
-|                                                                     | ![offering](./assets/icons/ability_nightblade_011_a.png){:height="40em" width="40em"}       | **Healthy Offering**: This is a strong heal for single-target heal checks like Tombs, and will generate ultimate from passives.                                                                                                                                  |
-|                                                                     | ![altar](./assets/icons/ability_undaunted_001_a.png){:height="40em" width="40em"}           | **Overflowing Altar**: One healer should always be running this strong heal and provider of massive heal synergy, preferably near the Tank.                                                                                                                      |
-| ![soul siphon](./assets/icons/ability_nightblade_018_b.png)         | Ultimate: **Soul Siphon**                                                                   | This serves two purposes. Passively slotted, it gives you +6% Mag and Stam, +3% self-healing. Second, it's a good "oh shit" button if you or especially the group is taking too much damage, to buy some breathing room.                                         |
+| Icon                                                                | Name                                                           | Explanation                                                                                                                                                                                                                                                      |
+| ------------------------------------------------------------------- | -------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![illustrious](./assets/icons/ability_restorationstaff_004b.png)    | **Illustrious Healing**                                        | This is one of your primary ground heal over time (HoT) spells; it should always be up for the group. It smart targets, unlike the other morph.                                                                                                                  |
+| ![budding seeds](./assets/icons/ability_warden_007_b.png)           | **Budding Seeds**                                              | This is your other primary ground HoT. This also provides a good healing synergy. Often, you will keep this ability focused on the MT, so they have a synergy available to restore resources.                                                                    |
+| ![combat prayer](./assets/icons/ability_restorationstaff_003_b.png) | **Combat Prayer**                                              | Your main healing spammable and probably most-cast ability. It heals everyone in a large rectangle in front of you, as well as providing Minor Resolve (~3% damage reduction) and Minor Berserk (5% damage increase). If in doubt, spam this during heal checks. |
+| ![warding burst](./assets/icons/ability_grimoire_soulmagic2.png)    | **Warding Burst**                                              | This provides a useful damage shield for HoTs to heal the group under, and with _Anchorite's Potency_ gives you and the group ultimate generation.                                                                                                               |
+|                                                                     | Flex Spot:                                                     |                                                                                                                                                                                                                                                                  |
+|                                                                     | ![radiating](./assets/icons/ability_restorationstaff_002a.png) | **Radiating Regeneration**: This is a good semi-spammable for keeping magicka low and to provide a sticky heal when folks need to leave group for mechanics.                                                                                                     |
+|                                                                     | ![contingency](./assets/icons/ability_grimoire_magesguild.png) | **Warding Contingency**: With Damage Shield and Growing Impact, this skill can give groupwide Minor Protection (5% damage reduction) or Minor Mag & Stam recovery, if a healer with Restoring Light isn't providing it.                                          |
+|                                                                     | ![offering](./assets/icons/ability_nightblade_011_a.png)       | **Healthy Offering**: This is a strong heal for single-target heal checks like Tombs, and will generate ultimate from passives.                                                                                                                                  |
+|                                                                     | ![altar](./assets/icons/ability_undaunted_001_a.png)           | **Overflowing Altar**: One healer should always be running this strong heal and provider of massive heal synergy, preferably near the Tank.                                                                                                                      |
+| ![soul siphon](./assets/icons/ability_nightblade_018_b.png)         | Ultimate: **Soul Siphon**                                      | This serves two purposes. Passively slotted, it gives you +6% Mag and Stam, +3% self-healing. Second, it's a good "oh shit" button if you or especially the group is taking too much damage, to buy some breathing room.                                         |
 
 ### Back Bar
 
 | Icon                                                           | Name                               | Explanation                                                                                                                                                                                                                                                                                                                                  |
 | -------------------------------------------------------------- | ---------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![orb](./assets/icons/ability_undaunted_004b.png)              | **Energy Orb**                     | A very strong HoT and source of an essential recovery synergy. It should always be up and active, usually aimed and near to tanks. (can switch with flex spot FB)                                                                                                                                                                            |
-| ![blockade](./assets/icons/ability_destructionstaff_003_b.png) | **Blockade of Lightning**          | This is an important debuff skill. It sets enemies Concussed (to get off-balance with Tank's Ele Sus cast), and procs the Crusher or Weakening enchantment on your BB staff. Skill can be dropped sometimes, if you have a DPS with off-balance Knife skill, or just need barspace for Altar or situational skills.                          |
+| ![blockade](./assets/icons/ability_destructionstaff_003_b.png) | **Blockade of Lightning**          | This is an important debuff skill. It sets concussed enemies (sourced from Tank's Ele Sus) off balance, and procs the Crusher or Weakening enchantment on your BB staff. Skill can be dropped sometimes, if you have a DPS with off-balance Knife skill, or just need barspace for Altar or situational skills.                              |
 | ![vigor](./assets/icons/ability_ava_echoing_vigor.png)         | **Echoing Vigor**                  | A very strong sticky HoT (so good to cast before dps run off to do mechanics) that is Stamina based, to help manage resources.                                                                                                                                                                                                               |
 | ![chakram](./assets/icons/ability_arcanist_015_a.png)          | **Chakram of Destiny**             | A good spammable shield skill. It also generates Crux, which increases all your healing by up to 12%. (can switch with flex spot FB)                                                                                                                                                                                                         |
 | ![siphoning](./assets/icons/ability_nightblade_003_b.png)      | **Siphoning Attacks**              | A passive skill that keeps up the +6% Mag & Stam when you bar swap, and any damage you deal (like, constantly from Blockade) heals you and restores resources. Can also be cast to restore resources when low.                                                                                                                               |
@@ -274,11 +276,11 @@ This gives roughly:
 | ------------------------------------------------------------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![barrier](./assets/icons/ability_ava_006_b.png)              | **Reviving Barrier** BB ultimate | This serves two purposes. First, it passively gives +10% Magicka recovery. Second, it is a very strong shield and HoT for heavy damage moments, and is very useful for groupwide damage checks.   |
 | ![thicket](./assets/icons/ability_warden_012_b.png)           | **Healing Thicket**              | A strong extra HoT. Importantly, it's very cheap to cast, so if you need spammable extra healing, like vSE Ansuul HM, it's worth considering.                                                     |
-| ![zenas](./assets/icons/ability_arcanist_017_a.png)           | **Zena's Empowering Disc**       | Minor Courage and Mag & Stam recovery is very nice, but only hits six targets. Useful for dungeons or trials with split Bosses like vLC Garg/Scorp.                                               |
-| ![purge](./assets/icons/ability_ava_005_b.png)                | **Efficient Purge**              | A few trials require this skill to purge harmful effects, notably vHoF. Many effects you would expect to be purgable in other trials... aren't.                                                   |
+| ![zenas](./assets/icons/ability_arcanist_017_a.png)           | **Zenas' Empowering Disc**       | Minor Courage and Mag & Stam recovery is very nice, but only hits six targets. Useful for dungeons or trials with split Bosses like vLC Garg/Scorp.                                               |
+| ![purge](./assets/icons/ability_ava_005_b.png)                | **Efficient Purge**              | Purges harmful effects which can make some fights easier, such as in the first boss in vHoF. Many effects you would expect to be purgable in other trials... aren't.                                                |
 | ![ele sus](./assets/icons/ability_destructionstaff_011b.png)  | **Elemental Susceptibility**     | For some trials, healers will need to slot this to debuff side adds, such as Protectors in vAS+2. Applies Major Breach, and will proc Off-Balance if your Blockade of Lightning is on the target. |
 | ![leashing soul](./assets/icons/ability_otherclass_003_a.png) | **Leashing Soul**                | Sometimes healers need to taunt; using a Pull skill allows you to taunt without fear of stealing taunt from the Boss and you can apply Major Cowardice or Major Maim to reduce enemy damage.      |
-| ![trample](./assets/icons/ability_grimoire_assault.png)       | **Trample**                      | A source of Major Heroism if you can't wear Pearls Mythic; but usually bar space is tighter than set space.                                                                                       |
+| ![trample](./assets/icons/ability_grimoire_assault.png)       | **Trample**                      | An alternative source of Major Heroism instead of the Pearls of Ehlnofey Mythic.                                                                                                                  |
 | ![guard](./assets/icons/ability_ava_mystic_guard.png)         | **Mystic Guard**                 | Powerful damage reduction for a Tank, used in certain boss fights, like vDSR Twins HM.                                                                                                            |
 
 ## Restoring Healer Skills
@@ -287,18 +289,18 @@ This gives roughly:
 
 ### Front Bar
 
-| Icon                                                                | Name                                                                                        | Explanation                                                                                                                                                                                                                                                      |
-| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![illustrious](./assets/icons/ability_restorationstaff_004b.png)    | **Illustrious Healing**                                                                     | This is one of your primary ground heal over time (HoT) spells; it should always be up for the group. It smart targets, unlike the other morph.                                                                                                                  |
-| ![ritual](./assets/icons/ability_templar_extended_ritual.png)       | **Extended Ritual**                                                                         | Your other primary ground HoT. Extremely strong and long-lasting, and also provides a group-wide synergy for resource recovery.                                                                                                                                  |
-| ![combat prayer](./assets/icons/ability_restorationstaff_003_b.png) | **Combat Prayer**                                                                           | Your main healing spammable and probably most-cast ability. It heals everyone in a large rectangle in front of you, as well as providing Minor Resolve (~3% damage reduction) and Minor Berserk (5% damage increase). If in doubt, spam this during heal checks. |
-| ![warding burst](./assets/icons/ability_grimoire_soulmagic2.png)    | **Warding Burst**                                                                           | This provides a useful damage shield for HoTs to heal the group under, and with _Anchorite's Potency_ gives you and the group ultimate generation.                                                                                                               |
-|                                                                     | Flex Spot:                                                                                  |                                                                                                                                                                                                                                                                  |
-|                                                                     | ![radiating](./assets/icons/ability_restorationstaff_002a.png){:height="40em" width="40em"} | **Radiating Regeneration**: This is a good semi-spammable for keeping magicka low and to provide a sticky heal when folks need to leave group for mechanics.                                                                                                     |
-|                                                                     | ![contingency](./assets/icons/ability_grimoire_magesguild.png){:height="40em" width="40em"} | **Warding Contingency**: With Damage Shield and Growing Impact, this skill can give groupwide Minor Protection (5% damage reduction) or Minor Mag & Stam recovery, if a healer with Restoring Light isn't providing it.                                          |
-|                                                                     | ![offering](./assets/icons/ability_nightblade_011_a.png){:height="40em" width="40em"}       | **Healthy Offering**: This is a strong heal for single-target heal checks like Tombs, and will generate ultimate from passives.                                                                                                                                  |
-|                                                                     | ![altar](./assets/icons/ability_undaunted_001_a.png){:height="40em" width="40em"}           | **Overflowing Altar**: One healer should always be running this strong heal and provider of massive heal synergy, preferably near the Tank.                                                                                                                      |
-| ![soul siphon](./assets/icons/ability_nightblade_018_b.png)         | Ultimate: **Soul Siphon**                                                                   | This serves two purposes. Passively slotted, it gives you +6% Mag and Stam, +3% self-healing. Second, it's a good "oh shit" button if you or especially the group is taking too much damage, to buy some breathing room.                                         |
+| Icon                                                                | Name                                                           | Explanation                                                                                                                                                                                                                                                      |
+| ------------------------------------------------------------------- | -------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![illustrious](./assets/icons/ability_restorationstaff_004b.png)    | **Illustrious Healing**                                        | This is one of your primary ground heal over time (HoT) spells; it should always be up for the group. It smart targets, unlike the other morph.                                                                                                                  |
+| ![ritual](./assets/icons/ability_templar_extended_ritual.png)       | **Extended Ritual**                                            | Your other primary ground HoT. Extremely strong and long-lasting, and also provides a group-wide synergy for resource recovery.                                                                                                                                  |
+| ![combat prayer](./assets/icons/ability_restorationstaff_003_b.png) | **Combat Prayer**                                              | Your main healing spammable and probably most-cast ability. It heals everyone in a large rectangle in front of you, as well as providing Minor Resolve (~3% damage reduction) and Minor Berserk (5% damage increase). If in doubt, spam this during heal checks. |
+| ![warding burst](./assets/icons/ability_grimoire_soulmagic2.png)    | **Warding Burst**                                              | This provides a useful damage shield for HoTs to heal the group under, and with _Anchorite's Potency_ gives you and the group ultimate generation.                                                                                                               |
+|                                                                     | Flex Spot:                                                     |                                                                                                                                                                                                                                                                  |
+|                                                                     | ![radiating](./assets/icons/ability_restorationstaff_002a.png) | **Radiating Regeneration**: This is a good semi-spammable for keeping magicka low and to provide a sticky heal when folks need to leave group for mechanics.                                                                                                     |
+|                                                                     | ![contingency](./assets/icons/ability_grimoire_magesguild.png) | **Warding Contingency**: With Damage Shield and Growing Impact, this skill can give groupwide Minor Protection (5% damage reduction) or Minor Mag & Stam recovery, if a healer with Restoring Light isn't providing it.                                          |
+|                                                                     | ![offering](./assets/icons/ability_nightblade_011_a.png)       | **Healthy Offering**: This is a strong heal for single-target heal checks like Tombs, and will generate ultimate from passives.                                                                                                                                  |
+|                                                                     | ![altar](./assets/icons/ability_undaunted_001_a.png)           | **Overflowing Altar**: One healer should always be running this strong heal and provider of massive heal synergy, preferably near the Tank.                                                                                                                      |
+| ![soul siphon](./assets/icons/ability_nightblade_018_b.png)         | Ultimate: **Soul Siphon**                                      | This serves two purposes. Passively slotted, it gives you +6% Mag and Stam, +3% self-healing. Second, it's a good "oh shit" button if you or especially the group is taking too much damage, to buy some breathing room.                                         |
 
 ### Back Bar
 
@@ -320,7 +322,7 @@ This gives roughly:
 | ![purge](./assets/icons/ability_ava_005_b.png)                     | **Efficient Purge**                   | A few trials require this skill to purge harmful effects, notably vHoF. Many effects you would expect to be purgable in other trials... aren't.                                                   |
 | ![ele sus](./assets/icons/ability_destructionstaff_011b.png)       | **Elemental Susceptibility**          | For some trials, healers will need to slot this to debuff side adds, such as Protectors in vAS+2. Applies Major Breach, and will proc Off-Balance if your Blockade of Lightning is on the target. |
 | ![leashing soul](./assets/icons/ability_otherclass_003_a.png)      | **Leashing Soul**                     | Sometimes healers need to taunt; using a Pull skill allows you to taunt without fear of stealing taunt from the Boss and you can apply Major Cowardice or Major Maim to reduce enemy damage.      |
-| ![trample](./assets/icons/ability_grimoire_assault.png)            | **Trample**                           | A source of Major Heroism if you can't wear Pearls Mythic; but usually bar space is tighter than set space.                                                                                       |
+| ![trample](./assets/icons/ability_grimoire_assault.png)            | **Trample**                           | An alternative source of Major Heroism instead of the Pearls of Ehlnofey Mythic.                                                                                                                  |
 | ![guard](./assets/icons/ability_ava_mystic_guard.png)              | **Mystic Guard**                      | Powerful damage reduction for a Tank, used in certain boss fights, like vDSR Twins HM.                                                                                                            |
 
 ## Beam Skills
@@ -329,44 +331,45 @@ This gives roughly:
 
 ### Front Bar
 
-| Icon                                                                                                              | Name                                                                                  | Explanation                                                                                                                                                                                                                                                                                                                       |
-| ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![cloak](./assets/icons/ability_dualwield_004_a.png)                                                              | **Quick Cloak**                                                                       | This important close-range DoT provides the important Major Evasion buff (-20% damage from AoEs), and procs both of the enchantments on your frontbar daggers.                                                                                                                                                                    |
-| ![flail](./assets/icons/ability_arcanist_003_a.png)                                                               | **Cephaliarch's Flail**                                                               | Your essential skill for building Crux. You should almost always follow the pattern (with Inspired Scholarship running) of "Flail, Flail, Beam". It also heals you if it hits an enemy, and gives a +5% damage taken to enemies hit.                                                                                              |
-| ![fatecarver](./assets/icons/ability_arcanist_002_b.png)                                                          | **Pragmatic Fatecarver**                                                              | Your core skill and typical over 50% of your total damage. **ABB: Always Be Beaming.** It gives you a strong damage shield as well. To survive extended AoE damage (vAS, vSS Lokke, etc), you can cast beam, tap Bash to cancel the beam, and immediately recast Beam to refresh the shield repeatedly.                           |
-| ![camo](./assets/icons/ability_fightersguild_002_b.png)<br>![banner](./assets/icons/ability_grimoire_support.png) | **Camouflaged Hunter** or<br>**Banner Bearer**                                        | Slotted purely for the passives and never cast. You get Minor Berserk for +5% damage attacking enemies from behind, and +3% Weapon Damage for having it slotted. Can be replaced by **Banner Bearer** (typically Shock/Cavalier's Charge/Heroism). In fights like vSS, where you can never get behind the boss, it's less useful. |
-|                                                                                                                   | Flex spot:                                                                            |                                                                                                                                                                                                                                                                                                                                   |
-|                                                                                                                   | ![flames](./assets/icons/ability_dragonknight_004_b.png){:height="40em" width="40em"} | **Engulfing Flames**: A decent DoT that makes enemies take +6% fire damage from all sources, and can refresh your Molten Whip stacks.                                                                                                                                                                                             |
-|                                                                                                                   | ![venom](./assets/icons/ability_dragonknight_003_a.png){:height="40em" width="40em"}  | **Venomous Claw**: A very strong DoT that refreshes whip stacks. Because it's damage ramps up, you generally don't want to recast it early.                                                                                                                                                                                       |
-|                                                                                                                   | ![trap](./assets/icons/ability_fightersguild_004_a.png){:height="40em" width="40em"}  | **Barbed Trap**: A very strong DoT and source of hemorrhage status damage, and gives +3% Weapon Damage from passives.                                                                                                                                                                                                             |
-|                                                                                                                   | ![vigor](./assets/icons/ability_ava_resolving_vigor.png){:height="40em" width="40em"} | **Resolving Vigor**: a clutch heal and source of Minor Resolve, useful for portals or other mechanics where you'll be far from healer.                                                                                                                                                                                            |
-| ![incap](./assets/icons/ability_nightblade_007_a.png)                                                             | Ultimate: **Incapacitating Strike**                                                   | This serves two purposes. Passively slotted, it gives you +10% Crit Damage, and provides Minor Savagery (+6% Crit Chance). Second, it's a good "need damage now" skill or if you know you won't save enough ultimate to use Standard of Might before the fight ends.                                                              |
+| Icon                                                                                                              | Name                                                     | Explanation                                                                                                                                                                                                                                                                                                                       |
+| ----------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![cloak](./assets/icons/ability_dualwield_004_a.png)                                                              | **Quick Cloak**                                          | This important close-range DoT provides the important Major Evasion buff (-20% damage from AoEs), and procs both of the enchantments on your frontbar daggers.                                                                                                                                                                    |
+| ![flail](./assets/icons/ability_arcanist_003_a.png)                                                               | **Cephaliarch's Flail**                                  | Your essential skill for building Crux. You should almost always follow the pattern (with Inspired Scholarship running) of "Flail, Flail, Beam". It also heals you if it hits an enemy, and gives a +5% damage taken to enemies hit.                                                                                              |
+| ![fatecarver](./assets/icons/ability_arcanist_002_b.png)                                                          | **Pragmatic Fatecarver**                                 | Your core skill and typical over 50% of your total damage. **ABB: Always Be Beaming.** It gives you a strong damage shield as well. To survive extended AoE damage (vAS, vSS Lokke, etc), you can cast beam, tap Bash to cancel the beam, and immediately recast Beam to refresh the shield repeatedly.                           |
+| ![camo](./assets/icons/ability_fightersguild_002_b.png)<br>![banner](./assets/icons/ability_grimoire_support.png) | **Camouflaged Hunter** or<br>**Banner Bearer**           | Slotted purely for the passives and never cast. You get Minor Berserk for +5% damage attacking enemies from behind, and +3% Weapon Damage for having it slotted. Can be replaced by **Banner Bearer** (typically Shock/Cavalier's Charge/Heroism). In fights like vSS, where you can never get behind the boss, it's less useful. |
+|                                                                                                                   | Flex spot:                                               |                                                                                                                                                                                                                                                                                                                                   |
+|                                                                                                                   | ![flames](./assets/icons/ability_dragonknight_004_b.png) | **Engulfing Flames**: A decent DoT that makes enemies take +6% fire damage from all sources, and can refresh your Molten Whip stacks.                                                                                                                                                                                             |
+|                                                                                                                   | ![venom](./assets/icons/ability_dragonknight_003_a.png)  | **Venomous Claw**: A very strong DoT that refreshes whip stacks. Because it's damage ramps up, you generally don't want to recast it early.                                                                                                                                                                                       |
+|                                                                                                                   | ![trap](./assets/icons/ability_fightersguild_004_a.png)  | **Barbed Trap**: A very strong DoT and source of hemorrhage status damage which provides +3% Weapon Damage from passives.                                                                                                                                                                                                         |
+|                                                                                                                   | ![vigor](./assets/icons/ability_ava_resolving_vigor.png) | **Resolving Vigor**: A self heal and source of Minor Resolve, useful for portals or other mechanics where you'll be far from healer.                                                                                                                                                                                              |
+| ![incap](./assets/icons/ability_nightblade_007_a.png)                                                             | Ultimate: **Incapacitating Strike** or **Soul Harvest**  | This serves two purposes. Passively slotted, it gives you +10% Crit Damage, and provides Minor Savagery (+6% Crit Chance). Second, it's a good "need damage now" skill or if you know you won't save enough ultimate to use Standard of Might before the fight ends. The morph choice depends on the content. When doing content with many enemies, such as dungeons and certain trials, soul harvest is the preferred morph due to its unique passive of giving 10 ultimate upon dealing a killing blow. |
 
 ### Back Bar
 
-| Icon                                                                                                             | Name                                                                                        | Explanation                                                                                                                                                                                                                                                                           |
-| ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![scholarship](./assets/icons/ability_arcanist_005_a.png)                                                        | **Inspired Scholarship**                                                                    | A critical buff that passively provides Major Brutality (+20% damage done), generates a free Crux every time you spend Crux, and gives extra direct damage hits.                                                                                                                      |
-|                                                                                                                  | Weapon Skill:                                                                               |                                                                                                                                                                                                                                                                                       |
-|                                                                                                                  | ![stampede](./assets/icons/ability_2handed_003_a.png){:height="40em" width="40em"}          | **Stampede**: If using Maelstrom Greatsword, this skill gives a guaranteed Crit hit, a decent DoT, but more importantly gives up to +12% direct damage done from Maelstrom set, and Infused with Weapon Damage glyph provides another big increase to Weapon Damage.                  |
-|                                                                                                                  | ![blockade](./assets/icons/ability_destructionstaff_004_b.png){:height="40em" width="40em"} | **Blockade of Fire**: If using Maelstrom Inferno Staff, this skill gives a very, very high damage DoT (often in the top 3 or 4 sources of total dps), and Infused with Weapon Damage glyph provides another big increase to Weapon Damage.                                            |
-| ![FoO](./assets/icons/ability_dragonknight_002_a.png)                                                            | **Flames of Oblivion**                                                                      | A very, very high damage DoT that passively gives the important Major Savagery buff.                                                                                                                                                                                                  |
-|                                                                                                                  | DoT Spot:                                                                                   |                                                                                                                                                                                                                                                                                       |
-|                                                                                                                  | ![venom](./assets/icons/ability_dragonknight_003_a.png){:height="40em" width="40em"}        | **Venomous Claw**: A very strong DoT that refreshes whip stacks. Because it's damage ramps up, you generally don't want to recast it early. Definitely what to put here if it isn't on your front bar.                                                                                |
-|                                                                                                                  | ![fulminating](./assets/icons/ability_arcanist_004_b.png){:height="40em" width="40em"}      | **Fulminating Rune**: A good DoT that also provides a good synergy to your team. It's Magicka-based, which can help balance out sustain issues if using Greatsword backbar.                                                                                                           |
-|                                                                                                                  | ![caltrops](./assets/icons/ability_ava_001_a.png){:height="40em" width="40em"}              | **Anti-Cavalry Caltrops**: A good damage, large AoE DoT. Useful in large add packs.                                                                                                                                                                                                   |
-| ![whip](./assets/icons/ability_dragonknight_001_b.png)<br>![banner](./assets/icons/ability_grimoire_support.png) | **Molten Whip** or<br>**Banner Bearer**                                                     | Slotted purely passively, it provides +300 Weapon Damage if stacks are kept up. Can be replaced by **Banner Bearer** (typically Shock/Cavalier's Charge/Heroism).                                                                                                                     |
-| ![vigor](./assets/icons/ability_dragonknight_006_b.png)                                                          | Ultimate: **Standard of Might**                                                             | A very strong DoT effect that also gives you +15% damage done and -15% damage taken, as well as provides allies with a synergy. It's only downsides are that it's expansive to cast and immobile, so make sure not to cast it right before a boss moves or goes into an invuln stage. |
+| Icon                                                                                                             | Name                                                           | Explanation                                                                                                                                                                                                                                                                           |
+| ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![scholarship](./assets/icons/ability_arcanist_005_a.png)                                                        | **Inspired Scholarship**                                       | A critical buff that passively provides Major Brutality (+20% damage done), generates a free Crux every time you spend Crux, and gives extra direct damage hits.                                                                                                                      |
+|                                                                                                                  | Weapon Skill:                                                  | This is the most important backbar skill to keep up because it procs your infused backbar weapon damage enchantment (regardless of sets/arena weapons).                                                                                                                               |
+|                                                                                                                  | ![stampede](./assets/icons/ability_2handed_003_a.png)          | **Stampede**: If using Maelstrom Greatsword, this skill gives a guaranteed Crit hit, a decent DoT, but more importantly gives up to +12% direct damage done from Maelstrom set. Note that the small ground-based DoT is what needs to deal damage to proc your enchantment.           |
+|                                                                                                                  | ![blockade](./assets/icons/ability_destructionstaff_004_b.png) | **Blockade of Fire**: If using Maelstrom Inferno Staff, this skill gives a very, very high damage DoT (often in the top 3 or 4 sources of total dps).                                                                                                                                 |
+| ![FoO](./assets/icons/ability_dragonknight_002_a.png)                                                            | **Flames of Oblivion**                                         | Passive Major Savagery for slotting, a very important buff, as well as a strong DoT when active. Also refreshes whip stacks.                                                                                                                                                          |
+|                                                                                                                  | DoT Spot:                                                      |                                                                                                                                                                                                                                                                                       |
+|                                                                                                                  | ![venom](./assets/icons/ability_dragonknight_003_a.png)        | **Venomous Claw**: A very strong DoT that refreshes whip stacks. Because it's damage ramps up, you generally don't want to recast it early. Definitely what to put here if it isn't on your front bar.                                                                                |
+|                                                                                                                  | ![fulminating](./assets/icons/ability_arcanist_004_b.png)      | **Fulminating Rune**: A good DoT that also provides a good synergy to your team. This skill is a group dps net gain over other options if group members take the synergy. Its cost is tied to the lower of your maximum resources, which can help balance out sustain issues especially if using a Greatsword backbar. |
+|                                                                                                                  | ![caltrops](./assets/icons/ability_ava_001_a.png)              | **Anti-Cavalry Caltrops**: A good damage, large AoE DoT. Useful in large add packs.                                                                                                                                                                                                   |
+| ![whip](./assets/icons/ability_dragonknight_001_b.png)<br>![banner](./assets/icons/ability_grimoire_support.png) | **Molten Whip** or<br>**Banner Bearer**                        | Slotted purely passively, it provides +300 Weapon Damage if stacks are kept up. Can be replaced by **Banner Bearer** (typically Shock/Cavalier's Charge/Heroism). Could also be replaced by a DoT especially if whip stacks can't be kept at 3x (which is common).                    |
+| ![standard](./assets/icons/ability_dragonknight_006_b.png)                                                       | Ultimate: **Standard of Might**                                | A very strong DoT effect that also gives you +15% damage done and -15% damage taken, as well as provides allies with a synergy. It's only downsides are that it's expensive to cast and immobile, so make sure not to cast it right before a boss moves or goes into an invuln stage. Particularly potent when combined with Pillager's or Crypt due to the stacking damage done effects of both Standard and your Incapacitating Strike.|
 
 ---
 
 # ESO Update 48 Mid-tier Trial Rosters
 
-These rosters should be ready to copy and paste into Discord, though you may need to check the custom icons based on your servers and emoji availability.
+These rosters should be ready to copy and paste into Discord, though you may need to check the custom icons based on your servers and emoji availability. (Click to expand)
 
-## vet Maw of Lorkhaj
+<details>
+   <summary>Maw of Lorkhaj</summary>
 
-```md
+  <pre>
 Your Local Time:
 
 **Reqs**: Please state role(s) when signing up. Dps must parse 90K. Will take 3 without clear.
@@ -395,11 +398,13 @@ M:
 R:
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 Fill:
-```
+</pre>
 
-## vet Halls of Fabrication
+</details>
 
-```md
+<details>
+   <summary>Halls of Fabrication</summary>
+  <pre>
 Your Local Time:
 
 **Reqs**: Please state role(s) when signing up. Dps must parse 90K. Will take 3 without clear.
@@ -430,11 +435,14 @@ S:
 W:
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 Fill:
-```
+</pre>
 
-## vet Asylum Sanctorium
+</details>
 
-```md
+<details>
+   <summary>Asylum Sanctorium</summary>
+
+  <pre>
 Your Local Time:
 
 **Reqs**:
@@ -458,21 +466,24 @@ Your Local Time:
 :green_point: DPS 8:
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 Fill:
-```
+</pre>
 
-## vet Cloudrest
+</details>
 
-```md
+<details>
+   <summary>Cloudrest</summary>
+
+  <pre>
 Your Local Time:
 
 **Reqs**: Please state role(s) when signing up. Dps must parse 95K. Will take 3 without clear.
 
 _(NO OAKENSOUL)_
 
-**Addons**: HowTo Cloudrest, Ody's Support Icons, Lock Weapon Swap
+**Addons**: HowTo Cloudrest, Ody's Support Icons, Lock Weapon Swap Updated
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-:red_point: Mini Tank (Winter/ Soldier/Earthen) `[Yolna/Lucent/Naz]` (Horn):  
+:red_point: Mini Tank (Winter/Soldier/Earthen) `[Yolna/Lucent/Naz]` (Horn):  
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 :red_point: Portal Tank 1 (Bone/Summon/Siphon) `[Pearl/PA/AD]` (Atro), Steed mundus - Ele Sus Z'Maja/Crystal:
 :red_point: Portal Tank 2 (Bone/Summon/Siphon) `[Pearl/PA/AD]` (Atro), Steed mundus - Ele Sus Z'Maja/Crystal:
@@ -492,11 +503,14 @@ PORTAL 2
 :green_point:R BACKUP PORTAL 1 DPS:
 :green_point:R BACKUP PORTAL 2 DPS: `[Zen]` (Colo)
 :green_point:R GRAPE SLAYER:
-```
+</pre>
 
-## vet Sunspire
+</details>
 
-```md
+<details>
+   <summary>Sunspire</summary>
+
+  <pre>
 Your Local Time:
 
 **Reqs**: Please state role(s) when signing up. Dps must parse 95K. Will take 3 without clear.
@@ -504,8 +518,8 @@ Your Local Time:
 **Addons**: HowTo Sunspire, Crutch Alerts, Ody's Support Icons, Hodors
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-:red_point: MT (Winter/ Soldier/Earthen) `[Yolna/Pearl/Naz]` (Horn):  
-:red_point: OT (Bone/Summon/Flex) `[Lucent/PA/AD]` (Atro):  
+:red_point: MT (Winter/Soldier/Earthen) `[Lucent/Pearl/Naz]` (Horn):  
+:red_point: OT (Bone/Summon/Flex) `[Sax/PA/AD]` (Atro):  
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 **HEAD STACK**
 :yellow_point: Healer (Green/Siphon/Curative) `[SPC/MA/Pearls]` (Glyphic):
@@ -533,19 +547,22 @@ T3:
 Backup:
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 Fill:
-```
+</pre>
 
-## vet Kyne's Aegis
+</details>
 
-```md
+<details>
+   <summary>Kyne's Aegis</summary>
+
+  <pre>
 Your Local Time:
 
 **Reqs**: Please state role(s) when signing up. Dps must parse 95K. Will take 3 without clear.
 
 **Addons**: HowTo Kynes, Crutch Alerts, Ody's Support Icons, Hodors
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-:red_point: MT (Winter/Soldier/Earthen) `[Yolna/Pearl/Naz]` (Horn):  
-:red_point: OT (Bone/Summon/Siphon) `[Lucent/PA/AD]` (Atro):
+:red_point: MT (Winter/Soldier/Earthen) `[Lucent/Pearl/Naz]` (Horn):  
+:red_point: OT (Bone/Summon/Siphon) `[Sax/PA/AD]` (Atro):
 
 :yellow_point: Healer (Green/Siphon/Curative) `[SPC/PP/Pearls]` (Glyphic):
 :yellow_point: Healer (Restoring/Siphon/Summon) `[RO/JO/Symph]` (Barrier):
@@ -560,11 +577,14 @@ Your Local Time:
 :green_point: DPS R4: `[Zen]` (Colo)
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 Fill:
-```
+</pre>
 
-## vet Rockgrove
+</details>
 
-```md
+<details>
+   <summary>Rockgrove</summary>
+
+  <pre>
 Your Local Time:
 
 **Reqs**: Please state role(s) when signing up. Dps must parse 105K. Will take 3 without clear.
@@ -572,8 +592,8 @@ Your Local Time:
 **Addons**: Qcells Rockgrove Helper, Crutch Alerts, Ody's Support Icons, Hodors
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-:red_point: MT (Winter/ Soldier/Earthen) `[Yolna/Pearl/Naz]` (Horn):  
-:red_point: OT (Bone/Summon/Siphon) `[Lucent/PA/AD]` (Atro):  
+:red_point: MT (Winter/Soldier/Earthen) `[Lucent/Pearl/Naz]` (Horn):  
+:red_point: OT (Bone/Summon/Siphon) `[Sax/PA/AD]` (Atro):  
 :yellow_point: Kite Healer (Green/Siphon/Curative) `[SPC/PP/Pearls]` (Glyphic):
 :yellow_point: Group Healer (Restoring/Siphon/Summon) `[RO/JO/Symph]` (Barrier):
 
@@ -590,11 +610,14 @@ Your Local Time:
 :green_point: DPS 8 (Ardent/Herald/Grave): `[Zen]` (Colo)
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 Fill:
-```
+</pre>
 
-## vet Dreadsail Reef
+</details>
 
-```md
+<details>
+   <summary>Dreadsail Reef</summary>
+
+  <pre>
 Your Local Time:
 
 **Reqs**: Please state role(s) when signing up. Dps must parse 95K. Will take 3 without clear.
@@ -603,7 +626,7 @@ Your Local Time:
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 **RIGHT STACK**
-:red_point: MT (Winter/Soldier/Earthen) `[Yolna/Pearl/Naz]` (Horn):  
+:red_point: MT (Winter/Soldier/Earthen) `[Lucent/Pearl/Naz]` (Horn):  
 :yellow_point: Healer (Green/Siphon/Curative) `[SPC/MA/Pearls]` (Glyphic):
 :green_point:M1 top right:
 :green_point:M2 bottom right:
@@ -611,7 +634,7 @@ Your Local Time:
 :green_point:M4: (Colo)
 
 **LEFT STACK**
-:red_point: OT (Bone/Summon/Siphon) `[Lucent/PA/AD]` (Atro):  
+:red_point: OT (Bone/Summon/Siphon) `[Sax/PA/AD]` (Atro):  
 :yellow_point: Healer (Restoring/Siphon/Summon) `[MA/PP/Symph]` (Barrier):  
 :green_point:M1 top left:
 :green_point:M2 bottom left:
@@ -629,11 +652,14 @@ Backup 2:
 1:
 2:
 3:
-```
+</pre>
 
-## vet Sanity's Edge
+</details>
 
-```md
+<details>
+   <summary>Sanity's Edge</summary>
+
+  <pre>
 Your Local Time:
 
 **Reqs**: Please state role(s) when signing up. Dps must parse 95K. Will take 3 without clear.
@@ -641,8 +667,8 @@ Your Local Time:
 **Addons**: Crutch Alerts, Ody's Support Icons, Hodor's
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-:red_point: MT (Winter/ Soldier/Earthen) `[Yolna/Pearl/Naz]` (Horn):  
-:red_point: OT (Bone/Summon/Siphon) `[Lucent/PA/AD]` (Atro):
+:red_point: MT (Winter/Soldier/Earthen) `[Lucent/Pearl/Naz]` (Horn):  
+:red_point: OT (Bone/Summon/Siphon) `[Sax/PA/AD]` (Atro):
 
 :yellow_point: Healer (Green/Siphon/Curative) `[SPC/PP/Pearls]` (Glyphic):
 :yellow_point: Healer (Restoring/Siphon/Summon) `[RO/JO/Symph]` (Barrier):
@@ -657,11 +683,14 @@ Your Local Time:
 
 :green_point: DPS 8 (Ardent/Herald/Grave): `[Zen]` (Colo)
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-```
+</pre>
 
-## vet Lucent Citadel
+</details>
 
-```md
+<details>
+   <summary>Lucent Citadel</summary>
+
+  <pre>
 Your Local Time:
 
 **Reqs**: Please state role(s) when signing up. Dps must parse 95K. Will take 3 without clear.
@@ -670,7 +699,7 @@ Your Local Time:
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 **GARGOYLE**
-:red_point: MT (Winter/ Soldier/Earthen) `[Yolna/Pearl/Naz]` (Horn):  
+:red_point: MT (Winter/Soldier/Earthen) `[Lucent/Pearl/Naz]` (Horn):  
 :yellow_point: Healer (Green/Siphon/Curative) `[SPC/PP or MA/Pearls]` (Glyphic): (W 90 /S 60)
 
 :green_point:S DPS:
@@ -679,7 +708,7 @@ Your Local Time:
 :green_point:NW DPS:
 
 **SCORPION**
-:red_point: OT (Bone/Summon/Siphon) `[Lucent/Xoryns/AD]` (Atro): (kite boss 2)
+:red_point: OT (Bone/Summon/Siphon) `[Sax/Xoryn/AD]` (Atro): (kite boss 2)
 :yellow_point: Healer (Restoring/Siphon/Summon) `[(ROJO or MA)/PP/Pearls/Symph]` (Barrier): (E 90 / N 60)
 
 :green_point:N DPS:
@@ -694,11 +723,14 @@ Knot:
 4
 5
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-```
+</pre>
 
-## vet Ossein Cage
+</details>
 
-```md
+<details>
+  <summary>Ossein Cage</summary>
+
+  <pre>
 Your local time:
 
 **Reqs:** Please state role(s) when signing up. Dps must parse 120K. Will take 3 without clear.
@@ -707,7 +739,7 @@ Your local time:
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 **SKORKHIF**
-:red_point: MT (Winter/ Soldier/Earthen) `[Yolna/Pearl/Naz]` (Horn):  
+:red_point: MT (Winter/Soldier/Earthen) `[Lucent/Pearl/Naz]` (Horn):  
 :yellow_point: Healer (Green/Siphon/Curative) `[SPC/PP/Pearls]` (Glyphic) (boss 3 stay):
 :Reply: `[SPC/MA/Pearls/Ozezan]` on Boss 2
 :green_point: DPS R1:
@@ -716,7 +748,7 @@ Your local time:
 :green_point: DPS R4:
 
 **JYNORAH**
-:red_point: OT (Bone/Summon/Siphon) `[Lucent/PA/AD]` (Atro):  
+:red_point: OT (Bone/Summon/Siphon) `[Sax/PA/AD]` (Atro):  
 :yellow_point: Healer (Restoring/Siphon/Summon) `[RO/JO/Symph]` (Barrier):  
 :Reply: `[SPC/MA/Pearls/Symph]` on Boss 2
 :green_point: DPS B1:
@@ -725,7 +757,9 @@ Your local time:
 :green_point: DPS B4: `[Zen]` (Colo)
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 Fill:
-```
+</pre>
+
+</details>
 
 ---
 
@@ -735,8 +769,7 @@ Fill:
 
 - Most dps will be in meta Herald/Ardent combos, which feature high penetration and crit damage. With Pragmatic Fatecarver and/or Reaving Blows CP, they have high innate survivability.
 - Due to meta classes being Arc/Ardent/NB or Aedric, there is limited need for Roar of Alkosh, Elemental Catalyst, or Crimson Oath's Rive sets in most fights (see calculations below).
-- With the changes to Zena's (targets 6, not smart targeting), sourcing Minor Courage requires a change. Both healers in Healing Burst with Courage affix is possible, but again doesn't smart target. All Banners in Courage works, but requires expensive Heroism potions. Tank in Yolnakriin is the easiest source to reliably get everyone Minor Courage. The recovery buffs from Zena's are moved to a healer running Radiant Aura.
-- With changes to ult gen, pillager's profit is no longer as worth it, but it's possible for healers to generate enough ult to spam low cost Barrier and Colossus ults almost on cooldown.
+- With the changes to Zenas' (targets 6, not smart targeting), sourcing Minor Courage requires a change. The primary method of achieving this is through the courage affix on two Banner Bearer DPS. The recovery buffs from Zenas' are moved to a healer running Radiant Aura.
 
 ## Buff Calculations
 
@@ -768,24 +801,37 @@ Fill:
 
 ## Other Approaches
 
-- One likely approach is putting DPS players in Courage Banner; this means the Tank doesn't need to run Yolna. **Why I don't recommend:**
-  - In U48, there's less "must-have" tank sets, given the high crit damage and penetration.
-  - Minor Heroism is difficult to source-- the best options are Banner or Heroism pots, and most mid-tier groups can't afford to pop Heroism pots on cooldown and/or are bad at constantly chugging potions in general.
-- What happened to ROJO? **Why I don't recommend:**
-  - First off, ROJO is still a great setup, and there's nothing wrong with it, per se.
-  - But with the increased Ult generation available to healers, "spammable" ult sets and ults become more useful, allowing high uptimes just from ult generation.
-  - ROJO's major weakness-- requiring HAs that slow down casting. These lower ult gen from ult-generating spammables and reduce raw casts available.
-- High-tier groups often run Berserk on the Banner. They source other buffs; Savagery from potions and heroism from Torchbearer, for example. **Why I don't recommend:**
-  - For mid-tier groups, "fire and forget" buffs, such as always-on Camo Hunter lead to substantially higher uptimes and don't require as much player skill and coordination to achieve good results.
-- Healers getting big Pillager ults has been the meta for a while. **Why I don't recommend:**
-  - With the increased Ult generation available to healers in U46, "spammable" ult sets and ults become more useful, allowing high uptimes just from ult generation.
-  - Additionally, Pillagers was nerfed to 40% of it's former effectiveness, and the Pearls nerf reduces the ability to get those maximized pillager's ults.
-  - However, it's still a unique buff, and I'm sure it will still see use.
-
-**Other meta setups, in brief:**
-
-- All/most supports in Bone Tyrant (Necromancer) for high ult gen in trash. Move Winter's Embrace / Frost Cloak onto a Healer.
-- Running Courage on the Banner. Tank drops Yolna. Both Healers running Healing Burst with Anchorite's Potency for ult gen, and/or sourcing Minor Heroism from Heroism Potions. Slayer Stacks become very important. (Note that Soul Burst heals based on loading order into trial, so there's some shenanigans to optimize here).
+- A common composition is to put minor heroism on banner and source minor courage from the Yolnahkriin set. **Why I don't recommend:**
+  - Minor heroism is a luxury buff that can be sourced through potions. It is not a requirement, nor is it overly impactful. The buff itself provides 40 ultimate every 60 seconds.
+  - We give up a 5 piece slot on a tank that could be used to source another more impactful buff such as Major Force from Saxhleel Champion, 307 Weapon Damage from Powerful Assault or 180 Weapon Damage from Pearlescent Ward.
+  - Most fights in trials and dungeons are burst or phased fights. A set that provides a contant minor buff is less impactful and important than one which provides a stronger buff for a short time.
+  - If we decide to give up a set like Saxhleel we need to change other parts of our build as well as the builds of others to compensate.
+    - DPS have to change their CP, for example by dropping Wrathful Strikes (205 Weapon Damage) for Fighting Finesse (8% Critical Damage).
+  - Using Yolnahkriin is always a damage loss, and the expected value loss in certain circumstances is huge.
+  <details>
+    <summary>Explanation and Calculations: (click to expand)</summary>
+    <ul>
+      <li>The ultimate generation of minor heroism increases DPS by approximately 4.5/60 * 14% = 1.05%
+        <ul>
+          <li>The ultimate generation from minor heroism provides approximately (40/70) * 8s = 4.5s of 20% bonus damage from Incap every 60 seconds.</li>
+          <li>This is diluted down to ~14% bonus damage done due to other buffs which are always active such as minor berserk and our CPs (and even further with temporary buffs such as Major Berserk).</li>
+        </ul>
+      </li>
+      <li>The DPS gain from keeping our wrathful strikes CP and using Saxhleel to reach crit cap in the important burst phases is ~2.5%.
+        <ul>
+          <li>When we don't have the Major Force from Saxhleel, our damage is only ~0.67% worse at 115% crit damage.</li>
+          <li>We can calculate the expected value (whether this is worth it) with this formula: E(T) = (1-T) * -0.67% + T * 2.5% where T is the uptime of Major Force.</li>
+          <li>The absolute minimum uptime is 20%, because we generate 3 ultimate per second from light attacking, however our class passives, skills (such as Trample and Exhilarating Drain) and the decisive trait can increase this.
+            <ul>
+              <li>If we take a conservative ultimate generation per second value of 4, our expected value from using Saxhleel is (1-0.267) * -0.67% + 0.267 * 2.5% = 0.18%, which only goes up the more you and your group improves.</li>
+              <li>The absolute minimum uptime of 20% is only a (1-0.2%) * -0.67 + 0.2% * 2.5 = -0.036% damage loss, which is almost negligible and highlights how pointless it is to use Yoln.</li>
+              <li>This minimum uptime also doesn't account for being able to start a fight phase with some ultimate already which can dramatically increase the uptime of Major Force.</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </details>
 
 ## Changelog
 

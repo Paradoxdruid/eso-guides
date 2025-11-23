@@ -17,3 +17,44 @@ body {
   width: 100%; 
 }
 
+p img {
+  height: auto;
+  width: auto;
+}
+
+td img {
+  min-height: 3rem;
+  min-width: 3rem;
+  height: 3rem;
+  width: 3rem;
+  border-radius: 3px;
+}
+
+details {
+  margin-top: 0.5rem;
+}
+
+details summary {
+  cursor: pointer;
+  margin-bottom: 0.5rem;
+}
+
+details summary::before {
+  content: "▷";
+  position: relative;
+  display: inline-block;
+  margin-right: 0.5rem;
+  left: 0;
+  top: 0;
+  transform: rotate(0deg);
+  transition: transform 100ms;
+}
+
+details[open] summary::before {
+  transform: rotate(90deg);
+}
+
+pre {
+  background-color: #181a1b !important;
+  color: #e8e6e3 !important;
+}
