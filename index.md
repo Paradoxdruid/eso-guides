@@ -835,7 +835,7 @@ Fill:
 
 ## Changelog
 
-- 2025-11-23: Incorporated extensive cleanup and insights from [ThePancakeMan](https://github.com/sheumais). Thank you!
+- 2025-11-23: Incorporated extensive cleanup and insights from [TheMrPancake](https://github.com/sheumais). Thank you!
 - 2025-11-19: Tweaked MT skills and added more explanations of scribing skills and Zen's dots to support setups
 - 2025-11-14: Incorporate great feedback from Matthis and others
 - 2025-11-13: Updated DPS guides to U48; revised support load outs to reflect knowledge gained in the last few months
