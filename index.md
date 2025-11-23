@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Index
+title: Paradoxdruid's ESO Guides
 ---
 
 # Paradoxdruid's ESO Guides
