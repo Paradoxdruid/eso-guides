@@ -25,7 +25,7 @@ Return to [Paradoxdruid's ESO Guides: Builds and Rosters](./)
 
 | Damage                                                                                                                          | Info                                                                                                                      |
 | ------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| [![assassination_dummy_damage](./assets/images/assassination_dummy_damage.png)](./assets/images/assassination_dummy_damage.png) | [![assassination_dummy_info](./assets/images/assassination_dummy_info.png)](./assets/images/assassination_dummy_info.png) |
+| [![assassination_dummy_damage](./assets/images/assassination_dummy_damage.png)](./assets/images/assassination_dummy_damage.png){:height="auto!" width="auto!"} | [![assassination_dummy_info](./assets/images/assassination_dummy_info.png)](./assets/images/assassination_dummy_info.png){:height="auto!" width="auto!"} |
 
 ## Assassination Beam In Content Gear Parse
 
