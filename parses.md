@@ -25,13 +25,13 @@ Return to [Paradoxdruid's ESO Guides: Builds and Rosters](./)
 
 | Damage                                                                                                                          | Info                                                                                                                      |
 | ------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| [<img src="./assets/images/assassination_dummy_damage.png" width="400px">](./assets/images/assassination_dummy_damage.png){:target="_blank"} | [<img src="./assets/images/assassination_dummy_info.png" width="400px">](./assets/images/assassination_dummy_info.png){:target="_blank"} |
+| [<img src="./assets/images/assassination_dummy_damage.png" width="400px !important">](./assets/images/assassination_dummy_damage.png){:target="_blank"} | [<img src="./assets/images/assassination_dummy_info.png" width="400px !important">](./assets/images/assassination_dummy_info.png){:target="_blank"} |
 
 ## Assassination Beam In Content Gear Parse
 
 | Damage                                                                                                                                | Info                                                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| [<img src="./assets/images/assassination_content_damage.png" width="400px">](./assets/images/assassination_content_damage.png){:target="_blank"} | [<img src="./assets/images/assassination_content_info.png" width="400px">](./assets/images/assassination_content_info.png){:target="_blank"} |
+| [<img src="./assets/images/assassination_content_damage.png" width="400px !important">](./assets/images/assassination_content_damage.png){:target="_blank"} | [<img src="./assets/images/assassination_content_info.png" width="400px !important">](./assets/images/assassination_content_info.png){:target="_blank"} |
 
 # Meta Beam Arcanist (Aedric Spear variant)
 
@@ -39,10 +39,10 @@ Return to [Paradoxdruid's ESO Guides: Builds and Rosters](./)
 
 | Damage                                                                                                     | Info                                                                                                 |
 | ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| [<img src="./assets/images/aedric_dummy_damage.png" width="400px">](./assets/images/aedric_dummy_damage.png){:target="_blank"} | [<img src="./assets/images/aedric_dummy_info.png" width="400px">](./assets/images/aedric_dummy_info.png){:target="_blank"} |
+| [<img src="./assets/images/aedric_dummy_damage.png" width="400px !important">](./assets/images/aedric_dummy_damage.png){:target="_blank"} | [<img src="./assets/images/aedric_dummy_info.png" width="400px !important">](./assets/images/aedric_dummy_info.png){:target="_blank"} |
 
 ## Aedric Beam In Content Gear Parse
 
 | Damage                                                                                                           | Info                                                                                                     |
 | ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
-| [<img src="./assets/images/aedric_content_damage.png" width="400px">](./assets/images/aedric_content_damage.png){:target="_blank"} | [<img src="./assets/images/aedric_content_info.png" width="400px">](./assets/images/aedric_content_info.png){:target="_blank"} |
+| [<img src="./assets/images/aedric_content_damage.png" width="400px !important">](./assets/images/aedric_content_damage.png){:target="_blank"} | [<img src="./assets/images/aedric_content_info.png" width="400px !important">](./assets/images/aedric_content_info.png){:target="_blank"} |
