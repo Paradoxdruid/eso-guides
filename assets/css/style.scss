@@ -35,6 +35,14 @@ td img {
   width: 25rem !important;
 }
 
+.inline-image img {
+  min-height: 2rem;
+  min-width: 2rem;
+  height: 2rem;
+  width: 2rem;
+  border-radius: 2px;
+}
+
 details {
   margin-top: 0.5rem;
 }
