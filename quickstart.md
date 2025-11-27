@@ -31,16 +31,16 @@ There's lots of ways to do good damage. But you want a cheatsheet on something e
 
 - **Race**: Dark Elf, Orc, Khajiit are the best races for DPS. Unsure? Pick Dark Elf.
 
-- **Mundus**: ![thief mundus](./assets/icons/mundusstone-Thief.png){: height="2rem"} [The Thief](<https://en.uesp.net/wiki/Online:The_Thief_(Mundus_Stone)>) provides important crit chance
+- **Mundus**: ![thief mundus](./assets/icons/mundusstone-Thief.png){: class="inline-image"} [The Thief](<https://en.uesp.net/wiki/Online:The_Thief_(Mundus_Stone)>) provides important crit chance
 
-- **Attributes**: 64 points in ![deni](./assets/icons/runestone-Deni.png){: height="2rem"} **Stamina**<br>(damage is based off your highest stat, so you want all points in one category; high stamina is also important for trial mechanics that involve blocking, roll-dodging, or breaking free)
+- **Attributes**: 64 points in ![deni](./assets/icons/runestone-Deni.png){: class="inline-image"} **Stamina**<br>(damage is based off your highest stat, so you want all points in one category; high stamina is also important for trial mechanics that involve blocking, roll-dodging, or breaking free)
 
-- **Food**: Max Stamina/Stamina Recovery/Health food (![dubious](./assets/icons/food-Dubious_Camoran_Throne.png){: height="2rem"} [Dubious Camoran Throne](https://en.uesp.net/wiki/Online:Dubious_Camoran_Throne) or ![artaeum](./assets/icons/food-Brown_Chunky_Soup.png){: height="2rem"} [Artaeum Takeaway Broth](https://en.uesp.net/wiki/Online:Artaeum_Takeaway_Broth)) is best for content. For parsing on the trial dummy, use Max Stamina/Stamina Recovery food (![lavafoot](./assets/icons/food-Lava_Foot_Soup-And-Saltrice.png){: height="2rem"} [Lava Foot Soup and Saltrice](https://en.uesp.net/wiki/Online:Lava_Foot_Soup-and-Saltrice))
+- **Food**: Max Stamina/Stamina Recovery/Health food (![dubious](./assets/icons/food-Dubious_Camoran_Throne.png){: class="inline-image"} [Dubious Camoran Throne](https://en.uesp.net/wiki/Online:Dubious_Camoran_Throne) or ![artaeum](./assets/icons/food-Brown_Chunky_Soup.png){: class="inline-image"} [Artaeum Takeaway Broth](https://en.uesp.net/wiki/Online:Artaeum_Takeaway_Broth)) is best for content. For parsing on the trial dummy, use Max Stamina/Stamina Recovery food (![lavafoot](./assets/icons/food-Lava_Foot_Soup-And-Saltrice.png){: class="inline-image"} [Lava Foot Soup and Saltrice](https://en.uesp.net/wiki/Online:Lava_Foot_Soup-and-Saltrice))
 
 - **Subclassing**: Having useful skill lines from multiple classes greatly enhances your damage potential. Here, we'll use three all-around useful skill lines:
-  - ![arcanist](./assets/icons/gp_class_arcanist.png){: height="2rem"} Arcanist: Herald of the Tome
-  - ![dk](./assets/icons/gp_class_dragonknight.png){: height="2rem"} Dragonknight: Ardent Flame
-  - ![nb](./assets/icons/gp_class_nightblade.png){: height="2rem"} Nightblade: Assassination ( ![plar](./assets/icons/gp_class_templar.png){: height="2rem"} Templar: Aedric Spear is good, too, and better for single-target fights)
+  - ![arcanist](./assets/icons/gp_class_arcanist.png){: class="inline-image"} Arcanist: Herald of the Tome
+  - ![dk](./assets/icons/gp_class_dragonknight.png){: class="inline-image"} Dragonknight: Ardent Flame
+  - ![nb](./assets/icons/gp_class_nightblade.png){: class="inline-image"} Nightblade: Assassination ( ![plar](./assets/icons/gp_class_templar.png){: class="inline-image"} Templar: Aedric Spear is good, too, and better for single-target fights)
 
 ### Gear
 
