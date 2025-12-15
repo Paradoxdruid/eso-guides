@@ -7,7 +7,7 @@ title: Top DPS Sets and Skills - Update 48
 
 _This is a work in progess; last updated 2025-12-15._
 
-This page shows the most used Skills and Sets for the top 100 dps parses on each boss, collected from [ESOlogs.com](https://esologs.com).
+This page shows the most used Skills and Sets for the top 100 dps parses on each boss, collected from [ESOlogs.com](https://esologs.com). Inspired heavily and drawing code from [https://sheumais.github.io/esostats/](https://sheumais.github.io/esostats/).
 
 Return to [Paradoxdruid's ESO Guides: Builds and Rosters](./)
 
