@@ -88,7 +88,8 @@ Return to [Paradoxdruid's ESO Guides: Builds and Rosters](./)
 
 ## Bahsei HM
 
-![bahsei](./assets/usage/DPS_50_Bahsei_u48.png){: class="usage-graph"}
+<iframe src="./assets/usage/bahsei.html" width="100%" height="600" title="Bahsei">
+</iframe>
 
 ## Xalvakka HM
 
