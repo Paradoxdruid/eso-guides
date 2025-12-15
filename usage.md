@@ -7,11 +7,26 @@ title: Top DPS Sets and Skills - Update 48
 
 _This is a work in progess; last updated 2025-12-15._
 
-This page shows the most used Skills and Sets for the top 100 dps parses on each boss, collected from <ESOlogs.com>.
+This page shows the most used Skills and Sets for the top 100 dps parses on each boss, collected from [ESOlogs.com](https://esologs.com).
 
 Return to [Paradoxdruid's ESO Guides: Builds and Rosters](./)
 
 # Table of Contents
+
+|                                          |                                      |                                |
+| ---------------------------------------- | ------------------------------------ | ------------------------------ |
+| [The Mage](#the-mage-hm)                 | [The Warrior](#the-warrior-hm)       | [The Serpent](#the-serpent-hm) |
+| [Rakkhat](#rakkhat-hm)                   |                                      |                                |
+| [Assembly General](#assembly-general-hm) |                                      |                                |
+| [Saint Olms](#saint-olms-hm)             |                                      |                                |
+| [ZMaja](#zmaja-hm)                       |                                      |                                |
+| [Lokke](#lokkestiiz-hm)                  | [Yoln](#yolnahkriin-hm)              | [Nahvi](#nahviintaas-hm)       |
+| [Yandir](#yandir-hm)                     | [Vrol](#vrol-hm)                     | [Falgravn](#falgravn-hm)       |
+| [Oaxiltso](#oaxiltso-hm)                 | [Bahsei](#bahsei-hm)                 | [Xalvakka](#xalvakka-hm)       |
+| [DSR twins](#lylanar-and-turlassil-hm)   | [Reef](#reef-guardian-hm)            | [Taleria](#taleria-hm)         |
+| [Yaselya](#yaselya-hm)                   | [Chimera](#chimera-hm)               | [Ansuul](#ansuul-hm)           |
+| [Garg and Scorp](#garg-and-scorp-hm)     | [Orphic](#orphic-shattered-shard-hm) | Xoryn (data missing)           |
+| [Fleshshapers](#hall-of-fleshcraft-hm)   | [OC Twins](#jynorah-and-skorkhif-hm) | Kazpian (data missing)         |
 
 ---
 
