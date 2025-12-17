@@ -2,10 +2,16 @@ function is_youtubelink(url) {
     var p = /^(?:https?:\/\/)?(?:www\.)?(?:youtu\.be\/|youtube\.com\/(?:embed\/|v\/|watch\?v=|watch\?.+&v=))((\w|-){11})(?:\S+)?$/;
     return (url.match(p)) ? RegExp.$1 : false;
 }
+
+// function is_imagelink(url) {
+//     var p = /([a-z\-_0-9\/\:\.]*\.(jpg|jpeg|png|gif))/i;
+//     return (url.match(p)) ? true : false;
+// }
+
 function is_imagelink(url) {
-    var p = /([a-z\-_0-9\/\:\.]*\.(jpg|jpeg|png|gif))/i;
-    return (url.match(p)) ? true : false;
+  return /\.(jpe?g|png|gif|webp|svg|avif)(?:$|[?#])/i.test(url);
 }
+
 function is_vimeolink(url,el) {
     var id = false;
     var xmlhttp = new XMLHttpRequest();
