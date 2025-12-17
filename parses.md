@@ -30,9 +30,9 @@ Return to [Paradoxdruid's ESO Guides: Builds and Rosters](./)
 
 ## Assassination Beam In Content Gear Parse
 
-| Damage                                                                                                                                | Info                                                                                                                            |
-| ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| [![ass content damage](./assets/images/assassination_content_damage.png)](./assets/images/assassination_content_damage.png){:target="_blank"} | [![ass content info](./assets/images/assassination_content_info.png)](./assets/images/assassination_content_info.png){:target="_blank"} |
+| Damage                                                                        | Info                                                                      |
+| ----------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| ![assassination_dummy_damage](./assets/images/assassination_dummy_damage.png) | ![assassination_dummy_info](./assets/images/assassination_dummy_info.png) |
 {: class="parse-table"}
 
 # Meta Beam Arcanist (Aedric Spear variant)
