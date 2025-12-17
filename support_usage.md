@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: lightbox
 title: Top Support Sets and Skills - Update 48
 ---
 
@@ -32,104 +32,104 @@ Return to [Paradoxdruid's ESO Guides: Builds and Rosters](./)
 
 ## The Mage HM
 
-![the mage](./assets/usage/SUPPORT_4_Mage_u48.png){: class="usage-graph"}
+[![the mage](./assets/usage/SUPPORT_4_Mage_u48.png){: class="usage-graph"}](./assets/usage/SUPPORT_4_Mage_u48.png)
 
 ## The Warrior HM
 
-![the warrior](./assets/usage/SUPPORT_8_Warrior_u48.png){: class="usage-graph"}
+[![the warrior](./assets/usage/SUPPORT_8_Warrior_u48.png){: class="usage-graph"}](./assets/usage/SUPPORT_8_Warrior_u48.png)
 
 ## The Serpent HM
 
-![the serpent](./assets/usage/SUPPORT_12_Serpent_u48.png){: class="usage-graph"}
+[![the serpent](./assets/usage/SUPPORT_12_Serpent_u48.png){: class="usage-graph"}](./assets/usage/SUPPORT_12_Serpent_u48.png)
 
 ## Rakkhat HM
 
-![rakkhat](./assets/usage/SUPPORT_15_Rakhaat_u48.png){: class="usage-graph"}
+[![rakkhat](./assets/usage/SUPPORT_15_Rakhaat_u48.png){: class="usage-graph"}](./assets/usage/SUPPORT_15_Rakhaat_u48.png)
 
 ## Assembly General HM
 
-![rakkhat](./assets/usage/SUPPORT_20_Assembly_General_u48.png){: class="usage-graph"}
+[![assembly general](./assets/usage/SUPPORT_20_Assembly_General_u48.png){: class="usage-graph"}](./assets/usage/SUPPORT_20_Assembly_General_u48.png)
 
 ## Saint Olms HM
 
-![olms](./assets/usage/SUPPORT_23_Saint_Olms_u48.png){: class="usage-graph"}
+[![olms](./assets/usage/SUPPORT_23_Saint_Olms_u48.png){: class="usage-graph"}](./assets/usage/SUPPORT_23_Saint_Olms_u48.png)
 
 ## Z'Maja HM
 
-![zmaja](./assets/usage/SUPPORT_27_ZMaja_u48.png){: class="usage-graph"}
+[![zmaja](./assets/usage/SUPPORT_27_ZMaja_u48.png){: class="usage-graph"}](./assets/usage/SUPPORT_27_ZMaja_u48.png)
 
 ## Lokkestiiz HM
 
-![lokke](./assets/usage/SUPPORT_43_Lokke_u48.png){: class="usage-graph"}
+[![lokke](./assets/usage/SUPPORT_43_Lokke_u48.png){: class="usage-graph"}](./assets/usage/SUPPORT_43_Lokke_u48.png)
 
 ## Yolnahkriin HM
 
-![yoln](./assets/usage/SUPPORT_44_Yoln_u48.png){: class="usage-graph"}
+[![yoln](./assets/usage/SUPPORT_44_Yoln_u48.png){: class="usage-graph"}](./assets/usage/SUPPORT_44_Yoln_u48.png)
 
 ## Nahviintaas HM
 
-![nahvi](./assets/usage/SUPPORT_45_Nahvi_u48.png){: class="usage-graph"}
+[![nahvi](./assets/usage/SUPPORT_45_Nahvi_u48.png){: class="usage-graph"}](./assets/usage/SUPPORT_45_Nahvi_u48.png)
 
 ## Yandir HM
 
-![yandir](./assets/usage/SUPPORT_46_Yandir_u48.png){: class="usage-graph"}
+[![yandir](./assets/usage/SUPPORT_46_Yandir_u48.png){: class="usage-graph"}](./assets/usage/SUPPORT_46_Yandir_u48.png)
 
 ## Vrol HM
 
-![vrol](./assets/usage/SUPPORT_47_Vrol_u48.png){: class="usage-graph"}
+[![vrol](./assets/usage/SUPPORT_47_Vrol_u48.png){: class="usage-graph"}](./assets/usage/SUPPORT_47_Vrol_u48.png)
 
 ## Falgravn HM
 
-![falgravn](./assets/usage/SUPPORT_48_Falgravn_u48.png){: class="usage-graph"}
+[![falgravn](./assets/usage/SUPPORT_48_Falgravn_u48.png){: class="usage-graph"}](./assets/usage/SUPPORT_48_Falgravn_u48.png)
 
 ## Oaxiltso HM
 
-![oax](./assets/usage/SUPPORT_49_Oax_u48.png){: class="usage-graph"}
+[![oax](./assets/usage/SUPPORT_49_Oax_u48.png){: class="usage-graph"}](./assets/usage/SUPPORT_49_Oax_u48.png)
 
 ## Bahsei HM
 
-![bahsei](./assets/usage/SUPPORT_50_Bahsei_u48.png){: class="usage-graph"}
+[![bahsei](./assets/usage/SUPPORT_50_Bahsei_u48.png){: class="usage-graph"}](./assets/usage/SUPPORT_50_Bahsei_u48.png)
 
 ## Xalvakka HM
 
-![xalvakka](./assets/usage/SUPPORT_51_Xalvakka_u48.png){: class="usage-graph"}
+[![xalvakka](./assets/usage/SUPPORT_51_Xalvakka_u48.png){: class="usage-graph"}](./assets/usage/SUPPORT_51_Xalvakka_u48.png)
 
 ## Lylanar and Turlassil HM
 
-![dsr twins](./assets/usage/SUPPORT_52_DSR_Twins_u48.png){: class="usage-graph"}
+[![dsr twins](./assets/usage/SUPPORT_52_DSR_Twins_u48.png){: class="usage-graph"}](./assets/usage/SUPPORT_52_DSR_Twins_u48.png)
 
 ## Reef Guardian HM
 
-![reef](./assets/usage/SUPPORT_53_Reef_u48.png){: class="usage-graph"}
+[![reef](./assets/usage/SUPPORT_53_Reef_u48.png){: class="usage-graph"}](./assets/usage/SUPPORT_53_Reef_u48.png)
 
 ## Taleria HM
 
-![taleria](./assets/usage/SUPPORT_54_Taleria_u48.png){: class="usage-graph"}
+[![taleria](./assets/usage/SUPPORT_54_Taleria_u48.png){: class="usage-graph"}](./assets/usage/SUPPORT_54_Taleria_u48.png)
 
 ## Yaselya HM
 
-![yas](./assets/usage/SUPPORT_55_Yas_u48.png){: class="usage-graph"}
+[![yas](./assets/usage/SUPPORT_55_Yas_u48.png){: class="usage-graph"}](./assets/usage/SUPPORT_55_Yas_u48.png)
 
 ## Chimera HM
 
-![chimera](./assets/usage/SUPPORT_56_Chimera_u48.png){: class="usage-graph"}
+[![chimera](./assets/usage/SUPPORT_56_Chimera_u48.png){: class="usage-graph"}](./assets/usage/SUPPORT_56_Chimera_u48.png)
 
 ## Ansuul HM
 
-![ansuul](./assets/usage/SUPPORT_57_Ansuul_u48.png){: class="usage-graph"}
+[![ansuul](./assets/usage/SUPPORT_57_Ansuul_u48.png){: class="usage-graph"}](./assets/usage/SUPPORT_57_Ansuul_u48.png)
 
 ## Garg and Scorp HM
 
-![lc twins](./assets/usage/SUPPORT_58_LC_Twins_u48.png){: class="usage-graph"}
+[![lc twins](./assets/usage/SUPPORT_58_LC_Twins_u48.png){: class="usage-graph"}](./assets/usage/SUPPORT_58_LC_Twins_u48.png)
 
 ## Orphic Shattered Shard HM
 
-![orphic](./assets/usage/SUPPORT_59_Orphic_u48.png){: class="usage-graph"}
+[![orphic](./assets/usage/SUPPORT_59_Orphic_u48.png){: class="usage-graph"}](./assets/usage/SUPPORT_59_Orphic_u48.png)
 
 ## Hall of Fleshcraft HM
 
-![flesh](./assets/usage/SUPPORT_61_Flesh_u48.png){: class="usage-graph"}
+[![flesh](./assets/usage/SUPPORT_61_Flesh_u48.png){: class="usage-graph"}](./assets/usage/SUPPORT_61_Flesh_u48.png)
 
 ## Jynorah and Skorkhif HM
 
-![oc twins](./assets/usage/SUPPORT_62_OC_Twins_u48.png){: class="usage-graph"}
+[![oc twins](./assets/usage/SUPPORT_62_OC_Twins_u48.png){: class="usage-graph"}](./assets/usage/SUPPORT_62_OC_Twins_u48.png)
