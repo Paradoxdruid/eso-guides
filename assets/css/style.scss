@@ -22,31 +22,20 @@ p img {
   width: auto;
 }
 
-// table {
-//     border-collapse:separate;
-//     border-radius:6px;
-//     -moz-border-radius:6px;
-// }
-
-// th {
-//     border-top: none;
-// }
-
-// td:first-child, th:first-child {
-//      border-left: none;
-// }
-
-th:first-of-type {
-  border-top-left-radius: 10px;
+table {
+    border-collapse:separate;
+    border-radius:8px;
+    border: 1px solid $table-border-color;
+    -moz-border-radius:8px;
+    -webkit-border-radius:8px;
 }
-th:last-of-type {
-  border-top-right-radius: 10px;
+
+th {
+    border-top: none;
 }
-tr:last-of-type td:first-of-type {
-  border-bottom-left-radius: 10px;
-}
-tr:last-of-type td:last-of-type {
-  border-bottom-right-radius: 10px;
+
+td:first-child, th:first-child {
+     border-left: none;
 }
 
 td img {
