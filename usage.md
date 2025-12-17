@@ -32,7 +32,7 @@ Return to [Paradoxdruid's ESO Guides: Builds and Rosters](./)
 
 ## The Mage HM
 
-![the mage](./assets/usage/DPS_4_Mage_u48.png){: class="usage-graph"}
+[![the mage](./assets/usage/DPS_4_Mage_u48.png){: class="usage-graph"}](./assets/usage/DPS_4_Mage_u48.png)
 
 ## The Warrior HM
 
