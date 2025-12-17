@@ -50,3 +50,6 @@ Return to [Paradoxdruid's ESO Guides: Builds and Rosters](./)
 | ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
 | [![aedric content damage](./assets/images/aedric_content_damage.png)](./assets/images/aedric_content_damage.png){:target="_blank"} | [![aedric content info](./assets/images/aedric_content_info.png)](./assets/images/aedric_content_info.png){:target="_blank"} |
 {: class="parse-table"}
+
+<script type="text/javascript" src="/js/lightbox.js"></script>
+<link rel="stylesheet" href="/css/lightbox.css">
