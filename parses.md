@@ -1,9 +1,3 @@
----
-layout: lightbox
-title: Parses
----
-
-
 # Paradoxdruid's ESO Guides: Parses
 
 _This is a work in progess; last updated 2025-11-14._
@@ -25,15 +19,13 @@ Return to [Paradoxdruid's ESO Guides: Builds and Rosters](./)
 
 | Damage                                                                                                                          | Info                                                                                                                      |
 | ------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| [![assassination damage](./assets/images/assassination_dummy_damage.png)](./assets/images/assassination_dummy_damage.png){:target="_blank"} | [![assassination info](./assets/images/assassination_dummy_info.png)](./assets/images/assassination_dummy_info.png){:target="_blank"} |
-{: class="parse-table"}
+| [![assassination_dummy_damage](./assets/images/assassination_dummy_damage.png)](./assets/images/assassination_dummy_damage.png) | [![assassination_dummy_info](./assets/images/assassination_dummy_info.png)](./assets/images/assassination_dummy_info.png) |
 
 ## Assassination Beam In Content Gear Parse
 
-| Damage                                                                        | Info                                                                      |
-| ----------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| ![assassination_dummy_damage](./assets/images/assassination_dummy_damage.png) | ![assassination_dummy_info](./assets/images/assassination_dummy_info.png) |
-{: class="parse-table"}
+| Damage                                                                                                                                | Info                                                                                                                            |
+| ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| [![assassination_content_damage](./assets/images/assassination_content_damage.png)](./assets/images/assassination_content_damage.png) | [![assassination_content_info](./assets/images/assassination_content_info.png)](./assets/images/assassination_content_info.png) |
 
 # Meta Beam Arcanist (Aedric Spear variant)
 
@@ -41,12 +33,10 @@ Return to [Paradoxdruid's ESO Guides: Builds and Rosters](./)
 
 | Damage                                                                                                     | Info                                                                                                 |
 | ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| [![aedric dummy damage](./assets/images/aedric_dummy_damage.png)](./assets/images/aedric_dummy_damage.png){:target="_blank"} | [![aedric dummy info](./assets/images/aedric_dummy_info.png)](./assets/images/aedric_dummy_info.png){:target="_blank"} |
-{: class="parse-table"}
+| [![aedric_dummy_damage](./assets/images/aedric_dummy_damage.png)](./assets/images/aedric_dummy_damage.png) | [![aedric_dummy_info](./assets/images/aedric_dummy_info.png)](./assets/images/aedric_dummy_info.png) |
 
 ## Aedric Beam In Content Gear Parse
 
 | Damage                                                                                                           | Info                                                                                                     |
 | ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
-| [![aedric content damage](./assets/images/aedric_content_damage.png)](./assets/images/aedric_content_damage.png){:target="_blank"} | [![aedric content info](./assets/images/aedric_content_info.png)](./assets/images/aedric_content_info.png){:target="_blank"} |
-{: class="parse-table"}
+| [![aedric_content_damage](./assets/images/aedric_content_damage.png)](./assets/images/aedric_content_damage.png) | [![aedric_dummy_info](./assets/images/aedric_content_info.png)](./assets/images/aedric_content_info.png) |
