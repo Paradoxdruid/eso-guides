@@ -1,3 +1,8 @@
+---
+layout: lightbox
+title: Parses
+---
+
 # Paradoxdruid's ESO Guides: Parses
 
 _This is a work in progess; last updated 2025-11-14._
