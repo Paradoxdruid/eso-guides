@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: lightbox
 title: Top DPS Sets and Skills - Update 48
 ---
 
