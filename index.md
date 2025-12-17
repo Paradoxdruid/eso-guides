@@ -5,7 +5,7 @@ title: Paradoxdruid's ESO Guides
 
 # Paradoxdruid's ESO Guides
 
-_This is a work in progess; last updated 2025-12-14._
+_This is a work in progess; last updated 2025-12-17._
 
 These represent Paradoxdruid's best attempt at capturing the mid-tier meta for U48 (groups who regularly do vet and vet HM content; not trifecta progs or scorepushing attempts).
 
@@ -17,6 +17,16 @@ These represent Paradoxdruid's best attempt at capturing the mid-tier meta for U
 | • [Why Do I Use these Skills](#why-do-i-use-these-skills)                                                                                                                          | I want to see the details of why certain skills are used, and see alternative skills and breakdowns                                                                  |
 | • [U48 Trial Rosters](#eso-update-48-mid-tier-trial-rosters)                                                                                                                       | I plan to lead a trial, and I'd like a discord-ready roster template with roles, sets, and trial specific roles and group organization                               |
 | • [Notes](#notes)                                                                                                                                                                  | I want to understand how these builds reach penetration and crit damage cap, if there's other approaches that might work, or better understand assumptions made here |
+
+---
+
+# Other Pages
+
+| Other Page                                            | Why Do I Want To Read This?                                                                                                  |
+| ----------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| • [U48 Parses](./parses.html)                         | I want to see how some of these builds perform on the target dummy, dummy optimized and in-content setups. **(Start here!)** |
+| • [Top DPS Skills and Gear](./usage.html)             | I want to see the the most used skills and gear for DPS players on each boss, pulled from esologs.com data                   |
+| • [Top Support Skills and Gear](./support_usage.html) | I want to see the the most used skills and gear for Tank and Healer players on each boss, pulled from esologs.com data       |
 
 ---
 
@@ -835,6 +845,7 @@ Fill:
 
 ## Changelog
 
+- 2025-12-17: Added links to parses, top dps, and top support skills and sets
 - 2025-12-14: Updated main tank to use Runic Sunder
 - 2025-11-23: Incorporated extensive cleanup and insights from [TheMrPancake](https://github.com/sheumais). Thank you!
 - 2025-11-19: Tweaked MT skills and added more explanations of scribing skills and Zen's dots to support setups
