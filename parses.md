@@ -49,3 +49,5 @@ Return to [Paradoxdruid's ESO Guides: Builds and Rosters](./)
 | ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
 | [![aedric_content_damage](./assets/images/aedric_content_damage.png)](./assets/images/aedric_content_damage.png) | [![aedric_dummy_info](./assets/images/aedric_content_info.png)](./assets/images/aedric_content_info.png) |
 {: class="parse-table"}
+
+{% include test_voc_twins.html %}
