@@ -367,11 +367,6 @@ ul, ol {
   }
 }
 
-// Slide menu in when checkbox is checked
-.menu-toggle:checked ~ .mobile-toc {
-  right: 0;  // Slide to right edge of viewport
-}
-
 // Mobile TOC content styling
 .mobile-toc-content {
   padding: 1.5rem;
@@ -417,18 +412,6 @@ ul, ol {
       transform: none;
     }
   }
-}
-
-// Add overlay to close menu when clicking outside
-.menu-toggle:checked ~ .mobile-toc::before {
-  content: '';
-  position: fixed;
-  top: 0;
-  left: 0;
-  right: 280px;
-  bottom: 0;
-  background: rgba(0, 0, 0, 0.5);
-  z-index: -1;
 }
 
 // Auto-close menu when clicking a link (add to your existing CSS)
