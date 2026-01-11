@@ -269,9 +269,161 @@ ul, ol {
     }
     
     // Hide on smaller screens
-    @media screen and (max-width: 1400px) {
+    @media screen and (max-width: 1000px) {
         display: none;
     }
+}
+
+// Hide checkbox input
+.menu-toggle {
+  display: none;
+}
+
+// Hamburger menu button (only visible on small screens)
+.hamburger-menu {
+  display: none;  // Hidden on desktop
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  z-index: 1000;
+  cursor: pointer;
+  padding: 10px;
+  background: rgba(26, 26, 26, 0.95);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 8px;
+  
+  span {
+    display: block;
+    width: 25px;
+    height: 3px;
+    background: #90CAF9;
+    margin: 5px 0;
+    transition: all 0.3s ease;
+    border-radius: 2px;
+  }
+  
+  // Show only on small screens
+  @media screen and (max-width: 64em) {
+    display: block;
+  }
+}
+
+// Animate hamburger to X when checked
+.menu-toggle:checked + .hamburger-menu {
+  span:nth-child(1) {
+    transform: rotate(45deg) translate(7px, 7px);
+  }
+  
+  span:nth-child(2) {
+    opacity: 0;
+  }
+  
+  span:nth-child(3) {
+    transform: rotate(-45deg) translate(7px, -7px);
+  }
+}
+
+// Mobile TOC menu
+.mobile-toc {
+  display: none;  // Hidden on desktop
+  position: fixed;
+  top: 0;
+  right: -100%;  // Start off-screen
+  width: 280px;
+  height: 100vh;
+  background: rgba(26, 26, 26, 0.98);
+  backdrop-filter: blur(10px);
+  border-left: 1px solid rgba(255, 255, 255, 0.1);
+  z-index: 999;
+  transition: right 0.3s ease;
+  overflow-y: auto;
+  padding-top: 70px;  // Space for hamburger button
+  
+  // Custom scrollbar for mobile TOC
+  scrollbar-width: thin;
+  scrollbar-color: rgba(255, 255, 255, 0.2) transparent;
+  
+  &::-webkit-scrollbar {
+    width: 8px;
+  }
+  
+  &::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  
+  &::-webkit-scrollbar-thumb {
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 4px;
+    
+    &:hover {
+      background: rgba(255, 255, 255, 0.3);
+    }
+  }
+  
+  // Show only on small screens
+  @media screen and (max-width: 64em) {
+    display: block;
+  }
+}
+
+// Slide menu in when checkbox is checked
+.menu-toggle:checked ~ .mobile-toc {
+  right: 0;
+}
+
+// Mobile TOC content styling
+.mobile-toc-content {
+  padding: 1.5rem;
+  
+  h3, h4 {
+    margin-top: 0;
+    font-size: 1.2em;
+    border: none;
+    padding: 0;
+    color: #90CAF9;
+    margin-bottom: 1rem;
+  }
+  
+  ul {
+    list-style: none;
+    padding-left: 0;
+    margin: 0;
+    
+    ul {
+      padding-left: 1em;
+      margin-top: 0.5em;
+    }
+  }
+  
+  li {
+    margin-bottom: 0.75rem;
+  }
+  
+  a {
+    color: #64B5F6;
+    text-decoration: none;
+    transition: color 0.2s ease;
+    display: block;
+    padding: 0.5rem 0;
+    font-size: 0.95em;
+    
+    &:hover {
+      color: #90CAF9;
+      transform: none;
+    }
+  }
+}
+
+// Optional: Add overlay to close menu when clicking outside
+.menu-toggle:checked ~ .mobile-toc::before {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 280px;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+  z-index: -1;
 }
 
 // Ensure main content flows around it
