@@ -279,9 +279,9 @@ ul, ol {
   display: none;
 }
 
-// Hamburger menu button (only visible on small screens)
+// Hamburger menu button
 .hamburger-menu {
-  display: none;  // Hidden on desktop
+  display: none;  // Hidden by default
   position: fixed;
   top: 20px;
   right: 20px;
@@ -302,8 +302,8 @@ ul, ol {
     border-radius: 2px;
   }
   
-  // Show only on small screens
-  @media screen and (max-width: 64em) {
+  // Show hamburger when floating TOC is hidden
+  @media screen and (max-width: 1000px) {
     display: block;
   }
 }
@@ -325,11 +325,12 @@ ul, ol {
 
 // Mobile TOC menu
 .mobile-toc {
-  display: none;  // Hidden on desktop
+  display: none;  // Hidden by default
   position: fixed;
   top: 0;
-  right: -100%;  // Start off-screen
+  right: -100%;  // Start completely off-screen to the right
   width: 280px;
+  max-width: 80vw;  // Don't exceed 80% of viewport width
   height: 100vh;
   background: rgba(26, 26, 26, 0.98);
   backdrop-filter: blur(10px);
@@ -337,9 +338,9 @@ ul, ol {
   z-index: 999;
   transition: right 0.3s ease;
   overflow-y: auto;
-  padding-top: 70px;  // Space for hamburger button
+  padding-top: 70px;
   
-  // Custom scrollbar for mobile TOC
+  // Custom scrollbar
   scrollbar-width: thin;
   scrollbar-color: rgba(255, 255, 255, 0.2) transparent;
   
@@ -360,28 +361,32 @@ ul, ol {
     }
   }
   
-  // Show only on small screens
-  @media screen and (max-width: 64em) {
+  // Show mobile TOC when floating TOC is hidden
+  @media screen and (max-width: 1000px) {
     display: block;
   }
 }
 
 // Slide menu in when checkbox is checked
 .menu-toggle:checked ~ .mobile-toc {
-  right: 0;
+  right: 0;  // Slide to right edge of viewport
 }
 
 // Mobile TOC content styling
 .mobile-toc-content {
   padding: 1.5rem;
   
-  h3, h4 {
+  h3 {
     margin-top: 0;
     font-size: 1.2em;
     border: none;
     padding: 0;
     color: #90CAF9;
     margin-bottom: 1rem;
+    
+    &:before {
+      display: none;  // Remove the gradient bar
+    }
   }
   
   ul {
@@ -414,7 +419,7 @@ ul, ol {
   }
 }
 
-// Make the overlay clickable to close menu
+// Add overlay to close menu when clicking outside
 .menu-toggle:checked ~ .mobile-toc::before {
   content: '';
   position: fixed;
@@ -424,7 +429,6 @@ ul, ol {
   bottom: 0;
   background: rgba(0, 0, 0, 0.5);
   z-index: -1;
-  cursor: pointer;
 }
 
 // Auto-close menu when clicking a link (add to your existing CSS)
