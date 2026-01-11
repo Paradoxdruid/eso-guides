@@ -197,7 +197,7 @@ ul, ol {
 .floating-toc {
     position: fixed;
     left: max(20px, calc((100vw - 1200px) / 2 - 270px));  // Smart positioning
-    top: 120px;
+    top: 240px;
     width: 250px;
     padding: 1.5rem;
     background: rgba(26, 26, 26, 0.95);
@@ -208,6 +208,28 @@ ul, ol {
     overflow-y: auto;
     font-size: 0.9em;
     z-index: 100;
+
+  // Custom scrollbar styling
+    scrollbar-width: thin;  // Firefox
+    scrollbar-color: rgba(255, 255, 255, 0.2) transparent;  // Firefox: thumb track
+    
+    // Webkit browsers (Chrome, Safari, Edge)
+    &::-webkit-scrollbar {
+        width: 8px;
+    }
+    
+    &::-webkit-scrollbar-track {
+        background: transparent;
+        border-radius: 4px;
+    }
+    
+    &::-webkit-scrollbar-thumb {
+        background: rgba(255, 255, 255, 0.2);
+        border-radius: 4px;
+        
+        &:hover {
+            background: rgba(255, 255, 255, 0.3);
+        }
     
     h3, h4 {
         margin-top: 0;
