@@ -3,6 +3,12 @@ layout: default
 title: Paradoxdruid's ESO Guides
 ---
 
+<div class="floating-toc" markdown="1">
+### Contents
+* TOC
+{:toc}
+</div>
+
 # Paradoxdruid's ESO Guides
 
 _This is a work in progess; last updated 2025-12-17._
