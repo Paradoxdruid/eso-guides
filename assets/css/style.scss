@@ -269,7 +269,7 @@ ul, ol {
     }
     
     // Hide on smaller screens
-    @media screen and (max-width: 1000px) {
+    @media screen and (max-width: 1200px) {
         display: none;
     }
 }
@@ -412,12 +412,6 @@ ul, ol {
       transform: none;
     }
   }
-}
-
-// Auto-close menu when clicking a link (add to your existing CSS)
-.mobile-toc a {
-  // Clicking a link will navigate and the menu will close
-  // This works because when the page navigates, the checkbox resets
 }
 
 
