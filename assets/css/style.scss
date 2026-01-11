@@ -3,92 +3,185 @@
 
 @import "{{ site.theme }}";
 
+// Import Google Fonts
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@600;700&family=Barlow:wght@400;500;600&display=swap');
+
+// Modern color palette - ESO themed
+$eso-gold: #D4AF37;
+$eso-dark: #1a1a1a;
+$eso-accent: #8B4513;
+$shadow-color: rgba(0, 0, 0, 0.15);
+
+// Typography improvements
 body {
-  line-height: 1.2 !important; 
-  color: #e8e6e3;
-  background: #181a1b;
+  font-family: 'Barlow', -apple-system, BlinkMacSystemFont, sans-serif;
+  font-weight: 400;
+  line-height: 1.7;
 }
 
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+// Modern shadows and depth
 .page-header {
-  background-image: url('../images/Blank_banner_3_1_1200.png');
-  background-size: cover; 
-  background-position: center; 
-  background-repeat: no-repeat; 
-  width: 100%; 
+  background: linear-gradient(135deg, #155799, #159957);
+  box-shadow: 0 4px 6px $shadow-color;
 }
 
-p img {
-  height: auto;
-  width: auto;
+.project-name {
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+  letter-spacing: 0.02em;
 }
 
-table {
-    border-collapse:separate;
-    border-radius:8px;
-    border: 1px solid $table-border-color;
-    -moz-border-radius:8px;
-    -webkit-border-radius:8px;
+.project-tagline {
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
+  font-weight: 500;
 }
 
-th {
-    border-top: none;
-}
-
-td:first-child, th:first-child {
-     border-left: none;
-}
-
-td img {
-  min-height: 3rem;
-  min-width: 3rem;
-  height: 3rem;
-  width: 3rem;
-  border-radius: 3px;
-}
-
-.parse-table img {
-  height: auto !important;
-  width: 25rem !important;
-}
-
-.usage-graph img {
-  height: auto !important;
-  width: 50rem !important;
-}
-
-.inline-image {
-  min-height: 1.5rem;
-  min-width: 1.5rem;
-  height: 1.5rem;
-  width: 1.5rem;
-  border-radius: 1px;
-}
-
-details {
-  margin-top: 0.5rem;
-}
-
-details summary {
-  cursor: pointer;
-  margin-bottom: 0.5rem;
-}
-
-details summary::before {
-  content: "▷";
+// Card-style content sections
+.main-content {
+  background: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px $shadow-color;
+  margin-top: -2rem;
   position: relative;
-  display: inline-block;
-  margin-right: 0.5rem;
-  left: 0;
-  top: 0;
-  transform: rotate(0deg);
-  transition: transform 100ms;
+  z-index: 1;
+  
+  @media screen and (min-width: 64em) {
+    padding: 3rem 6rem;
+  }
 }
 
-details[open] summary::before {
-  transform: rotate(90deg);
+// Enhanced tables
+table {
+  border-radius: 6px;
+  overflow: hidden;
+  box-shadow: 0 1px 3px $shadow-color;
+  
+  thead {
+    background: linear-gradient(135deg, #155799, #159957);
+    color: white;
+    
+    th {
+      padding: 1rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      font-size: 0.85rem;
+      letter-spacing: 0.05em;
+    }
+  }
+  
+  tbody tr {
+    transition: background-color 0.2s ease;
+    
+    &:hover {
+      background-color: rgba(21, 87, 153, 0.05);
+    }
+  }
+  
+  td {
+    padding: 0.75rem 1rem;
+  }
+}
+
+// Code blocks with modern styling
+code {
+  background-color: #f5f5f5;
+  border-radius: 4px;
+  padding: 0.2em 0.4em;
+  font-size: 0.9em;
+  border: 1px solid #e1e1e1;
 }
 
 pre {
-  background-color: #181a1b !important;
-  color: #e8e6e3 !important;
+  border-radius: 6px;
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1);
+  border: 1px solid #e1e1e1;
+}
+
+// Enhanced links
+a {
+  transition: all 0.2s ease;
+  
+  &:hover {
+    text-decoration: none;
+    transform: translateY(-1px);
+  }
+}
+
+// Styled skill bar images and icons
+img {
+  border-radius: 6px;
+  box-shadow: 0 2px 4px $shadow-color;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px $shadow-color;
+  }
+}
+
+// Heading improvements
+h1, h2 {
+  border-bottom: 3px solid;
+  border-image: linear-gradient(90deg, #155799, #159957) 1;
+  padding-bottom: 0.5rem;
+  margin-top: 2.5rem;
+}
+
+h3 {
+  color: #155799;
+  margin-top: 2rem;
+  position: relative;
+  padding-left: 1rem;
+  
+  &:before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0.3em;
+    height: 1.2em;
+    width: 4px;
+    background: linear-gradient(135deg, #155799, #159957);
+    border-radius: 2px;
+  }
+}
+
+// Horizontal rules
+hr {
+  border: none;
+  height: 2px;
+  background: linear-gradient(90deg, transparent, #155799, transparent);
+  margin: 2rem 0;
+}
+
+// Blockquote styling
+blockquote {
+  border-left: 4px solid #155799;
+  background: rgba(21, 87, 153, 0.05);
+  border-radius: 0 6px 6px 0;
+  box-shadow: 0 1px 3px $shadow-color;
+}
+
+// List improvements
+ul, ol {
+  li {
+    margin-bottom: 0.5rem;
+    line-height: 1.7;
+  }
+}
+
+// Button-like elements for sections
+.btn {
+  border-radius: 6px;
+  box-shadow: 0 2px 4px $shadow-color;
+  transition: all 0.2s ease;
+  
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px $shadow-color;
+  }
 }
