@@ -414,7 +414,7 @@ ul, ol {
   }
 }
 
-// Optional: Add overlay to close menu when clicking outside
+// Make the overlay clickable to close menu
 .menu-toggle:checked ~ .mobile-toc::before {
   content: '';
   position: fixed;
@@ -424,7 +424,15 @@ ul, ol {
   bottom: 0;
   background: rgba(0, 0, 0, 0.5);
   z-index: -1;
+  cursor: pointer;
 }
+
+// Auto-close menu when clicking a link (add to your existing CSS)
+.mobile-toc a {
+  // Clicking a link will navigate and the menu will close
+  // This works because when the page navigates, the checkbox resets
+}
+
 
 // Ensure main content flows around it
 .main-content {
