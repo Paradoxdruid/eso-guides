@@ -17,6 +17,8 @@ body {
   font-family: 'Barlow', -apple-system, BlinkMacSystemFont, sans-serif;
   font-weight: 400;
   line-height: 1.7;
+  color: #e8e6e3;
+  background: #181a1b;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -27,8 +29,13 @@ h1, h2, h3, h4, h5, h6 {
 
 // Modern shadows and depth
 .page-header {
-  background: linear-gradient(135deg, #155799, #159957);
-  box-shadow: 0 4px 6px $shadow-color;
+  // background: linear-gradient(135deg, #155799, #159957);
+  // box-shadow: 0 4px 6px $shadow-color;
+  background-image: url('../images/Blank_banner_3_1_1200.png');
+  background-size: cover; 
+  background-position: center; 
+  background-repeat: no-repeat; 
+  width: 100%; 
 }
 
 .project-name {
