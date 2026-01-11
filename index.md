@@ -2,14 +2,27 @@
 layout: default
 title: Paradoxdruid's ESO Guides
 ---
+<!-- Mobile hamburger menu (hidden on desktop) -->
+<input type="checkbox" id="menu-toggle" class="menu-toggle">
+<label for="menu-toggle" class="hamburger-menu">
+  <span></span>
+  <span></span>
+  <span></span>
+</label>
+
+<nav class="mobile-toc">
+  <div class="mobile-toc-content" markdown="1">
+### Contents
+* TOC
+{:toc}
+  </div>
+</nav>
 
 <div class="floating-toc" markdown="1">
 ### Contents
 * TOC
 {:toc}
 </div>
-
-# Paradoxdruid's ESO Guides
 
 _This is a work in progess; last updated 2025-12-17._
 
