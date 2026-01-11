@@ -37,13 +37,17 @@
       overlay.style.display = 'none';
     });
     
-    // Close when clicking any link
+    // Close when clicking any link - BUT ALLOW NAVIGATION FIRST
     const links = mobileToc.querySelectorAll('a');
     links.forEach(function(link) {
-      link.addEventListener('click', function() {
-        toggle.checked = false;
-        mobileToc.style.right = '-100%';
-        overlay.style.display = 'none';
+      link.addEventListener('click', function(e) {
+        // Don't prevent default - let the link navigate
+        // Just close the menu after a tiny delay
+        setTimeout(function() {
+          toggle.checked = false;
+          mobileToc.style.right = '-100%';
+          overlay.style.display = 'none';
+        }, 100); // 100ms delay allows navigation to start
       });
     });
   }
