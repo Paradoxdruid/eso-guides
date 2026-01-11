@@ -1,0 +1,33 @@
+<script>
+(function() {
+  const toggle = document.getElementById('menu-toggle');
+  const mobileToc = document.querySelector('.mobile-toc');
+  
+  if (toggle && mobileToc) {
+    toggle.addEventListener('change', function() {
+      if (this.checked) {
+        mobileToc.style.right = '0';
+      } else {
+        mobileToc.style.right = '-100%';
+      }
+    });
+    
+    // Close menu when clicking the overlay (outside the content)
+    mobileToc.addEventListener('click', function(e) {
+      if (e.target === this) {
+        toggle.checked = false;
+        mobileToc.style.right = '-100%';
+      }
+    });
+    
+    // Close menu when clicking any link
+    const links = mobileToc.querySelectorAll('a');
+    links.forEach(function(link) {
+      link.addEventListener('click', function() {
+        toggle.checked = false;
+        mobileToc.style.right = '-100%';
+      });
+    });
+  }
+})();
+</script>
