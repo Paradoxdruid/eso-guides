@@ -273,7 +273,7 @@ ul, ol {
     }
     
     // Hide on smaller screens
-    @media screen and (max-width: 1200px) {
+    @media screen and (max-width: 1400px) {
         display: none;
     }
 }
@@ -307,7 +307,7 @@ ul, ol {
   }
   
   // Show hamburger when floating TOC is hidden
-  @media screen and (max-width: 1200px) {
+  @media screen and (max-width: 1400px) {
     display: block;
   }
 }
@@ -366,7 +366,7 @@ ul, ol {
   }
   
   // Show mobile TOC when floating TOC is hidden
-  @media screen and (max-width: 1200px) {
+  @media screen and (max-width: 1400px) {
     display: block;
   }
 }
