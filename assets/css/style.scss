@@ -193,6 +193,10 @@ ul, ol {
   }
 }
 
+.back-to-top {
+    z-index: 5000;
+}
+
 // Add support for floating TOC
 .floating-toc {
     position: fixed;
