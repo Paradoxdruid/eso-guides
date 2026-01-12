@@ -897,3 +897,5 @@ Fill:
 - 2025-05-13: Added Buff calculations to explain why certain sets aren't needed; added explanation of Yolnakriin meta. Changed skill layouts to table form to include notes.
 - 2025-05-12: Moved Glacial Colossus to SPC Healer; kept Reaving Blows CP requirement only for vAS; revised MT and OT lines to move Winter's Embrace to MT and add Siphoning to OT
 - 2025-05-11: Initial setups
+
+{% include menu-toggle.html %}
