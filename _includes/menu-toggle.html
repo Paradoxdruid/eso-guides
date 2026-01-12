@@ -4,20 +4,23 @@
   const mobileToc = document.querySelector('.mobile-toc');
   
   if (toggle && mobileToc) {
-    // Create overlay element
+    // Create overlay element - insert it BEFORE mobileToc in DOM
     const overlay = document.createElement('div');
     overlay.className = 'mobile-toc-overlay';
     overlay.style.cssText = `
       position: fixed;
       top: 0;
       left: 0;
-      right: 0;
+      right: 280px;
       bottom: 0;
       background: rgba(0, 0, 0, 0.5);
       z-index: 998;
       display: none;
+      pointer-events: auto;
     `;
-    document.body.appendChild(overlay);
+    
+    // Insert overlay before mobileToc to ensure proper stacking
+    mobileToc.parentNode.insertBefore(overlay, mobileToc);
     
     // Toggle menu and overlay
     toggle.addEventListener('change', function() {
@@ -37,17 +40,18 @@
       overlay.style.display = 'none';
     });
     
-    // Close when clicking any link - BUT ALLOW NAVIGATION FIRST
+    // Close menu when clicking internal anchor links
     const links = mobileToc.querySelectorAll('a');
     links.forEach(function(link) {
       link.addEventListener('click', function(e) {
-        // Don't prevent default - let the link navigate
-        // Just close the menu after a tiny delay
-        setTimeout(function() {
-          toggle.checked = false;
-          mobileToc.style.right = '-100%';
-          overlay.style.display = 'none';
-        }, 100); // 100ms delay allows navigation to start
+        const href = this.getAttribute('href');
+        if (href && href.startsWith('#')) {
+          setTimeout(function() {
+            toggle.checked = false;
+            mobileToc.style.right = '-100%';
+            overlay.style.display = 'none';
+          }, 150);
+        }
       });
     });
   }
