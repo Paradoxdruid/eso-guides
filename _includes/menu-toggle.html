@@ -2,9 +2,18 @@
 (function() {
   const toggle = document.getElementById('menu-toggle');
   const mobileToc = document.querySelector('.mobile-toc');
+  const floatingToc = document.querySelector('.floating-toc');
+  const mobileTocContent = document.querySelector('.mobile-toc-content');
   
-  if (toggle && mobileToc) {
-    // Create overlay element - insert it BEFORE mobileToc in DOM
+  if (toggle && mobileToc && floatingToc && mobileTocContent) {
+    // Clone the TOC from desktop to mobile
+    const desktopTocList = floatingToc.querySelector('ul');
+    if (desktopTocList) {
+      const clonedToc = desktopTocList.cloneNode(true);
+      mobileTocContent.appendChild(clonedToc);
+    }
+    
+    // Create overlay element
     const overlay = document.createElement('div');
     overlay.className = 'mobile-toc-overlay';
     overlay.style.cssText = `
@@ -18,8 +27,6 @@
       display: none;
       pointer-events: auto;
     `;
-    
-    // Insert overlay before mobileToc to ensure proper stacking
     mobileToc.parentNode.insertBefore(overlay, mobileToc);
     
     // Toggle menu and overlay
