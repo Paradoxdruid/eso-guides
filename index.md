@@ -2,7 +2,7 @@
 layout: default
 title: Paradoxdruid's ESO Guides
 ---
-<!-- Mobile-only hamburger menu system -->
+
 <input type="checkbox" id="menu-toggle" class="menu-toggle">
 <label for="menu-toggle" class="hamburger-menu">
   <span></span>
@@ -13,25 +13,11 @@ title: Paradoxdruid's ESO Guides
 <div class="mobile-toc">
   <div class="mobile-toc-content">
     <h3>Contents</h3>
-    <ul>
-      <li><a href="#table-of-contents">Table of Contents</a></li>
-      <li><a href="#other-pages">Other Pages</a></li>
-      <li><a href="#eso-update-48-mid-tier-build-guides">U48 Build Guides</a>
-        <ul>
-          <li><a href="#support-loadouts">Support Loadouts</a></li>
-          <li><a href="#update-48-dps-loadouts">DPS Loadouts</a></li>
-        </ul>
-      </li>
-      <li><a href="#why-do-i-use-these-skills">Why Do I Use These Skills?</a></li>
-      <li><a href="#eso-update-48-mid-tier-trial-rosters">Trial Rosters</a></li>
-      <li><a href="#notes">Notes</a></li>
-    </ul>
+    <!-- TOC will be inserted here by JavaScript -->
   </div>
 </div>
 
-<!-- Desktop floating TOC -->
 <div class="floating-toc" markdown="1">
-### Contents
 * TOC
 {:toc}
 </div>
