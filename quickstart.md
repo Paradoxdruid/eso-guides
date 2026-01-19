@@ -3,6 +3,25 @@ layout: default
 title: Quickstart Guides
 ---
 
+<input type="checkbox" id="menu-toggle" class="menu-toggle">
+<label for="menu-toggle" class="hamburger-menu">
+  <span></span>
+  <span></span>
+  <span></span>
+</label>
+
+<div class="mobile-toc">
+  <div class="mobile-toc-content">
+    <h3>Contents</h3>
+    <!-- TOC will be inserted here by JavaScript -->
+  </div>
+</div>
+
+<div class="floating-toc" markdown="1">
+* TOC
+{:toc}
+</div>
+
 # Paradoxdruid's Quickstart Guides
 
 If you are just getting started on building a trial-ready character, these quickstart guides feature a bit more detail on some of the specifics that would be a good first step. You can see the full guides with much more details at [Paradoxdruid's ESO Guides: Builds and Rosters](./)
@@ -70,3 +89,5 @@ There's lots of ways to do good damage. But you want a cheatsheet on something e
 - Always get to 3 crux before beaming. With Inspired Scholarship running, that means 2 casts of Flail, then beam. **Beam is over 50% of your damage. ABB. Always Be Beaming.**
 - Your next highest sources of damage are Flames of Oblivion and Blockade of Fire, always keep them up.
 - Arcanists cannot block-cast well; both Flail and Beam can't be block cast. In trial mechanics that require block casting, be mindful of this fact.
+
+{% include menu-toggle.html %}
