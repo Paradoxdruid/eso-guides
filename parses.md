@@ -3,6 +3,25 @@ layout: lightbox
 title: Parses
 ---
 
+<input type="checkbox" id="menu-toggle" class="menu-toggle">
+<label for="menu-toggle" class="hamburger-menu">
+  <span></span>
+  <span></span>
+  <span></span>
+</label>
+
+<div class="mobile-toc">
+  <div class="mobile-toc-content">
+    <h3>Contents</h3>
+    <!-- TOC will be inserted here by JavaScript -->
+  </div>
+</div>
+
+<div class="floating-toc" markdown="1">
+* TOC
+{:toc}
+</div>
+
 # Paradoxdruid's ESO Guides: Parses
 
 _This is a work in progess; last updated 2025-11-14._
@@ -50,4 +69,4 @@ Return to [Paradoxdruid's ESO Guides: Builds and Rosters](./)
 | [![aedric_content_damage](./assets/images/aedric_content_damage.png)](./assets/images/aedric_content_damage.png) | [![aedric_dummy_info](./assets/images/aedric_content_info.png)](./assets/images/aedric_content_info.png) |
 {: class="parse-table"}
 
-{% include test_voc_twins.html %}
+{% include menu-toggle.html %}
