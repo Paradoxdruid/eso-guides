@@ -3,6 +3,25 @@ layout: default
 title: Quick Healer Guide
 ---
 
+<input type="checkbox" id="menu-toggle" class="menu-toggle">
+<label for="menu-toggle" class="hamburger-menu">
+  <span></span>
+  <span></span>
+  <span></span>
+</label>
+
+<div class="mobile-toc">
+  <div class="mobile-toc-content">
+    <h3>Contents</h3>
+    <!-- TOC will be inserted here by JavaScript -->
+  </div>
+</div>
+
+<div class="floating-toc" markdown="1">
+* TOC
+{:toc}
+</div>
+
 # Paradoxdruid's Quick Healer Guide
 
 You want to have a trial-ready Healer build, but you aren't sure what you need to have ready? Check out this quick run-down of core healer skills, gear, and other pieces. You can see the full guides with much more details at [Paradoxdruid's ESO Guides: Builds and Rosters](./)
@@ -162,3 +181,5 @@ There's lots of ways to be a good healer. But you want a cheatsheet on something
 | ![leashing soul](./assets/icons/ability_otherclass_003_a.png)      | **Leashing Soul**                     | Sometimes healers need to taunt; using a Pull skill allows you to taunt without fear of stealing taunt from the Boss and you can apply Major Cowardice or Major Maim to reduce enemy damage.      |
 | ![trample](./assets/icons/ability_grimoire_assault.png)            | **Trample**                           | An alternative source of Major Heroism instead of the Pearls of Ehlnofey Mythic.                                                                                                                  |
 | ![guard](./assets/icons/ability_ava_mystic_guard.png)              | **Mystic Guard**                      | Powerful damage reduction for a Tank, used in certain boss fights, like vDSR Twins HM.                                                                                                            |
+
+{% include menu-toggle.html %}
