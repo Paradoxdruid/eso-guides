@@ -94,6 +94,15 @@ table {
   }
 }
 
+// Properly size inline images
+.inline-image {
+  min-height: 1.5rem;
+  min-width: 1.5rem;
+  height: 1.5rem;
+  width: 1.5rem;
+  border-radius: 1px;
+}
+
 // Code blocks with modern styling
 code {
   background-color: #f5f5f5;
