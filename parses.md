@@ -1,6 +1,6 @@
 ---
 layout: lightbox
-title: Parses
+title: Paradoxdruid's ESO Guides
 ---
 
 <input type="checkbox" id="menu-toggle" class="menu-toggle">
@@ -22,51 +22,54 @@ title: Parses
 {:toc}
 </div>
 
-# Paradoxdruid's ESO Guides: Parses
+# Parses
 
 _This is a work in progess; last updated 2025-11-14._
 
 Return to [Paradoxdruid's ESO Guides: Builds and Rosters](./)
 
-# Table of Contents
-
-- [Beam (Assassination Variant) Trial Dummy Optimized Parse](#assassination-beam-trial-dummy-optimized-parse)
-- [Beam (Assassination Variant) In Content Gear Optimized Parse](#assassination-beam-in-content-gear-parse)
-- [Beam (Aedric Variant) Trial Dummy Optimized Parse](#aedric-beam-trial-dummy-optimized-parse)
-- [Beam (Aedric Variant) In Content Gear Parse](#aedric-beam-in-content-gear-parse)
-
 ---
 
-# Meta Beam Arcanist (Assassination variant)
+# Meta Beam Arcanist (Ardent Assassination variant)
 
-## Assassination Beam Trial Dummy Optimized Parse
+## Ardent Assassination Beam Trial Dummy Optimized Parse
 
 | Damage                                                                                                                          | Info                                                                                                                      |
 | ------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
 | [![assassination_dummy_damage](./assets/images/assassination_dummy_damage.png)](./assets/images/assassination_dummy_damage.png) | [![assassination_dummy_info](./assets/images/assassination_dummy_info.png)](./assets/images/assassination_dummy_info.png) |
 {: class="parse-table"}
 
-## Assassination Beam In Content Gear Parse
+## Ardent Assassination Beam In Content Gear Parse
 
 | Damage                                                                                                                                | Info                                                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
 | [![assassination_content_damage](./assets/images/assassination_content_damage.png)](./assets/images/assassination_content_damage.png) | [![assassination_content_info](./assets/images/assassination_content_info.png)](./assets/images/assassination_content_info.png) |
 {: class="parse-table"}
 
-# Meta Beam Arcanist (Aedric Spear variant)
+# Meta Beam Arcanist (Ardent Aedric variant)
 
-## Aedric Beam Trial Dummy Optimized Parse
+## Ardent Aedric Beam Trial Dummy Optimized Parse
 
 | Damage                                                                                                     | Info                                                                                                 |
 | ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
 | [![aedric_dummy_damage](./assets/images/aedric_dummy_damage.png)](./assets/images/aedric_dummy_damage.png) | [![aedric_dummy_info](./assets/images/aedric_dummy_info.png)](./assets/images/aedric_dummy_info.png) |
 {: class="parse-table"}
 
-## Aedric Beam In Content Gear Parse
+## Ardent Aedric Beam In Content Gear Parse
 
 | Damage                                                                                                           | Info                                                                                                     |
 | ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
 | [![aedric_content_damage](./assets/images/aedric_content_damage.png)](./assets/images/aedric_content_damage.png) | [![aedric_dummy_info](./assets/images/aedric_content_info.png)](./assets/images/aedric_content_info.png) |
 {: class="parse-table"}
+
+# Meta Beam Arcanist (Aedric Assassin variant)
+
+## Aedric Assassin Beam Trial Dummy Optimized Parse
+
+| Damage                                                                                                                 | Info                                                                                                             |
+| ---------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| [![aedric_ass_dummy_damage](./assets/images/aedric_ass_dummy_damage.png)](./assets/images/aedric_ass_dummy_damage.png) | [![aedric_ass_dummy_info](./assets/images/aedric_ass_dummy_info.png)](./assets/images/aedric_ass_dummy_info.png) |
+{: class="parse-table"}
+
 
 {% include menu-toggle.html %}
