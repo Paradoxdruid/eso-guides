@@ -22,9 +22,9 @@ title: Paradoxdruid's ESO Guides
 {:toc}
 </div>
 
-_This is a work in progess; last updated 2026-02-01._
+_This is a work in progess; last updated 2026-02-21._
 
-These represent Paradoxdruid's best attempt at capturing the mid-tier meta for Update 48 / U48, aimed at groups who regularly do vet and vet HM content; venturing in trifecta progs.
+These represent Paradoxdruid's best attempt at capturing the mid-tier meta for Update 49 / U49, aimed at groups who regularly do vet and vet HM content; venturing in trifecta progs.
 
 # Table of Contents
 
@@ -42,7 +42,7 @@ These represent Paradoxdruid's best attempt at capturing the mid-tier meta for U
 | ----------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
 | • [Quickstart DPS Guide](./quickstart.html)           | I want a quick checklist of everything I need to get my trial-ready **DPS** up and running                             |
 | • [Quickstart Healer Guide](./quickheal.html)         | I want a quick checklist of everything I need to get my trial-ready **Healer** up and running                          |
-| • [U48 Parses](./parses.html)                         | I want to see how some of these builds perform on the target dummy, dummy optimized and in-content setups.             |
+| • [U49 Parses](./parses.html)                         | I want to see how some of these builds perform on the target dummy, dummy optimized and in-content setups.             |
 | • [Top DPS Skills and Gear](./usage.html)             | I want to see the the most used skills and gear for DPS players on each boss, pulled from esologs.com data             |
 | • [Top Support Skills and Gear](./support_usage.html) | I want to see the the most used skills and gear for Tank and Healer players on each boss, pulled from esologs.com data |
 
@@ -50,7 +50,8 @@ These represent Paradoxdruid's best attempt at capturing the mid-tier meta for U
 
 ## Changelog
 
-- 2026-02-01: Split guides across multiple pages for ease of navigation
+- 2026-02-21: Added additional DPS setups
+- 2026-02-01: Split guide across multiple subpages
 - 2026-01-31: Significant changes in support Ultimates
 - 2026-01-30: Adjusted trial rosters, MT setups, and dps calculations
 - 2026-01-18: Added initial Update 49 setups
