@@ -24,13 +24,13 @@ title: Paradoxdruid's ESO Guides
 
 _This is a work in progess; last updated 2026-02-01._
 
-These capture the mid-tier meta for Update 48 (U48), aimed at groups who regularly do vet and vet HM content; venturing in trifecta progs. **Wait, you've got it all wrong!** Yeah, maybe I do, that's totally fair. And in any case, there's lots of good approaches and strategies, and not a one-size-fits-all approach that will always apply. Thanks for all the feedback I've received to date!
+These capture the mid-tier meta for Update 49 (U49), aimed at groups who regularly do vet and vet HM content; venturing in trifecta progs. **Wait, you've got it all wrong!** Yeah, maybe I do, that's totally fair. And in any case, there's lots of good approaches and strategies, and not a one-size-fits-all approach that will always apply. Thanks for all the feedback I've received to date!
 
 For all the guides, see the full [Paradoxdruid's Guides](./) site
 
 ---
 
-# ESO Update 48 Mid-tier Trial Rosters
+# ESO Update 49 Mid-tier Trial Rosters
 
 These rosters should be ready to copy and paste into Discord, though you may need to check the custom icons based on your servers and emoji availability.
 
@@ -401,36 +401,41 @@ Fill:
 
 ## Guiding Principles
 
-- Most dps will be in meta Herald/Ardent combos, which feature high penetration and crit damage. With Pragmatic Fatecarver and/or Reaving Blows CP, they have high innate survivability.
-- Due to meta classes being Arc/Ardent/NB or Aedric, there is limited need for Roar of Alkosh, Elemental Catalyst, or Crimson Oath's Rive sets in most fights (see calculations below).
+- Most dps will be in meta Herald of the Tome/Assassination combos, which feature high penetration and crit damage. With Pragmatic Fatecarver and/or Reaving Blows CP, they have high innate survivability.
+- Due to meta classes being Arc/NB, there is limited need for Roar of Alkosh or Crimson Oath's Rive sets in most fights (see calculations below).
 - With the changes to Zenas' (targets 6, not smart targeting), sourcing Minor Courage requires a change. The primary method of achieving this is through the courage affix on two Banner Bearer DPS. The recovery buffs from Zenas' are moved to a healer running Radiant Aura.
 
 ## Buff Calculations
 
 - **Typical Meta Penetration (Arc/NB/Aedric):**
-  - Major Breach (Ele Sus) 5,948
+  - Major Breach (Ele Sus) 5,949
   - Minor Breach (Cruxweaver on MT or good Wall/Ele Sus uptimes) 2,974
   - Crusher 2,108
   - Piercing Blue CP 700
-  - (Null Arca and Deadliy Strikes have no Pen lines)
+  - (note than common Null Arca and Deadliy Strikes sets have no Pen lines)
   - Velothi: 1,650
-  - Arcanist passives, 2 abilities slotted (Flail and Beam): 2,480
+  - Arcanist passives, 2 abilities slotted (Flail and Beam): 2,490
   - 1 Light Armor 939
-  - Ansuuls or Tideborn 1,487
-  - **TOTAL**: 18,286
-  - Overcap with no need for Kosh or Crimson
+  - Either:
+    - Set with Penetration line (Ansuuls or Tideborn) 1,497
+    - 1-piece Monster set with penetration (Valkyn Skoria) 1,497
+    - Tank running Runic Sunder as Taunt 2,200
+  - **TOTAL**: 18,307 (pen line set) or 19,010 (runic sunder taunt)
+  - Over the penetration cap with no need for Kosh or Crimson
 
-- **Typical Meta Crit Damage (Arc/NB/Aedric):**
+- **Typical Meta Crit Damage (Arc/NB):**
   - Base 50%
   - Minor Brittle 10%
   - Velothi / Minor Force 10%
   - 6 Medium armor 12%
-  - Nightblade passive 10% or Aedric Spear FB 12%
+  - Nightblade passive 10%
   - Arcanist passive 12%
   - Lucent Echoes 11%
-  - Saxhleel Champion / Major Force 20%
-  - **TOTAL**: 133% or 135%
-  - Overcap with no need for EC
+  - Either:
+    - Major Force (Saxhleel Champion, Aggressive Horn, or both) 20%
+    - Elemental Catalyst 15%
+  - **TOTAL**: 135% or 130%
+  - Over the crit damage cap
 
 ## Other Approaches
 
@@ -441,32 +446,29 @@ Fill:
   - If we decide to give up a set like Saxhleel we need to change other parts of our build as well as the builds of others to compensate.
     - DPS have to change their CP, for example by dropping Wrathful Strikes (205 Weapon Damage) for Fighting Finesse (8% Critical Damage).
   - Using Yolnahkriin is always a damage loss, and the expected value loss in certain circumstances is huge.
-    <details>
-      <summary>Explanation and Calculations: (click to expand)</summary>
-      <ul>
-        <li>The ultimate generation of minor heroism increases DPS by approximately 4.5/60 * 14% = 1.05%
-          <ul>
-            <li>The ultimate generation from minor heroism provides approximately (40/70) * 8s = 4.5s of 20% bonus damage from Incap every 60 seconds.</li>
-            <li>This is diluted down to ~14% bonus damage done due to other buffs which are always active such as minor berserk and our CPs (and even further with temporary buffs such as Major Berserk).</li>
-          </ul>
-        </li>
-        <li>The DPS gain from keeping our wrathful strikes CP and using Saxhleel to reach crit cap in the important burst phases is ~2.5%.
-          <ul>
-            <li>When we don't have the Major Force from Saxhleel, our damage is only ~0.67% worse at 115% crit damage.</li>
-            <li>We can calculate the expected value (whether this is worth it) with this formula: E(T) = (1-T) * -0.67% + T * 2.5% where T is the uptime of Major Force.</li>
-            <li>The absolute minimum uptime is 20%, because we generate 3 ultimate per second from light attacking, however our class passives, skills (such as Trample and Exhilarating Drain) and the decisive trait can increase this.
-              <ul>
-                <li>If we take a conservative ultimate generation per second value of 4, our expected value from using Saxhleel is (1-0.267) * -0.67% + 0.267 * 2.5% = 0.18%, which only goes up the more you and your group improves.</li>
-                <li>The absolute minimum uptime of 20% is only a (1-0.2%) * -0.67 + 0.2% * 2.5 = -0.036% damage loss, which is almost negligible and highlights how pointless it is to use Yoln.</li>
-                <li>This minimum uptime also doesn't account for being able to start a fight phase with some ultimate already which can dramatically increase the uptime of Major Force.</li>
-              </ul>
-            </li>
-          </ul>
-        </li>
-      </ul>
-    </details>
-
-      </ul>
+  <details>
+    <summary>Explanation and Calculations: (click to expand)
+    <ul>
+      <li>The ultimate generation of minor heroism increases DPS by approximately 4.5/60 * 14% = 1.05%
+        <ul>
+          <li>The ultimate generation from minor heroism provides approximately (40/70) * 8s = 4.5s of 20% bonus damage from Incap every 60 seconds.</li>
+          <li>This is diluted down to ~14% bonus damage done due to other buffs which are always active such as minor berserk and our CPs (and even further with temporary buffs such as Major Berserk).</li>
+        </ul>
+      </li>
+      <li>The DPS gain from keeping our wrathful strikes CP and using Saxhleel to reach crit cap in the important burst phases is ~2.5%.
+        <ul>
+          <li>When we don't have the Major Force from Saxhleel, our damage is only ~0.67% worse at 115% crit damage.</li>
+          <li>We can calculate the expected value (whether this is worth it) with this formula: E(T) = (1-T) * -0.67% + T * 2.5% where T is the uptime of Major Force.</li>
+          <li>The absolute minimum uptime is 20%, because we generate 3 ultimate per second from light attacking, however our class passives, skills (such as Trample and Exhilarating Drain) and the decisive trait can increase this.
+            <ul>
+              <li>If we take a conservative ultimate generation per second value of 4, our expected value from using Saxhleel is (1-0.267) * -0.67% + 0.267 * 2.5% = 0.18%, which only goes up the more you and your group improves.</li>
+              <li>The absolute minimum uptime of 20% is only a (1-0.2%) * -0.67 + 0.2% * 2.5 = -0.036% damage loss, which is almost negligible and highlights how pointless it is to use Yoln.</li>
+              <li>This minimum uptime also doesn't account for being able to start a fight phase with some ultimate already which can dramatically increase the uptime of Major Force.</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
 
 ---
 
