@@ -32,7 +32,7 @@ _This is a work in progess; last updated 2026-02-21._
 
 | Guide Section                                                       | Why Do I Want To Read This?                                                                                                                                                                              |
 | ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| • [Beam DPS Quickstart Guide](#beam-dps-quickstart-guide-update-48) | I want to see how to build a Beam-based DPS that's trial-ready, including stats, mundus, food, race, skill bars, subclassing, and commonly worn armor sets to get up and running fast. **(Start here!)** |
+| • [Beam DPS Quickstart Guide](#beam-dps-quickstart-guide-update-49) | I want to see how to build a Beam-based DPS that's trial-ready, including stats, mundus, food, race, skill bars, subclassing, and commonly worn armor sets to get up and running fast. **(Start here!)** |
 
 ## Beam DPS Quickstart Guide (Update 49)
 
