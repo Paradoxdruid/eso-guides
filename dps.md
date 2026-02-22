@@ -45,7 +45,7 @@ For all the guides, see the full [Paradoxdruid's Guides](./) site
 - [Meta Beam Arcanist - Storm Calling variant](#meta-beam-arcanist-stormcalling-variant)
 - [Chill Warden](#chill-warden)
 - [Dragon Assassin](#dragon-assassin)
-- [Runeblades - Earthen Heart variant](#runeblades-earthen-heart-variant)
+- [Runeblades - Earthen  variant](#runeblades-earthen--variant)
 - [Runeblades - Stormcalling variant](#runeblades-stormcalling-variant)
 
 - [Blastbones](#blastbones)
@@ -115,7 +115,7 @@ See [Guiding Principles](#guiding-principles) and [Buff Calculations](#buff-calc
 
 ### Runeblades (Earthen Heart variant)
 
-![Rune Heart skill bar](./assets/images/Rune_heart_skillbar_U49.png)
+![Rune Heart skill bar](./assets/images/Rune_Heart_skillbar_U49.png)
 
 | Class Lines                                                                                           | Skill Bars                                                                                                                                                                                                                                                                                                                                                             | Typical Sets                                                            | Notes                                                                                                                         |
 | ----------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
