@@ -46,7 +46,7 @@ For all the guides, see the full [Paradoxdruid's Guides](./) site
 - [Beam Arcanist Gear Guide](#beam-arcanist-gear-guides)
 - [Chill Warden](#chill-warden)
 - [Dragon Assassin](#dragon-assassin)
-- [Runeblades - Earthen  variant](#runeblades-earthen--variant)
+- [Runeblades - Earthen variant](#runeblades-earthen--variant)
 - [Runeblades - Stormcalling variant](#runeblades-stormcalling-variant)
 
 - [Blastbones](#blastbones)
@@ -58,17 +58,96 @@ See [Guiding Principles](#guiding-principles) and [Buff Calculations](#buff-calc
 
 ![Beam Dawn skill bar](./assets/images/Beam_Dawn_U49_skillbar.png)
 
-| Class Lines                                                                                     | Skill Bars                                                                                                                                                                                                                                                                                                                                               | Typical Sets                                                                                                                                                                  | Notes                                                                                                                                                                       |
-| ----------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| • Herald of the Tome (Arcanist), <br>• Assassination (Nightblade), <br>• Dawn's Wrath (Templar) | _FB_: Quick Cloak, Radiant Glory, Cephaliarch's Flail, Pragmatic Fatecarver, Camo Hunter, Ult: Incapacitating Strike<br><br>_BB_: Inspired Scholarship, Stampede, Solar Barrage, Fulminating Rune, Barbed Trap, Ult: Languid Eye<br><br>[Beam skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=299,94,18,17,370,36,20,334,89,22,372,12) | • See [Beam Gear Guides](#beam-arcanist-gear-guides)<br><br>• AOE: Ansuul's Torment/Deadly Strikes/Velothi/1 light Slimecraw/Maelstrom Inferno<br><br> • Single-Target: Null Arca/Tideborn/Velothi/1 light Slimecraw/Maelstrom Greatsword | • If running **Banner** (Shock/Cavaliar's Charge/Courage), replace Camo Hunter and Barbed Trap, and replace Fulminating with Merciless Resolve (for passive Major Savagery) |
+<div class="info-grid">
+  <div class="info-card">
+    <h5>Class Lines</h5>
+    <div class="card-content">
+      <ul>
+        <li>Herald of the Tome (Arcanist),</li>
+        <li>Assassination (Nightblade),</li>
+        <li>Dawn's Wrath (Templar)</li>
+      </ul>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Skill Bars</h5>
+    <div class="card-content">
+      <p><em>FB</em>: Quick Cloak, Radiant Glory, Cephaliarch's Flail, Pragmatic Fatecarver, Camo Hunter, Ult: Incapacitating Strike</p>
+      <p><em>BB</em>: Inspired Scholarship, Stampede, Solar Barrage, Fulminating Rune, Barbed Trap, Ult: Languid Eye</p>
+      <p><a href="https://sheumais.github.io/esoskillbarbuilder/?skills=299,94,18,17,370,36,20,334,89,22,372,12">Beam skill bars</a></p>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Typical Sets</h5>
+    <div class="card-content">
+      <ul>
+        <li>See <a href="#beam</li>
+        <li>arcanist</li>
+        <li>gear</li>
+        <li>guides">Beam Gear Guides</a></li>
+        <li>AOE: Ansuul's Torment/Deadly Strikes/Velothi/1 light Slimecraw/Maelstrom Inferno</li>
+        <li>Single</li>
+        <li>Target: Null Arca/Tideborn/Velothi/1 light Slimecraw/Maelstrom Greatsword</li>
+      </ul>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Notes</h5>
+    <div class="card-content">
+      <ul>
+        <li>If running <strong>Banner</strong> (Shock/Cavaliar's Charge/Courage), replace Camo Hunter and Barbed Trap, and replace Fulminating with Merciless Resolve (for passive Major Savagery)</li>
+      </ul>
+    </div>
+  </div>
+</div>
 
 ### Meta Beam Arcanist (Draconic Power variant)
 
 ![Beam Draconic skill bar](./assets/images/Beam_Draconic_U49_skillbar.png)
 
-| Class Lines                                                                                            | Skill Bars                                                                                                                                                                                                                                                                                                                                      | Typical Sets                                                                                                                                                                  | Notes                                                                                                                                                                                                   |
-| ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| • Herald of the Tome (Arcanist), <br>• Assassination (Nightblade), <br>• Draconic Power (Dragonknight) | _FB_: Quick Cloak, Engulfing Dragonfire, Cephaliarch's Flail, Pragmatic Fatecarver, Camo Hunter, Ult: Soul Harvest<br><br>_BB_: Inspired Scholarship, Stampede, Carve, Fulminating Rune, Barbed Trap, Ult: Take Flight<br><br>[Beam skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=299,80,18,17,370,36,20,334,336,22,372,12) | • See [Beam Gear Guides](#beam-arcanist-gear-guides)<br><br>• AOE: Ansuul's Torment/Deadly Strikes/Velothi/1 light Slimecraw/Maelstrom Inferno<br><br> • Single-Target: Null Arca/Tideborn/Velothi/1 light Slimecraw/Maelstrom Greatsword | • When Take Flight is up, cast it, then Engulfing Dragonfire 3 times, otherwise, normal beam rotation<br> • Replace Camo Hunter and Barbed Trap if running **Banner** (Shock/Cavaliar's Charge/Courage) |
+<div class="info-grid">
+  <div class="info-card">
+    <h5>Class Lines</h5>
+    <div class="card-content">
+      <ul>
+        <li>Herald of the Tome (Arcanist),</li>
+        <li>Assassination (Nightblade),</li>
+        <li>Draconic Power (Dragonknight)</li>
+      </ul>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Skill Bars</h5>
+    <div class="card-content">
+      <p><em>FB</em>: Quick Cloak, Engulfing Dragonfire, Cephaliarch's Flail, Pragmatic Fatecarver, Camo Hunter, Ult: Soul Harvest</p>
+      <p><em>BB</em>: Inspired Scholarship, Stampede, Carve, Fulminating Rune, Barbed Trap, Ult: Take Flight</p>
+      <p><a href="https://sheumais.github.io/esoskillbarbuilder/?skills=299,80,18,17,370,36,20,334,336,22,372,12">Beam skill bars</a></p>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Typical Sets</h5>
+    <div class="card-content">
+      <ul>
+        <li>See <a href="#beam</li>
+        <li>arcanist</li>
+        <li>gear</li>
+        <li>guides">Beam Gear Guides</a></li>
+        <li>AOE: Ansuul's Torment/Deadly Strikes/Velothi/1 light Slimecraw/Maelstrom Inferno</li>
+        <li>Single</li>
+        <li>Target: Null Arca/Tideborn/Velothi/1 light Slimecraw/Maelstrom Greatsword</li>
+      </ul>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Notes</h5>
+    <div class="card-content">
+      <ul>
+        <li>When Take Flight is up, cast it, then Engulfing Dragonfire 3 times, otherwise, normal beam rotation</li>
+        <li>Replace Camo Hunter and Barbed Trap if running <strong>Banner</strong> (Shock/Cavaliar's Charge/Courage)</li>
+      </ul>
+    </div>
+  </div>
+</div>
 
 **See [Parse Examples](./parses.html) for the Beam Arcanist**
 
@@ -76,9 +155,48 @@ See [Guiding Principles](#guiding-principles) and [Buff Calculations](#buff-calc
 
 ![Beam Aedric skill bar](./assets/images/Beam_Aedric_U49_skillbar.png)
 
-| Class Lines                                                                                     | Skill Bars                                                                                                                                                                                                                                                                                                                               | Typical Sets                                                                                                                                                                  | Notes                                                                                         |
-| ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| • Herald of the Tome (Arcanist), <br>• Aedric Spear (Templar), <br>• Assassination (Nightblade) | _FB_: Quick Cloak, Blazing Spear, Cephaliarch's Flail, Pragmatic Fatecarver, Camo Hunter, Ult: Soul Harvest<br><br>_BB_: Inspired Scholarship, Stampede, Carve, Fulminating Rune, Barbed Trap, Ult: Languid Eye<br><br>[Beam skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=299,80,18,17,370,36,20,334,336,22,372,12) | • See [Beam Gear Guides](#beam-arcanist-gear-guides)<br><br>• AOE: Ansuul's Torment/Deadly Strikes/Velothi/1 light Slimecraw/Maelstrom Inferno<br><br> • Single-Target: Null Arca/Tideborn/Velothi/1 light Slimecraw/Maelstrom Greatsword | • Replace Camo Hunter and Barbed Trap if running **Banner** (Shock/Cavaliar's Charge/Courage) |
+<div class="info-grid">
+  <div class="info-card">
+    <h5>Class Lines</h5>
+    <div class="card-content">
+      <ul>
+        <li>Herald of the Tome (Arcanist),</li>
+        <li>Aedric Spear (Templar),</li>
+        <li>Assassination (Nightblade)</li>
+      </ul>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Skill Bars</h5>
+    <div class="card-content">
+      <p><em>FB</em>: Quick Cloak, Blazing Spear, Cephaliarch's Flail, Pragmatic Fatecarver, Camo Hunter, Ult: Soul Harvest</p>
+      <p><em>BB</em>: Inspired Scholarship, Stampede, Carve, Fulminating Rune, Barbed Trap, Ult: Languid Eye</p>
+      <p><a href="https://sheumais.github.io/esoskillbarbuilder/?skills=299,80,18,17,370,36,20,334,336,22,372,12">Beam skill bars</a></p>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Typical Sets</h5>
+    <div class="card-content">
+      <ul>
+        <li>See <a href="#beam</li>
+        <li>arcanist</li>
+        <li>gear</li>
+        <li>guides">Beam Gear Guides</a></li>
+        <li>AOE: Ansuul's Torment/Deadly Strikes/Velothi/1 light Slimecraw/Maelstrom Inferno</li>
+        <li>Single</li>
+        <li>Target: Null Arca/Tideborn/Velothi/1 light Slimecraw/Maelstrom Greatsword</li>
+      </ul>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Notes</h5>
+    <div class="card-content">
+      <ul>
+        <li>Replace Camo Hunter and Barbed Trap if running <strong>Banner</strong> (Shock/Cavaliar's Charge/Courage)</li>
+      </ul>
+    </div>
+  </div>
+</div>
 
 **See [Parse Examples](./parses.html) for the Beam Arcanist**
 
@@ -86,17 +204,95 @@ See [Guiding Principles](#guiding-principles) and [Buff Calculations](#buff-calc
 
 ![Beam Gravelord skill bar](./assets/images/Beam_Gravelord_U49_skillbar.png)
 
-| Class Lines                                                                                      | Skill Bars                                                                                                                                                                                                                                                                                                                                                             | Typical Sets                                                                                                                                                                  | Notes                                                                                         |
-| ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| • Herald of the Tome (Arcanist), <br>• Assassination (Nightblade), <br>• Gravelord (Necromancer) | _FB_: Quick Cloak, Detonating Siphon, Cephaliarch's Flail, Pragmatic Fatecarver, Camo Hunter, Ult: Incapacitating Strike<br><br>_BB_: Inspired Scholarship, Stampede, Gravelord's Sacrifice, Fulminating Rune, Barbed Trap, Ult: Languid Eye<br><br>[Beam skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=299,238,18,17,370,36,20,334,233,22,372,12) | • See [Beam Gear Guides](#beam-arcanist-gear-guides)<br><br>• AOE: Ansuul's Torment/Deadly Strikes/Velothi/1 light Slimecraw/Maelstrom Inferno<br><br> • Single-Target: Null Arca/Tideborn/Velothi/1 light Slimecraw/Maelstrom Greatsword | • Replace Camo Hunter and Barbed Trap if running **Banner** (Shock/Cavaliar's Charge/Courage) |
+<div class="info-grid">
+  <div class="info-card">
+    <h5>Class Lines</h5>
+    <div class="card-content">
+      <ul>
+        <li>Herald of the Tome (Arcanist),</li>
+        <li>Assassination (Nightblade),</li>
+        <li>Gravelord (Necromancer)</li>
+      </ul>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Skill Bars</h5>
+    <div class="card-content">
+      <p><em>FB</em>: Quick Cloak, Detonating Siphon, Cephaliarch's Flail, Pragmatic Fatecarver, Camo Hunter, Ult: Incapacitating Strike</p>
+      <p><em>BB</em>: Inspired Scholarship, Stampede, Gravelord's Sacrifice, Fulminating Rune, Barbed Trap, Ult: Languid Eye</p>
+      <p><a href="https://sheumais.github.io/esoskillbarbuilder/?skills=299,238,18,17,370,36,20,334,233,22,372,12">Beam skill bars</a></p>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Typical Sets</h5>
+    <div class="card-content">
+      <ul>
+        <li>See <a href="#beam</li>
+        <li>arcanist</li>
+        <li>gear</li>
+        <li>guides">Beam Gear Guides</a></li>
+        <li>AOE: Ansuul's Torment/Deadly Strikes/Velothi/1 light Slimecraw/Maelstrom Inferno</li>
+        <li>Single</li>
+        <li>Target: Null Arca/Tideborn/Velothi/1 light Slimecraw/Maelstrom Greatsword</li>
+      </ul>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Notes</h5>
+    <div class="card-content">
+      <ul>
+        <li>Replace Camo Hunter and Barbed Trap if running <strong>Banner</strong> (Shock/Cavaliar's Charge/Courage)</li>
+      </ul>
+    </div>
+  </div>
+</div>
 
 ### Meta Beam Arcanist (Stormcalling variant)
 
 ![Beam Storm skill bar](./assets/images/Storm_skillbar_U49.png)
 
-| Class Lines                                                                                       | Skill Bars                                                                                                                                                                                                                                                                                                                                               | Typical Sets                                                                                                                                                                  | Notes                                                                                         |
-| ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| • Herald of the Tome (Arcanist), <br>• Assassination (Nightblade), <br>• Storm Calling (Sorcerer) | _FB_: Quick Cloak, Lightning Flood, Cephaliarch's Flail, Pragmatic Fatecarver, Camo Hunter, Ult: Incapacitating Strike<br><br>_BB_: Inspired Scholarship, Stampede, Hurricane, Fulminating Rune, Barbed Trap, Ult: Languid Eye<br><br>[Beam skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=299,174,18,17,370,36,20,334,173,22,372,12) | • See [Beam Gear Guides](#beam-arcanist-gear-guides)<br><br>• AOE: Ansuul's Torment/Deadly Strikes/Velothi/1 light Slimecraw/Maelstrom Inferno<br><br> • Single-Target: Null Arca/Tideborn/Velothi/1 light Slimecraw/Maelstrom Greatsword | • Replace Camo Hunter and Barbed Trap if running **Banner** (Shock/Cavaliar's Charge/Courage) |
+<div class="info-grid">
+  <div class="info-card">
+    <h5>Class Lines</h5>
+    <div class="card-content">
+      <ul>
+        <li>Herald of the Tome (Arcanist),</li>
+        <li>Assassination (Nightblade),</li>
+        <li>Storm Calling (Sorcerer)</li>
+      </ul>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Skill Bars</h5>
+    <div class="card-content">
+      <p><em>FB</em>: Quick Cloak, Lightning Flood, Cephaliarch's Flail, Pragmatic Fatecarver, Camo Hunter, Ult: Incapacitating Strike</p>
+      <p><em>BB</em>: Inspired Scholarship, Stampede, Hurricane, Fulminating Rune, Barbed Trap, Ult: Languid Eye</p>
+      <p><a href="https://sheumais.github.io/esoskillbarbuilder/?skills=299,174,18,17,370,36,20,334,173,22,372,12">Beam skill bars</a></p>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Typical Sets</h5>
+    <div class="card-content">
+      <ul>
+        <li>See <a href="#beam</li>
+        <li>arcanist</li>
+        <li>gear</li>
+        <li>guides">Beam Gear Guides</a></li>
+        <li>AOE: Ansuul's Torment/Deadly Strikes/Velothi/1 light Slimecraw/Maelstrom Inferno</li>
+        <li>Single</li>
+        <li>Target: Null Arca/Tideborn/Velothi/1 light Slimecraw/Maelstrom Greatsword</li>
+      </ul>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Notes</h5>
+    <div class="card-content">
+      <ul>
+        <li>Replace Camo Hunter and Barbed Trap if running <strong>Banner</strong> (Shock/Cavaliar's Charge/Courage)</li>
+      </ul>
+    </div>
+  </div>
+</div>
 
 ### Beam Arcanist Gear Guides
 
@@ -124,49 +320,243 @@ See [Guiding Principles](#guiding-principles) and [Buff Calculations](#buff-calc
 
 ![warden skill bar](./assets/images/Warden_skillbar_U49.png)
 
-| Class Lines                                                                                        | Skill Bars                                                                                                                                                                                                                                                                                                                                            | Typical Sets                                                                                       | Notes                                                                                                                                                                   |
-| -------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| • Animal Companions (Warden), <br>• Winter's Embrace (Warden), <br>• Herald of the Tome (Arcanist) | _FB_: Quick Cloak, Deep Fissure, Writhing Runeblades, Tentacular Dread, Venomous Knife, Ult: Wild Guardian<br><br>_BB_: Inspired Scholarship, Stampede, Arctic Blast, Winter's Revenge, Blue Betty, Ult: Wild Guardian<br><br>[Warden skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=299,184,15,19,302,181,20,334,210,209,188,181) | Null Arca / Aegis Caller / Shattered Paths Signet / 1 piece light Slimecraw / Maelstrom Greatsword | • Relies on the Shattered Paths Signet mythic to enable a status effect-centered build.<br><br>• Venomous Knife: Poison / Assassin's Misery / Major Savagery & Prophesy |
+<div class="info-grid">
+  <div class="info-card">
+    <h5>Class Lines</h5>
+    <div class="card-content">
+      <ul>
+        <li>Animal Companions (Warden),</li>
+        <li>Winter's Embrace (Warden),</li>
+        <li>Herald of the Tome (Arcanist)</li>
+      </ul>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Skill Bars</h5>
+    <div class="card-content">
+      <p><em>FB</em>: Quick Cloak, Deep Fissure, Writhing Runeblades, Tentacular Dread, Venomous Knife, Ult: Wild Guardian</p>
+      <p><em>BB</em>: Inspired Scholarship, Stampede, Arctic Blast, Winter's Revenge, Blue Betty, Ult: Wild Guardian</p>
+      <p><a href="https://sheumais.github.io/esoskillbarbuilder/?skills=299,184,15,19,302,181,20,334,210,209,188,181">Warden skill bars</a></p>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Typical Sets</h5>
+    <div class="card-content">
+      <p>Null Arca / Aegis Caller / Shattered Paths Signet / 1 piece light Slimecraw / Maelstrom Greatsword</p>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Notes</h5>
+    <div class="card-content">
+      <ul>
+        <li>Relies on the Shattered Paths Signet mythic to enable a status effect</li>
+        <li>centered build.</li>
+        <li>Venomous Knife: Poison / Assassin's Misery / Major Savagery & Prophesy</li>
+      </ul>
+    </div>
+  </div>
+</div>
 
 ### Dragon Assassin
 
 ![dragon skill bar](./assets/images/Dragon_skillbar_U49.png)
 
-| Class Lines                                                                                          | Skill Bars                                                                                                                                                                                                                                                                                                                                 | Typical Sets                                                                                           | Notes |
-| ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ | ----- |
-| • Earthen Heart (Dragonknight), <br>• Ardent Flames (Dragonknight), <br>• Assassination (Nightblade) | _FB_: Quick Cloak, Killer's Blade, Molten Whip, Magma Fist, Merciless Resolve, Ult: Soul Harvest<br><br>_BB_: Igneous Weapons, Stampede, Incinerate, Searing Claw, Shatterspike Mantle, Ult: Flawless Dawnbreaker<br><br>[Dragon skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=299,43,111,135,46,37,136,334,119,,,365) | Null Arca / Tideborn Wildstalker / Huntsman's Warmask / 1 piece light Slimecraw / Maelstrom Greatsword |       |
+<div class="info-grid">
+  <div class="info-card">
+    <h5>Class Lines</h5>
+    <div class="card-content">
+      <ul>
+        <li>Earthen Heart (Dragonknight),</li>
+        <li>Ardent Flames (Dragonknight),</li>
+        <li>Assassination (Nightblade)</li>
+      </ul>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Skill Bars</h5>
+    <div class="card-content">
+      <p><em>FB</em>: Quick Cloak, Killer's Blade, Molten Whip, Magma Fist, Merciless Resolve, Ult: Soul Harvest</p>
+      <p><em>BB</em>: Igneous Weapons, Stampede, Incinerate, Searing Claw, Shatterspike Mantle, Ult: Flawless Dawnbreaker</p>
+      <p><a href="https://sheumais.github.io/esoskillbarbuilder/?skills=299,43,111,135,46,37,136,334,119,,,365">Dragon skill bars</a></p>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Typical Sets</h5>
+    <div class="card-content">
+      <p>Null Arca / Tideborn Wildstalker / Huntsman's Warmask / 1 piece light Slimecraw / Maelstrom Greatsword</p>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Notes</h5>
+    <div class="card-content">
+      <p></p>
+    </div>
+  </div>
+</div>
 
 ### Runeblades (Earthen Heart variant)
 
 ![Rune Heart skill bar](./assets/images/Rune_Heart_skillbar_U49.png)
 
-| Class Lines                                                                                           | Skill Bars                                                                                                                                                                                                                                                                                                                                                             | Typical Sets                                                            | Notes                                                                                                                         |
-| ----------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| • Herald of the Tome (Arcanist), <br>• Assassination (Nightblade), <br>• Earthen Heart (Dragonknight) | _FB_: Quick Cloak, Relentless Focus, Escalating Runeblades, Shattering Knife, Magma Fist, Ult: Incapacitating Strike<br><br>_BB_: Inspired Scholarship, Stampede, Tentacular Dread, Igneous Weapons, Barbed Trap, Ult: The Languid Eye<br><br>[Runeblades skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=299,47,302,14,134,36,20,334,19,372,136,12) | Null Arca/Tideborn/Velothi/1 piece light Slimecraw/Maelstrom Greatsword | • Can also use the new Warmask mythic.<br><br>• Shattering Knife: Multitarget / Assassin's Misery / Major Savagery & Prophesy |
+<div class="info-grid">
+  <div class="info-card">
+    <h5>Class Lines</h5>
+    <div class="card-content">
+      <ul>
+        <li>Herald of the Tome (Arcanist),</li>
+        <li>Assassination (Nightblade),</li>
+        <li>Earthen Heart (Dragonknight)</li>
+      </ul>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Skill Bars</h5>
+    <div class="card-content">
+      <p><em>FB</em>: Quick Cloak, Relentless Focus, Escalating Runeblades, Shattering Knife, Magma Fist, Ult: Incapacitating Strike</p>
+      <p><em>BB</em>: Inspired Scholarship, Stampede, Tentacular Dread, Igneous Weapons, Barbed Trap, Ult: The Languid Eye</p>
+      <p><a href="https://sheumais.github.io/esoskillbarbuilder/?skills=299,47,302,14,134,36,20,334,19,372,136,12">Runeblades skill bars</a></p>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Typical Sets</h5>
+    <div class="card-content">
+      <p>Null Arca/Tideborn/Velothi/1 piece light Slimecraw/Maelstrom Greatsword</p>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Notes</h5>
+    <div class="card-content">
+      <ul>
+        <li>Can also use the new Warmask mythic.</li>
+        <li>Shattering Knife: Multitarget / Assassin's Misery / Off Balance or Flex</li>
+      </ul>
+    </div>
+  </div>
+</div>
 
 ### Runeblades (Stormcalling variant)
 
 ![Rune Storm skill bar](./assets/images/Rune_skillbar_U49.png)
 
-| Class Lines                                                                                      | Skill Bars                                                                                                                                                                                                                                                                                                                                                           | Typical Sets                                                            | Notes                                                                                                                         |
-| ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| • Herald of the Tome (Arcanist), <br>• Assassination (Nightblade), <br>• Stormcalling (Sorcerer) | _FB_: Quick Cloak, Relentless Focus, Escalating Runeblades, Shattering Knife, Killer's Blade, Ult: Incapacitating Strike<br><br>_BB_: Inspired Scholarship, Stampede, Tentacular Dread, Hurricane, Barbed Trap, Ult: The Languid Eye<br><br>[Runeblades skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=299,47,302,14,372,36,20,334,19,174,173,12) | Null Arca/Tideborn/Velothi/1 piece light Slimecraw/Maelstrom Greatsword | • Can also use the new Warmask mythic.<br><br>• Shattering Knife: Multitarget / Assassin's Misery / Major Savagery & Prophesy |
+<div class="info-grid">
+  <div class="info-card">
+    <h5>Class Lines</h5>
+    <div class="card-content">
+      <ul>
+        <li>Herald of the Tome (Arcanist),</li>
+        <li>Assassination (Nightblade),</li>
+        <li>Stormcalling (Sorcerer)</li>
+      </ul>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Skill Bars</h5>
+    <div class="card-content">
+      <p><em>FB</em>: Quick Cloak, Relentless Focus, Escalating Runeblades, Shattering Knife, Killer's Blade, Ult: Incapacitating Strike</p>
+      <p><em>BB</em>: Inspired Scholarship, Stampede, Tentacular Dread, Hurricane, Barbed Trap, Ult: The Languid Eye</p>
+      <p><a href="https://sheumais.github.io/esoskillbarbuilder/?skills=299,47,302,14,372,36,20,334,19,174,173,12">Runeblades skill bars</a></p>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Typical Sets</h5>
+    <div class="card-content">
+      <p>Null Arca/Tideborn/Velothi/1 piece light Slimecraw/Maelstrom Greatsword</p>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Notes</h5>
+    <div class="card-content">
+      <ul>
+        <li>Can also use the new Warmask mythic.</li>
+        <li>Shattering Knife: Multitarget / Assassin's Misery / Off Balance or flex</li>
+      </ul>
+    </div>
+  </div>
+</div>
 
 ### Blastbones
 
 ![Blastbones skill bar](./assets/images/Rune_Grave_skillbar_U49.png)
 
-| Class Lines                                                                                     | Skill Bars                                                                                                                                                                                                                                                                                                                                                                           | Typical Sets                                                           | Notes                                  |
-| ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------- | -------------------------------------- |
-| • Herald of the Tome (Aranist), <br>• Assassination (Nightblade), <br>• Gravelord (Necromancer) | _FB_: Quick Cloak, Escalating Runeblades, Blighted Blastbones, Detonating Siphon, Merciless Resolve, Ult: Incapacitating Strike<br><br>_BB_: Inspired Scholarship, Stampede, Tentacular Dread, Unnerving Boneyard, Barbed Trap, Ult: The Languid Eye<br><br>[Blastbones skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=299,14,232,238,46,36,20,334,19,235,372,12) | Null Arca/Tideborn/Velthi/1 piece light Slimecraw/Maelstrom Greatsword | • Can also use the new Warmask mythic. |
+<div class="info-grid">
+  <div class="info-card">
+    <h5>Class Lines</h5>
+    <div class="card-content">
+      <ul>
+        <li>Herald of the Tome (Aranist),</li>
+        <li>Assassination (Nightblade),</li>
+        <li>Gravelord (Necromancer)</li>
+      </ul>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Skill Bars</h5>
+    <div class="card-content">
+      <p><em>FB</em>: Quick Cloak, Escalating Runeblades, Blighted Blastbones, Detonating Siphon, Merciless Resolve, Ult: Incapacitating Strike</p>
+      <p><em>BB</em>: Inspired Scholarship, Stampede, Tentacular Dread, Unnerving Boneyard, Barbed Trap, Ult: The Languid Eye</p>
+      <p><a href="https://sheumais.github.io/esoskillbarbuilder/?skills=299,14,232,238,46,36,20,334,19,235,372,12">Blastbones skill bars</a></p>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Typical Sets</h5>
+    <div class="card-content">
+      <p>Null Arca/Tideborn/Velthi/1 piece light Slimecraw/Maelstrom Greatsword</p>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Notes</h5>
+    <div class="card-content">
+      <ul>
+        <li>Can also use the new Warmask mythic.</li>
+      </ul>
+    </div>
+  </div>
+</div>
 
 ### Support Zen/Colo DPS
 
 ![ZEN skill bar](./assets/images/ZEN_skillbar_U49.png)
 
-| Class Lines                                                                                | Skill Bars                                                                                                                                                                                                                                                                                                                                             | Typical Sets                  | Notes                                                                                                                                                                                                                                                                                                                                                                           |
-| ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Herald of the Tome (Arcanist), <br>Gravelord (Necromancer), <br>Assassination (Nightblade) | _FB:_ Quick Cloak, Relentless Focus, Traveling Knife, Escalating Runeblades, Barbed Trap, Incapacitating Strikes<br><br>_BB:_ Inspired Scholarship, Stampede, Soul Burst, Tentacular Dread, Fulminting Rune, Glacial Colossus<br><br>[Zen skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=299,47,302,14,372,36,20,334,336,19,22,228) | • Zen/Null Arca<br>• Zen/Kosh | • Provides Major Vuln<br>• Can wear Encratis monster set<br>• Zen DoTs: Knife, Soul Burst, Fulminating, Barbed Trap, Bleeding, Burning, Poison<br> • **Traveling Knife**: Multitarget / Lingering Torment / Off Balance<br> • **Soul Burst**: Bleed / Lingering Torment / Major Savagery<br> • Can replace Barbed Trap with Structured Entropy (Mage's Guild) for ranged fights |
+<div class="info-grid">
+  <div class="info-card">
+    <h5>Class Lines</h5>
+    <div class="card-content">
+      <p>Herald of the Tome (Arcanist),</p>
+      <p>Gravelord (Necromancer),</p>
+      <p>Assassination (Nightblade)</p>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Skill Bars</h5>
+    <div class="card-content">
+      <p><em>FB:</em> Quick Cloak, Relentless Focus, Traveling Knife, Escalating Runeblades, Barbed Trap, Incapacitating Strikes</p>
+      <p><em>BB:</em> Inspired Scholarship, Stampede, Soul Burst, Tentacular Dread, Fulminting Rune, Glacial Colossus</p>
+      <p><a href="https://sheumais.github.io/esoskillbarbuilder/?skills=299,47,302,14,372,36,20,334,336,19,22,228">Zen skill bars</a></p>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Typical Sets</h5>
+    <div class="card-content">
+      <ul>
+        <li>Zen/Null Arca</li>
+        <li>Zen/Kosh</li>
+      </ul>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Notes</h5>
+    <div class="card-content">
+      <ul>
+        <li>Provides Major Vuln</li>
+        <li>Can wear Encratis monster set</li>
+        <li>Zen DoTs: Knife, Soul Burst, Fulminating, Barbed Trap, Bleeding, Burning, Poison</li>
+        <li><strong>Traveling Knife</strong>: Multitarget / Lingering Torment / Off Balance</li>
+        <li><strong>Soul Burst</strong>: Bleed / Lingering Torment / Major Savagery</li>
+        <li>Can replace Barbed Trap with Structured Entropy (Mage's Guild) for ranged fights</li>
+      </ul>
+    </div>
+  </div>
+</div>
 
 ---
 
