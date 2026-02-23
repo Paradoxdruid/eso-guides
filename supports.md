@@ -987,16 +987,173 @@ Other Healer Gear Options: See [**U49 Trial Rosters**](./rosters.html)
 
 ### Front Bar
 
-| Icon                                                         | Name                                                        | Explanation                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| ------------------------------------------------------------ | ----------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![inner rage](./assets/icons/ability_undaunted_002_b.png)    | **Inner Rage**                                              | Your bread and butter Taunt. It has very long-range, and gives a powerful synergy (to do damage, as well as restore resources for the taker).                                                                                                                                                                                                                                                                                                                                                               |
-| ![ele sus](./assets/icons/ability_destructionstaff_011b.png) | **Elemental Susceptibility**                                | This is your most important debuff skill, and should always be active on important enemies. It applies Major Breach (increasing team damage by more than 10%) and the Burning, Chilled and Concussed status effects. These status effects provide Minor Maim, Minor Brittle and Minor Vulnerability. This skill also pairs well with wall of elements: Wall of Frost (from yourself) snares and reduces the armor of Chilled enemies and Wall of Storms (from a healer) sets Concussed enemies Off Balance. |
-| ![regen ward](./assets/icons/ability_sorcerer_tempest.png)   | **regenerative Ward**                                       | A large shield and essential damage mitigation.                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| ![flare](./assets/icons/ability_ava_lingering_flare.png)     | **Lingering Flare**                                         | Passively provides Major Protection for 10% damage reduction. Very useful if you anticipate a lot of DoT damage.                                                                                                                                                                                                                                                                                                                                                                                            |
-| ![polar wind](./assets/icons/ability_warden_003_a.png)       | **Polar Wind**                                              | Your self-heal. It heals a big chunk upfront, and applies a strong HoT effect as well. Your spammable heal, usually cast right after Igneous Shields to maximize the healing.                                                                                                                                                                                                                                                                                                                               |
-|                                                              | Flex Ult spot:                                              |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-|                                                              | ![soul siphon](./assets/icons/ability_nightblade_018_b.png) | With Siphoning line: **Soul Siphon** ultimate to replace Barrier FB. Passively slotted, gives you +6% Mag and Stam, +3% self-healing, and it's again a great "oh shit" button.                                                                                                                                                                                                                                                                                                                              |
-|                                                              | ![barrier](./assets/icons/ability_ava_006_b.png)            | Without Siphoning line: **Reviving Barrier** ultimate: This serves two purposes. First, it usually is just used for the passive, which will give +10% Magicka recovery. Second, it's a good "oh shit" button if you or especially the group is taking too much damage, to buy some breathing room.                                                                                                                                                                                                          |
+<div class="info-grid-3col">
+  <div class="info-card">
+    <h5>Icon</h5>
+    <div class="card-content">
+      <img src="./assets/icons/ability_undaunted_002_b.png" alt="inner rage" style="width: 40px; height: 40px;">
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Name</h5>
+    <div class="card-content">
+      <p><strong>Inner Rage</strong></p>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Explanation</h5>
+    <div class="card-content">
+      <p>Your bread and butter Taunt. It has very long-range, and gives a powerful synergy (to do damage, as well as restore resources for the taker).</p>
+    </div>
+  </div>
+</div>
+
+<div class="info-grid-3col">
+  <div class="info-card">
+    <h5>Icon</h5>
+    <div class="card-content">
+      <img src="./assets/icons/ability_destructionstaff_011b.png" alt="ele sus" style="width: 40px; height: 40px;">
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Name</h5>
+    <div class="card-content">
+      <p><strong>Elemental Susceptibility</strong></p>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Explanation</h5>
+    <div class="card-content">
+      <p>This is your most important debuff skill, and should always be active on important enemies. It applies Major Breach (increasing team damage by more than 10%) and the Burning, Chilled and Concussed status effects. These status effects provide Minor Maim, Minor Brittle and Minor Vulnerability. This skill also pairs well with wall of elements: Wall of Frost (from yourself) snares and reduces the armor of Chilled enemies and Wall of Storms (from a healer) sets Concussed enemies Off Balance.</p>
+    </div>
+  </div>
+</div>
+
+<div class="info-grid-3col">
+  <div class="info-card">
+    <h5>Icon</h5>
+    <div class="card-content">
+      <img src="./assets/icons/ability_sorcerer_tempest.png" alt="regen ward" style="width: 40px; height: 40px;">
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Name</h5>
+    <div class="card-content">
+      <p><strong>regenerative Ward</strong></p>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Explanation</h5>
+    <div class="card-content">
+      <p>A large shield and essential damage mitigation.</p>
+    </div>
+  </div>
+</div>
+
+<div class="info-grid-3col">
+  <div class="info-card">
+    <h5>Icon</h5>
+    <div class="card-content">
+      <img src="./assets/icons/ability_ava_lingering_flare.png" alt="flare" style="width: 40px; height: 40px;">
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Name</h5>
+    <div class="card-content">
+      <p><strong>Lingering Flare</strong></p>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Explanation</h5>
+    <div class="card-content">
+      <p>Passively provides Major Protection for 10% damage reduction. Very useful if you anticipate a lot of DoT damage.</p>
+    </div>
+  </div>
+</div>
+
+<div class="info-grid-3col">
+  <div class="info-card">
+    <h5>Icon</h5>
+    <div class="card-content">
+      <img src="./assets/icons/ability_warden_003_a.png" alt="polar wind" style="width: 40px; height: 40px;">
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Name</h5>
+    <div class="card-content">
+      <p><strong>Polar Wind</strong></p>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Explanation</h5>
+    <div class="card-content">
+      <p>Your self-heal. It heals a big chunk upfront, and applies a strong HoT effect as well. Your spammable heal, usually cast right after Igneous Shields to maximize the healing.</p>
+    </div>
+  </div>
+</div>
+
+<div class="info-grid-3col">
+  <div class="info-card">
+    <h5>Icon</h5>
+    <div class="card-content">
+      <p></p>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Name</h5>
+    <div class="card-content">
+      <p>Flex Ult spot:</p>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Explanation</h5>
+    <div class="card-content">
+      <p></p>
+    </div>
+  </div>
+</div>
+
+<div class="info-grid-3col">
+  <div class="info-card">
+    <h5>Icon</h5>
+    <div class="card-content">
+      <p></p>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Name</h5>
+    <div class="card-content">
+      <img src="./assets/icons/ability_nightblade_018_b.png" alt="soul siphon" style="width: 40px; height: 40px;">
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Explanation</h5>
+    <div class="card-content">
+      <p>With Siphoning line: <strong>Soul Siphon</strong> ultimate to replace Barrier FB. Passively slotted, gives you +6% Mag and Stam, +3% self-healing, and it's again a great "oh shit" button.</p>
+    </div>
+  </div>
+</div>
+
+<div class="info-grid-3col">
+  <div class="info-card">
+    <h5>Icon</h5>
+    <div class="card-content">
+      <p></p>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Name</h5>
+    <div class="card-content">
+      <img src="./assets/icons/ability_ava_006_b.png" alt="barrier" style="width: 40px; height: 40px;">
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Explanation</h5>
+    <div class="card-content">
+      <p>Without Siphoning line: <strong>Reviving Barrier</strong> ultimate: This serves two purposes. First, it usually is just used for the passive, which will give +10% Magicka recovery. Second, it's a good "oh shit" button if you or especially the group is taking too much damage, to buy some breathing room.</p>
+    </div>
+  </div>
+</div>
 
 ### Back Bar
 
