@@ -289,14 +289,14 @@ ul, ol {
     }
     
     a {
-        color: #64B5F6;
+        color: #66BB6A;
         text-decoration: none;
         transition: color 0.2s ease;
         display: block;
         padding: 0.25rem 0;
         
         &:hover {
-            color: #90CAF9;
+            color: #4CAF50;
             transform: none;
         }
     }
@@ -433,7 +433,7 @@ ul, ol {
   }
   
   a {
-    color: #64B5F6;
+    color: #66BB6A;
     text-decoration: none;
     transition: color 0.2s ease;
     display: block;
@@ -441,7 +441,7 @@ ul, ol {
     font-size: 0.95em;
     
     &:hover {
-      color: #90CAF9;
+      color: #4CAF50;
       transform: none;
     }
   }
