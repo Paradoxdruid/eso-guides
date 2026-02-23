@@ -81,10 +81,7 @@ See [Guiding Principles](#guiding-principles) and [Buff Calculations](#buff-calc
     <h5>Typical Sets</h5>
     <div class="card-content">
       <ul>
-        <li>See <a href="#beam</li>
-        <li>arcanist</li>
-        <li>gear</li>
-        <li>guides">Beam Gear Guides</a></li>
+        <li>See <a href="#beam-arcanist-gear-guides">Beam Gear Guides</a></li>
         <li>AOE: Ansuul's Torment/Deadly Strikes/Velothi/1 light Slimecraw/Maelstrom Inferno</li>
         <li>Single</li>
         <li>Target: Null Arca/Tideborn/Velothi/1 light Slimecraw/Maelstrom Greatsword</li>
@@ -128,10 +125,7 @@ See [Guiding Principles](#guiding-principles) and [Buff Calculations](#buff-calc
     <h5>Typical Sets</h5>
     <div class="card-content">
       <ul>
-        <li>See <a href="#beam</li>
-        <li>arcanist</li>
-        <li>gear</li>
-        <li>guides">Beam Gear Guides</a></li>
+        <li>See <a href="#beam-arcanist-gear-guides">Beam Gear Guides</a></li>
         <li>AOE: Ansuul's Torment/Deadly Strikes/Velothi/1 light Slimecraw/Maelstrom Inferno</li>
         <li>Single</li>
         <li>Target: Null Arca/Tideborn/Velothi/1 light Slimecraw/Maelstrom Greatsword</li>
@@ -178,10 +172,7 @@ See [Guiding Principles](#guiding-principles) and [Buff Calculations](#buff-calc
     <h5>Typical Sets</h5>
     <div class="card-content">
       <ul>
-        <li>See <a href="#beam</li>
-        <li>arcanist</li>
-        <li>gear</li>
-        <li>guides">Beam Gear Guides</a></li>
+        <li>See <a href="#beam-arcanist-gear-guides">Beam Gear Guides</a></li>
         <li>AOE: Ansuul's Torment/Deadly Strikes/Velothi/1 light Slimecraw/Maelstrom Inferno</li>
         <li>Single</li>
         <li>Target: Null Arca/Tideborn/Velothi/1 light Slimecraw/Maelstrom Greatsword</li>
@@ -227,10 +218,7 @@ See [Guiding Principles](#guiding-principles) and [Buff Calculations](#buff-calc
     <h5>Typical Sets</h5>
     <div class="card-content">
       <ul>
-        <li>See <a href="#beam</li>
-        <li>arcanist</li>
-        <li>gear</li>
-        <li>guides">Beam Gear Guides</a></li>
+        <li>See <a href="#beam-arcanist-gear-guides">Beam Gear Guides</a></li>
         <li>AOE: Ansuul's Torment/Deadly Strikes/Velothi/1 light Slimecraw/Maelstrom Inferno</li>
         <li>Single</li>
         <li>Target: Null Arca/Tideborn/Velothi/1 light Slimecraw/Maelstrom Greatsword</li>
@@ -274,10 +262,7 @@ See [Guiding Principles](#guiding-principles) and [Buff Calculations](#buff-calc
     <h5>Typical Sets</h5>
     <div class="card-content">
       <ul>
-        <li>See <a href="#beam</li>
-        <li>arcanist</li>
-        <li>gear</li>
-        <li>guides">Beam Gear Guides</a></li>
+        <li>See <a href="#beam-arcanist-gear-guides">Beam Gear Guides</a></li>
         <li>AOE: Ansuul's Torment/Deadly Strikes/Velothi/1 light Slimecraw/Maelstrom Inferno</li>
         <li>Single</li>
         <li>Target: Null Arca/Tideborn/Velothi/1 light Slimecraw/Maelstrom Greatsword</li>
