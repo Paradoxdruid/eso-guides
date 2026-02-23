@@ -70,6 +70,46 @@ See [Guiding Principles](#guiding-principles) and [Buff Calculations](#buff-calc
 
 ![Main Tank skill bar](./assets/images/MT_skillbar_U49_v3.png)
 
+<div class="info-grid">
+  <div class="info-card">
+    <h5>Class Lines</h5>
+    <div class="card-content">
+      <ul>
+        <li>Winter's Embrace (Warden)</li>
+        <li>Daedric Summoning (Sorcerer)</li>
+        <li>Siphoning (Nightblade)</li>
+      </ul>
+    </div>
+  </div>
+  
+  <div class="info-card">
+    <h5>Skill Bars</h5>
+    <div class="card-content">
+      <p><em>FB:</em> Elemental Susceptibility, Regenerative Ward, Inner Rage, Polar Wind, Lingering Flare, Reviving Barrier</p>
+      <p><em>BB:</em> Expansive Frost Cloak, Elemental Blockade, Leashing Soul, Siphoning Attacks, Bound Aegis, Summon Charged Atronach</p>
+      <p><a href="https://sheumais.github.io/esoskillbarbuilder/?skills=288,153,403,211,428,420,206,270,430,69,154,145">MT skill bars</a></p>
+    </div>
+  </div>
+  
+  <div class="info-card">
+    <h5>Typical Sets</h5>
+    <div class="card-content">
+      <p>See Gear below</p>
+    </div>
+  </div>
+  
+  <div class="info-card">
+    <h5>Notes</h5>
+    <div class="card-content">
+      <ul>
+        <li>Reviving Barrier FB gives +10% Magicka recovery</li>
+        <li>Typical Ult: Summon Charged Atronach</li>
+        <li><strong>Wield Soul:</strong> Pull / Druid's Resurgance / (Cowardice or Maim)</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
 | Class Lines                                                                                   | Skill Bars                                                                                                                                                                                                                                                                                                                                                               | Typical Sets     | Notes                                                                                                                                                             |
 | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | • Winter's Embrace (Warden), <br>• Daedric Summoning (Sorcerer), <br>• Siphoning (Nightblade) | _FB:_ Elemental Susceptibility, Regenerative Ward, Inner Rage, Polar Wind, Lingering Flare, Reviving Barrier<br><br>_BB:_ Expansive Frost Cloak, Elemental Blockade, Leashing Soul, Siphoning Attacks, Bound Aegis, Summon Charged Atronach<br><br>[MT skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=288,153,403,211,428,420,206,270,430,69,154,145) | Pearl/Lucent/Naz | • Reviving Barrier FB gives +10% Magicka recovery<br>• Typical Ult: Summon Charged Atronach<br> • **Wield Soul**: Pull / Druid's Resurgance / (Cowardice or Maim) |
