@@ -40,15 +40,135 @@ For all the guides, see the full [Paradoxdruid's Guides](./) site
 
 ![Main Tank skill bar](./assets/images/MT_skillbar_U49_v3.png)
 
-| Class Lines                                                                                   | Skill Bars                                                                                                                                                                                                                                                                                                                                                               | Typical Sets   | Notes                                                                                                                                                             |
-| --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| • Winter's Embrace (Warden), <br>• Daedric Summoning (Sorcerer), <br>• Siphoning (Nightblade) | _FB:_ Elemental Susceptibility, Regenerative Ward, Inner Rage, Polar Wind, Lingering Flare, Reviving Barrier<br><br>_BB:_ Expansive Frost Cloak, Elemental Blockade, Leashing Soul, Siphoning Attacks, Bound Aegis, Summon Charged Atronach<br><br>[MT skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=288,153,403,211,428,420,206,270,430,69,154,145) | See Gear below | • Reviving Barrier FB gives +10% Magicka recovery<br>• Typical Ult: Summon Charged Atronach<br> • **Wield Soul**: Pull / Druid's Resurgance / (Cowardice or Maim) |
+<div class="info-grid">
+  <div class="info-card">
+    <h5>Class Lines</h5>
+    <div class="card-content">
+      <ul>
+        <li>Winter's Embrace (Warden)</li>
+        <li>Daedric Summoning (Sorcerer)</li>
+        <li>Siphoning (Nightblade)</li>
+      </ul>
+    </div>
+  </div>
+  
+  <div class="info-card">
+    <h5>Skill Bars</h5>
+    <div class="card-content">
+      <p><em>FB:</em> Elemental Susceptibility, Regenerative Ward, Inner Rage, Polar Wind, Lingering Flare, Reviving Barrier</p>
+      <p><em>BB:</em> Expansive Frost Cloak, Elemental Blockade, Leashing Soul, Siphoning Attacks, Bound Aegis, Summon Charged Atronach</p>
+      <p><a href="https://sheumais.github.io/esoskillbarbuilder/?skills=288,153,403,211,428,420,206,270,430,69,154,145">MT skill bars</a></p>
+    </div>
+  </div>
+  
+  <div class="info-card">
+    <h5>Typical Sets</h5>
+    <div class="card-content">
+      <p>See Gear below</p>
+    </div>
+  </div>
+  
+  <div class="info-card">
+    <h5>Notes</h5>
+    <div class="card-content">
+      <ul>
+        <li>Reviving Barrier FB gives +10% Magicka recovery</li>
+        <li>Typical Ult: Summon Charged Atronach</li>
+        <li><strong>Wield Soul:</strong> Pull / Druid's Resurgance / (Cowardice or Maim)</li>
+      </ul>
+    </div>
+  </div>
+</div>
 
-| Main Tank Gear Set | Location(s)                                         | Traits / Enchants                        | Notes                                                                                         |
-| ------------------ | --------------------------------------------------- | ---------------------------------------- | --------------------------------------------------------------------------------------------- |
-| Pearlescent Ward   | Body, Jewelry, or **BOTH** front and back Ice Staff | Reinforced or Sturdy / Prismatic Defense | Make sure ZERO points in Destruction Staff "Tri-Focus" skill when tanking with dual ice staff |
-| Lucent Echoes      | Body, Jewelry, or **BOTH** front and back Ice Staff | Reinforced or Sturdy / Prismatic Defense | Make sure ZERO points in Destruction Staff "Tri-Focus" skill when tanking with dual ice staff |
-| Nazarey            | Head and Shoulder                                   | Reinforced or Sturdy / Prismatic Defense |                                                                                               |
+<div class="info-grid">
+  <div class="info-card">
+    <h5>Main Tank Gear Set</h5>
+    <div class="card-content">
+      <p>Pearlescent Ward</p>
+    </div>
+  </div>
+  
+  <div class="info-card">
+    <h5>Location(s)</h5>
+    <div class="card-content">
+      <p>Body, Jewelry, or <strong>BOTH</strong> front and back Ice Staff</p>
+    </div>
+  </div>
+  
+  <div class="info-card">
+    <h5>Traits / Enchants</h5>
+    <div class="card-content">
+      <p>Reinforced or Sturdy / Prismatic Defense</p>
+    </div>
+  </div>
+  
+  <div class="info-card">
+    <h5>Notes</h5>
+    <div class="card-content">
+      <p>Make sure ZERO points in Destruction Staff "Tri-Focus" skill when tanking with dual ice staff</p>
+    </div>
+  </div>
+</div>
+
+<div class="info-grid">
+  <div class="info-card">
+    <h5>Main Tank Gear Set</h5>
+    <div class="card-content">
+      <p>Lucent Echoes</p>
+    </div>
+  </div>
+  
+  <div class="info-card">
+    <h5>Location(s)</h5>
+    <div class="card-content">
+      <p>Body, Jewelry, or <strong>BOTH</strong> front and back Ice Staff</p>
+    </div>
+  </div>
+  
+  <div class="info-card">
+    <h5>Traits / Enchants</h5>
+    <div class="card-content">
+      <p>Reinforced or Sturdy / Prismatic Defense</p>
+    </div>
+  </div>
+  
+  <div class="info-card">
+    <h5>Notes</h5>
+    <div class="card-content">
+      <p>Make sure ZERO points in Destruction Staff "Tri-Focus" skill when tanking with dual ice staff</p>
+    </div>
+  </div>
+</div>
+
+<div class="info-grid">
+  <div class="info-card">
+    <h5>Main Tank Gear Set</h5>
+    <div class="card-content">
+      <p>Nazarey</p>
+    </div>
+  </div>
+  
+  <div class="info-card">
+    <h5>Location(s)</h5>
+    <div class="card-content">
+      <p>Head and Shoulder</p>
+    </div>
+  </div>
+  
+  <div class="info-card">
+    <h5>Traits / Enchants</h5>
+    <div class="card-content">
+      <p>Reinforced or Sturdy / Prismatic Defense</p>
+    </div>
+  </div>
+  
+  <div class="info-card">
+    <h5>Notes</h5>
+    <div class="card-content">
+      <p></p>
+    </div>
+  </div>
+</div>
 
 Other Main Tank Gear Options: See [**U49 Trial Rosters**](./rosters.html)
 
@@ -56,15 +176,136 @@ Other Main Tank Gear Options: See [**U49 Trial Rosters**](./rosters.html)
 
 ![Off Tank skill bar](./assets/images/OT_skillbar_U49.png)
 
-| Class Lines                                                                                    | Skill Bars                                                                                                                                                                                                                                                                                                                                                                | Typical Sets   | Notes                                                                                                                                                                                                                                     |
-| ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| • Gravelord (Necromancer), <br>• Soldier of Apocrypha (Arcanist), <br>• Siphoning (Nightblade) | _FB:_ Runeguard of Still Waters, Spiteward of the Lucid Mind, Runic Sunder, Resolving Vigor, Trample, Soul Siphon<br><br>_BB:_ Cruxweaver Armor, Elemental Blockade, Leashing Soul, Elemental Susceptibility, Siphoning Attacks, Glacial Colossus<br><br>[OT skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=33,29,26,413,418,60,30,270,430,288,69,228) | See Gear below | • Typical Ult: Glacial Colossus<br> • **Wield Soul**: Pull / Druid's Resurgance / (Cowardice or Maim)<br> • Paired with Runic Sunder, Spiteward is an almost free shield and heal<br>• Siphoning ability on both bars gives +6% resources |
+<div class="info-grid">
+  <div class="info-card">
+    <h5>Class Lines</h5>
+    <div class="card-content">
+      <ul>
+        <li>Gravelord (Necromancer)</li>
+        <li>Soldier of Apocrypha (Arcanist)</li>
+        <li>Siphoning (Nightblade)</li>
+      </ul>
+    </div>
+  </div>
+  
+  <div class="info-card">
+    <h5>Skill Bars</h5>
+    <div class="card-content">
+      <p><em>FB:</em> Runeguard of Still Waters, Spiteward of the Lucid Mind, Runic Sunder, Resolving Vigor, Trample, Soul Siphon</p>
+      <p><em>BB:</em> Cruxweaver Armor, Elemental Blockade, Leashing Soul, Elemental Susceptibility, Siphoning Attacks, Glacial Colossus</p>
+      <p><a href="https://sheumais.github.io/esoskillbarbuilder/?skills=33,29,26,413,418,60,30,270,430,288,69,228">OT skill bars</a></p>
+    </div>
+  </div>
+  
+  <div class="info-card">
+    <h5>Typical Sets</h5>
+    <div class="card-content">
+      <p>See Gear below</p>
+    </div>
+  </div>
+  
+  <div class="info-card">
+    <h5>Notes</h5>
+    <div class="card-content">
+      <ul>
+        <li>Typical Ult: Glacial Colossus</li>
+        <li><strong>Wield Soul:</strong> Pull / Druid's Resurgance / (Cowardice or Maim)</li>
+        <li>Paired with Runic Sunder, Spiteward is an almost free shield and heal</li>
+        <li>Siphoning ability on both bars gives +6% resources</li>
+      </ul>
+    </div>
+  </div>
+</div>
 
-| Off Tank Gear Set                                             | Location(s)                                         | Traits / Enchants                        | Notes                                                                                         |
-| ------------------------------------------------------------- | --------------------------------------------------- | ---------------------------------------- | --------------------------------------------------------------------------------------------- |
-| Saxhleel Champion                                             | Body, Jewelry, or **BOTH** front and back Ice Staff | Reinforced or Sturdy / Prismatic Defense | Make sure ZERO points in Destruction Staff "Tri-Focus" skill when tanking with dual ice staff |
-| Powerful Assault                                              | Body, Jewelry, or **BOTH** front and back Ice Staff | Reinforced or Sturdy / Prismatic Defense | Make sure ZERO points in Destruction Staff "Tri-Focus" skill when tanking with dual ice staff |
-| Archdruid Deyvric **OR** Magma Incarnate and Spaulder of Ruin | Head and Shoulder                                   | Reinforced or Sturdy / Prismatic Defense |                                                                                               |
+<div class="info-grid">
+  <div class="info-card">
+    <h5>Off Tank Gear Set</h5>
+    <div class="card-content">
+      <p>Saxhleel Champion</p>
+    </div>
+  </div>
+  
+  <div class="info-card">
+    <h5>Location(s)</h5>
+    <div class="card-content">
+      <p>Body, Jewelry, or <strong>BOTH</strong> front and back Ice Staff</p>
+    </div>
+  </div>
+  
+  <div class="info-card">
+    <h5>Traits / Enchants</h5>
+    <div class="card-content">
+      <p>Reinforced or Sturdy / Prismatic Defense</p>
+    </div>
+  </div>
+  
+  <div class="info-card">
+    <h5>Notes</h5>
+    <div class="card-content">
+      <p>Make sure ZERO points in Destruction Staff "Tri-Focus" skill when tanking with dual ice staff</p>
+    </div>
+  </div>
+</div>
+
+<div class="info-grid">
+  <div class="info-card">
+    <h5>Off Tank Gear Set</h5>
+    <div class="card-content">
+      <p>Powerful Assault</p>
+    </div>
+  </div>
+  
+  <div class="info-card">
+    <h5>Location(s)</h5>
+    <div class="card-content">
+      <p>Body, Jewelry, or <strong>BOTH</strong> front and back Ice Staff</p>
+    </div>
+  </div>
+  
+  <div class="info-card">
+    <h5>Traits / Enchants</h5>
+    <div class="card-content">
+      <p>Reinforced or Sturdy / Prismatic Defense</p>
+    </div>
+  </div>
+  
+  <div class="info-card">
+    <h5>Notes</h5>
+    <div class="card-content">
+      <p>Make sure ZERO points in Destruction Staff "Tri-Focus" skill when tanking with dual ice staff</p>
+    </div>
+  </div>
+</div>
+
+<div class="info-grid">
+  <div class="info-card">
+    <h5>Off Tank Gear Set</h5>
+    <div class="card-content">
+      <p>Archdruid Deyvric <strong>OR</strong> Magma Incarnate and Spaulder of Ruin</p>
+    </div>
+  </div>
+  
+  <div class="info-card">
+    <h5>Location(s)</h5>
+    <div class="card-content">
+      <p>Head and Shoulder</p>
+    </div>
+  </div>
+  
+  <div class="info-card">
+    <h5>Traits / Enchants</h5>
+    <div class="card-content">
+      <p>Reinforced or Sturdy / Prismatic Defense</p>
+    </div>
+  </div>
+  
+  <div class="info-card">
+    <h5>Notes</h5>
+    <div class="card-content">
+      <p></p>
+    </div>
+  </div>
+</div>
 
 Other Off Tank Gear Options: See [**U49 Trial Rosters**](./rosters.html)
 
@@ -72,25 +313,292 @@ Other Off Tank Gear Options: See [**U49 Trial Rosters**](./rosters.html)
 
 ![ROJO skill bar](./assets/images/ROJO_skillbar_U49.png)
 
-| Class Lines                                                                                                               | Skill Bars                                                                                                                                                                                                                                                                                                                                                  | Typical Sets                                                                                                                                                                                                                | Notes                                                                                                                                                                                                                                                                                          |
-| ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| • Siphoning (Nightblade), <br>• Restoring Light (Templar), <br>• Flex (typically Curative Runeforms or Daedric Summoning) | _FB:_ Illustrious Healing, Extended Ritual, Radiating Regeneration, Combat Prayer, Warding Burst, Soul Siphon<br><br>_BB:_ Siphoning Attacks, Elemental Blockade, Echoing Vigor, Radiant Aura, Energy Orb, Aggressive Warhorn<br><br>[ROJO skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=319,431,320,323,104,60,69,272,406,412,102,408) | • See detailed gear below<br> <br>• Roaring Opportunist (BB)/ Jorvuld's Guidance (body)/ Master's Resto (FB)/ Ozezan the Infero<br><br> • Master Architect / Powerful Assault (BB)/ Master's Resto (FB)/ Ozezan the Inferno | • Typical Ult: Aggressive Warhorn; can also run Reviving Barrier<br> • May drop Radianting Regen for Overflowing Altar (one healer always should run it)<br> • Siphoning ability on each bar for +6% resources<br> • **Warding Burst**: Damage Shield / Anchorite's Potency / Minor Expedition |
+<div class="info-grid">
+  <div class="info-card">
+    <h5>Class Lines</h5>
+    <div class="card-content">
+      <ul>
+        <li>Siphoning (Nightblade)</li>
+        <li>Restoring Light (Templar)</li>
+        <li>Flex (typically Curative Runeforms or Daedric Summoning)</li>
+      </ul>
+    </div>
+  </div>
+  
+  <div class="info-card">
+    <h5>Skill Bars</h5>
+    <div class="card-content">
+      <p><em>FB:</em> Illustrious Healing, Extended Ritual, Radiating Regeneration, Combat Prayer, Warding Burst, Soul Siphon</p>
+      <p><em>BB:</em> Siphoning Attacks, Elemental Blockade, Echoing Vigor, Radiant Aura, Energy Orb, Aggressive Warhorn</p>
+      <p><a href="https://sheumais.github.io/esoskillbarbuilder/?skills=319,431,320,323,104,60,69,272,406,412,102,408">ROJO skill bars</a></p>
+    </div>
+  </div>
+  
+  <div class="info-card">
+    <h5>Typical Sets</h5>
+    <div class="card-content">
+      <p>See detailed gear below</p>
+      <p>Roaring Opportunist (BB)/ Jorvuld's Guidance (body)/ Master's Resto (FB)/ Ozezan the Infero</p>
+      <p>Master Architect / Powerful Assault (BB)/ Master's Resto (FB)/ Ozezan the Inferno</p>
+    </div>
+  </div>
+  
+  <div class="info-card">
+    <h5>Notes</h5>
+    <div class="card-content">
+      <ul>
+        <li>Typical Ult: Aggressive Warhorn; can also run Reviving Barrier</li>
+        <li>May drop Radianting Regen for Overflowing Altar (one healer always should run it)</li>
+        <li>Siphoning ability on each bar for +6% resources</li>
+        <li><strong>Warding Burst:</strong> Damage Shield / Anchorite's Potency / Minor Expedition</li>
+      </ul>
+    </div>
+  </div>
+</div>
 
-| ROJO Gear Set                                       | Location(s)                             | Traits / Enchants                                                                                 | Notes                                                                       |
-| --------------------------------------------------- | --------------------------------------- | ------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| Jorvuld's Guidance                                  | Body                                    | Divines / Magicka                                                                                 |                                                                             |
-| Roaring Opportunist                                 | Jewelry and **backbar** Lightning Staff | Jewelry: Infused / Spell Damage or Magicka Cost Reduction<br>Lightning Staff: Infused / Weakening | Must Heavy Attack Twice on Backbar every 17 seconds for Major Slayer uptime |
-| The Master's Restoration Staff (Grand Rejuvenation) | Front Bar Restoration Staff             | Decisive / Increase Weapon Damage                                                                 |                                                                             |
-| Ozezan the Inferno                                  | Head and Shoulder                       | Divines / Magicka Damage                                                                          |                                                                             |
+<div class="info-grid">
+  <div class="info-card">
+    <h5>ROJO Gear Set</h5>
+    <div class="card-content">
+      <p>Jorvuld's Guidance</p>
+    </div>
+  </div>
+  
+  <div class="info-card">
+    <h5>Location(s)</h5>
+    <div class="card-content">
+      <p>Body</p>
+    </div>
+  </div>
+  
+  <div class="info-card">
+    <h5>Traits / Enchants</h5>
+    <div class="card-content">
+      <p>Divines / Magicka</p>
+    </div>
+  </div>
+  
+  <div class="info-card">
+    <h5>Notes</h5>
+    <div class="card-content">
+      <p></p>
+    </div>
+  </div>
+</div>
+
+<div class="info-grid">
+  <div class="info-card">
+    <h5>ROJO Gear Set</h5>
+    <div class="card-content">
+      <p>Roaring Opportunist</p>
+    </div>
+  </div>
+  
+  <div class="info-card">
+    <h5>Location(s)</h5>
+    <div class="card-content">
+      <p>Jewelry and <strong>backbar</strong> Lightning Staff</p>
+    </div>
+  </div>
+  
+  <div class="info-card">
+    <h5>Traits / Enchants</h5>
+    <div class="card-content">
+      <p>Jewelry: Infused / Spell Damage or Magicka Cost Reduction</p>
+      <p>Lightning Staff: Infused / Weakening</p>
+    </div>
+  </div>
+  
+  <div class="info-card">
+    <h5>Notes</h5>
+    <div class="card-content">
+      <p>Must Heavy Attack Twice on Backbar every 17 seconds for Major Slayer uptime</p>
+    </div>
+  </div>
+</div>
+
+<div class="info-grid">
+  <div class="info-card">
+    <h5>ROJO Gear Set</h5>
+    <div class="card-content">
+      <p>The Master's Restoration Staff (Grand Rejuvenation)</p>
+    </div>
+  </div>
+  
+  <div class="info-card">
+    <h5>Location(s)</h5>
+    <div class="card-content">
+      <p>Front Bar Restoration Staff</p>
+    </div>
+  </div>
+  
+  <div class="info-card">
+    <h5>Traits / Enchants</h5>
+    <div class="card-content">
+      <p>Decisive / Increase Weapon Damage</p>
+    </div>
+  </div>
+  
+  <div class="info-card">
+    <h5>Notes</h5>
+    <div class="card-content">
+      <p></p>
+    </div>
+  </div>
+</div>
+
+<div class="info-grid">
+  <div class="info-card">
+    <h5>ROJO Gear Set</h5>
+    <div class="card-content">
+      <p>Ozezan the Inferno</p>
+    </div>
+  </div>
+  
+  <div class="info-card">
+    <h5>Location(s)</h5>
+    <div class="card-content">
+      <p>Head and Shoulder</p>
+    </div>
+  </div>
+  
+  <div class="info-card">
+    <h5>Traits / Enchants</h5>
+    <div class="card-content">
+      <p>Divines / Magicka Damage</p>
+    </div>
+  </div>
+  
+  <div class="info-card">
+    <h5>Notes</h5>
+    <div class="card-content">
+      <p></p>
+    </div>
+  </div>
+</div>
 
 Or
 
-| MA/PA Gear Set                                      | Location(s)                             | Traits / Enchants                                                                                              | Notes |
-| --------------------------------------------------- | --------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ----- |
-| Master Architect                                    | Body                                    | Divines / Magicka                                                                                              |       |
-| Powerful Assault                                    | Jewelry and **backbar** Lightning Staff | Jewelry: Infused / Magicka Cost Reduction or Potion Cooldown Reduction<br>Lightning Staff: Infused / Weakening |       |
-| The Master's Restoration Staff (Grand Rejuvenation) | Front Bar Restoration Staff             | Decisive / Increase Weapon Damage                                                                              |       |
-| Ozezan the Inferno                                  | Head and Shoulder                       | Divines / Magicka Damage                                                                                       |
+<div class="info-grid">
+  <div class="info-card">
+    <h5>MA/PA Gear Set</h5>
+    <div class="card-content">
+      <p>Master Architect</p>
+    </div>
+  </div>
+  
+  <div class="info-card">
+    <h5>Location(s)</h5>
+    <div class="card-content">
+      <p>Body</p>
+    </div>
+  </div>
+  
+  <div class="info-card">
+    <h5>Traits / Enchants</h5>
+    <div class="card-content">
+      <p>Divines / Magicka</p>
+    </div>
+  </div>
+  
+  <div class="info-card">
+    <h5>Notes</h5>
+    <div class="card-content">
+      <p></p>
+    </div>
+  </div>
+</div>
+
+<div class="info-grid">
+  <div class="info-card">
+    <h5>MA/PA Gear Set</h5>
+    <div class="card-content">
+      <p>Powerful Assault</p>
+    </div>
+  </div>
+  
+  <div class="info-card">
+    <h5>Location(s)</h5>
+    <div class="card-content">
+      <p>Jewelry and <strong>backbar</strong> Lightning Staff</p>
+    </div>
+  </div>
+  
+  <div class="info-card">
+    <h5>Traits / Enchants</h5>
+    <div class="card-content">
+      <p>Jewelry: Infused / Magicka Cost Reduction or Potion Cooldown Reduction</p>
+      <p>Lightning Staff: Infused / Weakening</p>
+    </div>
+  </div>
+  
+  <div class="info-card">
+    <h5>Notes</h5>
+    <div class="card-content">
+      <p></p>
+    </div>
+  </div>
+</div>
+
+<div class="info-grid">
+  <div class="info-card">
+    <h5>MA/PA Gear Set</h5>
+    <div class="card-content">
+      <p>The Master's Restoration Staff (Grand Rejuvenation)</p>
+    </div>
+  </div>
+  
+  <div class="info-card">
+    <h5>Location(s)</h5>
+    <div class="card-content">
+      <p>Front Bar Restoration Staff</p>
+    </div>
+  </div>
+  
+  <div class="info-card">
+    <h5>Traits / Enchants</h5>
+    <div class="card-content">
+      <p>Decisive / Increase Weapon Damage</p>
+    </div>
+  </div>
+  
+  <div class="info-card">
+    <h5>Notes</h5>
+    <div class="card-content">
+      <p></p>
+    </div>
+  </div>
+</div>
+
+<div class="info-grid">
+  <div class="info-card">
+    <h5>MA/PA Gear Set</h5>
+    <div class="card-content">
+      <p>Ozezan the Inferno</p>
+    </div>
+  </div>
+  
+  <div class="info-card">
+    <h5>Location(s)</h5>
+    <div class="card-content">
+      <p>Head and Shoulder</p>
+    </div>
+  </div>
+  
+  <div class="info-card">
+    <h5>Traits / Enchants</h5>
+    <div class="card-content">
+      <p>Divines / Magicka Damage</p>
+    </div>
+  </div>
+  
+  <div class="info-card">
+    <h5>Notes</h5>
+    <div class="card-content">
+      <p></p>
+    </div>
+  </div>
+</div>
 
 Other Healer Gear Options: See [**U49 Trial Rosters**](./rosters.html)
 
@@ -98,27 +606,325 @@ Other Healer Gear Options: See [**U49 Trial Rosters**](./rosters.html)
 
 ![SPC skill bar](./assets/images/SPC_skillbar_U49.png)
 
-| Class Lines                                                                                                            | Skill Bars                                                                                                                                                                                                                                                                                                                                          | Typical Sets                                                                                                                                                                                 | Notes                                                                                                                                                                                                                                                                                            |
-| ---------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| • Green Balance (Warden), <br>• Siphoning (Nightblade), <br>• Flex (typically Curative Runeforms or Daedric Summoning) | _FB:_ Illustrious Healing, Warding Burst, Radiating Regen, Budding Seeds, Combat Prayer, Soul Siphon<br><br>_BB:_ Siphoning Attacks, Elemental Blockade, Echoing Vigor, Chakram of Destiny, Energy Orb, Reviving Barrier<br><br>[SPC skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=319,196,320,323,431,60,69,272,412,6,406,420) | • Spell Power Cure (FB)/ Pillager's Profit (BB)/ Pearls of Ehlnofey / Symphony of Blades <br><br > • Spell Power Cure (FB) / Master Architect (BB) / Pearls of Ehlnofey / Symphony of Blades | • Typical Ult: Reviving Barrier, may also run Glyphic of the Tides<br> • May drop Radiating Regen for Overflowing Altar (one healer always should run it) <br> • Siphoning ability on each bar for +6% resources<br> • **Warding Burst**: Damage Shield / Anchorite's Potency / Minor Expedition |
+<div class="info-grid">
+  <div class="info-card">
+    <h5>Class Lines</h5>
+    <div class="card-content">
+      <ul>
+        <li>Green Balance (Warden),</li>
+        <li>Siphoning (Nightblade),</li>
+        <li>Flex (typically Curative Runeforms or Daedric Summoning)</li>
+      </ul>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Skill Bars</h5>
+    <div class="card-content">
+      <p><em>FB:</em> Illustrious Healing, Warding Burst, Radiating Regen, Budding Seeds, Combat Prayer, Soul Siphon</p>
+      <p><em>BB:</em> Siphoning Attacks, Elemental Blockade, Echoing Vigor, Chakram of Destiny, Energy Orb, Reviving Barrier</p>
+      <p><a href="https://sheumais.github.io/esoskillbarbuilder/?skills=319,196,320,323,431,60,69,272,412,6,406,420">SPC skill bars</a></p>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Typical Sets</h5>
+    <div class="card-content">
+      <ul>
+        <li>Spell Power Cure (FB)/ Pillager's Profit (BB)/ Pearls of Ehlnofey / Symphony of Blades <br ></li>
+        <li>Spell Power Cure (FB) / Master Architect (BB) / Pearls of Ehlnofey / Symphony of Blades</li>
+      </ul>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Notes</h5>
+    <div class="card-content">
+      <ul>
+        <li>Typical Ult: Reviving Barrier, may also run Glyphic of the Tides</li>
+        <li>May drop Radiating Regen for Overflowing Altar (one healer always should run it)</li>
+        <li>Siphoning ability on each bar for +6% resources</li>
+        <li><strong>Warding Burst</strong>: Damage Shield / Anchorite's Potency / Minor Expedition</li>
+      </ul>
+    </div>
+  </div>
+</div>
 
-| SPC/PP Gear Set      | Location(s)                                            | Traits / Enchants                                                                                             | Notes              |
-| -------------------- | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- | ------------------ |
-| Spell Power Cure     | 3-piece Body<br>Front Bar Restoration Staff            | Body: Divines / Magicka<br>Staff: Decisive / Absorb Magicka                                                   |                    |
-| Pillager's Profit    | 1-piece body, 2 Rings, and **backbar** Lightning Staff | Body: Divines / Magicka<br>Rings: Infused / Potion Cooldown Reduction<br>Lightning Staff: Infused / Weakening |                    |
-| Pearls of Ehlnofey   | Neck                                                   | Infused / Potion Cooldown Reduction Damage                                                                    |                    |
-| Armor of the Trainee | Chest                                                  | Divines / Magicka                                                                                             | Heavy armor weight |
-| Symphony of Blade    | Head and Shoulder                                      | Divines / Magicka Damage                                                                                      |                    |
+<div class="info-grid">
+  <div class="info-card">
+    <h5>SPC/PP Gear Set</h5>
+    <div class="card-content">
+      <p>Spell Power Cure</p>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Location(s)</h5>
+    <div class="card-content">
+      <p>3-piece Body</p>
+      <p>Front Bar Restoration Staff</p>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Traits / Enchants</h5>
+    <div class="card-content">
+      <p>Body: Divines / Magicka</p>
+      <p>Staff: Decisive / Absorb Magicka</p>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Notes</h5>
+    <div class="card-content">
+      <p></p>
+    </div>
+  </div>
+</div>
 
+<div class="info-grid">
+  <div class="info-card">
+    <h5>SPC/PP Gear Set</h5>
+    <div class="card-content">
+      <p>Pillager's Profit</p>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Location(s)</h5>
+    <div class="card-content">
+      <p>1-piece body, 2 Rings, and <strong>backbar</strong> Lightning Staff</p>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Traits / Enchants</h5>
+    <div class="card-content">
+      <p>Body: Divines / Magicka</p>
+      <p>Rings: Infused / Potion Cooldown Reduction</p>
+      <p>Lightning Staff: Infused / Weakening</p>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Notes</h5>
+    <div class="card-content">
+      <p></p>
+    </div>
+  </div>
+</div>
+
+<div class="info-grid">
+  <div class="info-card">
+    <h5>SPC/PP Gear Set</h5>
+    <div class="card-content">
+      <p>Pearls of Ehlnofey</p>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Location(s)</h5>
+    <div class="card-content">
+      <p>Neck</p>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Traits / Enchants</h5>
+    <div class="card-content">
+      <p>Infused / Potion Cooldown Reduction Damage</p>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Notes</h5>
+    <div class="card-content">
+      <p></p>
+    </div>
+  </div>
+</div>
+
+<div class="info-grid">
+  <div class="info-card">
+    <h5>SPC/PP Gear Set</h5>
+    <div class="card-content">
+      <p>Armor of the Trainee</p>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Location(s)</h5>
+    <div class="card-content">
+      <p>Chest</p>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Traits / Enchants</h5>
+    <div class="card-content">
+      <p>Divines / Magicka</p>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Notes</h5>
+    <div class="card-content">
+      <p>Heavy armor weight</p>
+    </div>
+  </div>
+</div>
+
+<div class="info-grid">
+  <div class="info-card">
+    <h5>SPC/PP Gear Set</h5>
+    <div class="card-content">
+      <p>Symphony of Blade</p>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Location(s)</h5>
+    <div class="card-content">
+      <p>Head and Shoulder</p>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Traits / Enchants</h5>
+    <div class="card-content">
+      <p>Divines / Magicka Damage</p>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Notes</h5>
+    <div class="card-content">
+      <p></p>
+    </div>
+  </div>
+</div>
 Or
 
-| SPC/MA Gear Set      | Location(s)                                            | Traits / Enchants                                                                                             | Notes              |
-| -------------------- | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- | ------------------ |
-| Spell Power Cure     | 3-piece Body<br>Front Bar Restoration Staff            | Body: Divines / Magicka<br>Staff: Decisive / Absorb Magicka                                                   |                    |
-| Master Architect     | 1-piece body, 2 Rings, and **backbar** Lightning Staff | Body: Divines / Magicka<br>Rings: Infused / Potion Cooldown Reduction<br>Lightning Staff: Infused / Weakening |                    |
-| Pearls of Ehlnofey   | Neck                                                   | Infused / Potion Cooldown Reduction Damage                                                                    |                    |
-| Armor of the Trainee | Chest                                                  | Divines / Magicka                                                                                             | Heavy armor weight |
-| Symphony of Blade    | Head and Shoulder                                      | Divines / Magicka Damage                                                                                      |                    |
+<div class="info-grid">
+  <div class="info-card">
+    <h5>SPC/MA Gear Set</h5>
+    <div class="card-content">
+      <p>Spell Power Cure</p>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Location(s)</h5>
+    <div class="card-content">
+      <p>3-piece Body</p>
+      <p>Front Bar Restoration Staff</p>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Traits / Enchants</h5>
+    <div class="card-content">
+      <p>Body: Divines / Magicka</p>
+      <p>Staff: Decisive / Absorb Magicka</p>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Notes</h5>
+    <div class="card-content">
+      <p></p>
+    </div>
+  </div>
+</div>
+
+<div class="info-grid">
+  <div class="info-card">
+    <h5>SPC/MA Gear Set</h5>
+    <div class="card-content">
+      <p>Master Architect</p>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Location(s)</h5>
+    <div class="card-content">
+      <p>1-piece body, 2 Rings, and <strong>backbar</strong> Lightning Staff</p>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Traits / Enchants</h5>
+    <div class="card-content">
+      <p>Body: Divines / Magicka</p>
+      <p>Rings: Infused / Potion Cooldown Reduction</p>
+      <p>Lightning Staff: Infused / Weakening</p>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Notes</h5>
+    <div class="card-content">
+      <p></p>
+    </div>
+  </div>
+</div>
+
+<div class="info-grid">
+  <div class="info-card">
+    <h5>SPC/MA Gear Set</h5>
+    <div class="card-content">
+      <p>Pearls of Ehlnofey</p>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Location(s)</h5>
+    <div class="card-content">
+      <p>Neck</p>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Traits / Enchants</h5>
+    <div class="card-content">
+      <p>Infused / Potion Cooldown Reduction Damage</p>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Notes</h5>
+    <div class="card-content">
+      <p></p>
+    </div>
+  </div>
+</div>
+
+<div class="info-grid">
+  <div class="info-card">
+    <h5>SPC/MA Gear Set</h5>
+    <div class="card-content">
+      <p>Armor of the Trainee</p>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Location(s)</h5>
+    <div class="card-content">
+      <p>Chest</p>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Traits / Enchants</h5>
+    <div class="card-content">
+      <p>Divines / Magicka</p>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Notes</h5>
+    <div class="card-content">
+      <p>Heavy armor weight</p>
+    </div>
+  </div>
+</div>
+
+<div class="info-grid">
+  <div class="info-card">
+    <h5>SPC/MA Gear Set</h5>
+    <div class="card-content">
+      <p>Symphony of Blade</p>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Location(s)</h5>
+    <div class="card-content">
+      <p>Head and Shoulder</p>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Traits / Enchants</h5>
+    <div class="card-content">
+      <p>Divines / Magicka Damage</p>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Notes</h5>
+    <div class="card-content">
+      <p></p>
+    </div>
+  </div>
+</div>
 
 Other Healer Gear Options: See [**U49 Trial Rosters**](./rosters.html)
 
@@ -126,9 +932,45 @@ Other Healer Gear Options: See [**U49 Trial Rosters**](./rosters.html)
 
 ![ZEN skill bar](./assets/images/ZEN_skillbar_U49.png)
 
-| Class Lines                                                                                | Skill Bars                                                                                                                                                                                                                                                                                                                                        | Typical Sets                  | Notes                                                                                                                                                                                                                                                                                           |
-| ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Herald of the Tome (Arcanist), <br>Gravelord (Necromancer), <br>Assassination (Nightblade) | _FB:_ Quick Cloak, Relentless Focus, Traveling Knife, Escalating Runeblades, Barbed Trap, Incapacitating Strikes<br><br>_BB:_ Inspired Scholarship, Stampede, Carve, Tentacular Dread, Fulminting Rune, Glacial Colossus<br><br>[Zen skill bars](https://sheumais.github.io/esoskillbarbuilder/?skills=299,47,302,14,372,36,20,334,336,19,22,228) | • Zen/Null Arca<br>• Zen/Kosh | • Provides Major Vuln<br>• Can wear Encratis monster set<br>• Zen DoTs: Knife, Carve, Fulminating, Barbed Trap, Burning, Poison<br> • **Traveling Knife**: Multitarget / Lingering Torment / Off Balance<br> • Can replace Barbed Trap with Structured Entropy (Mage's Guild) for ranged fights |
+<div class="info-grid">
+  <div class="info-card">
+    <h5>Class Lines</h5>
+    <div class="card-content">
+      <p>Herald of the Tome (Arcanist),</p>
+      <p>Gravelord (Necromancer),</p>
+      <p>Assassination (Nightblade)</p>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Skill Bars</h5>
+    <div class="card-content">
+      <p><em>FB:</em> Quick Cloak, Relentless Focus, Traveling Knife, Escalating Runeblades, Barbed Trap, Incapacitating Strikes</p>
+      <p><em>BB:</em> Inspired Scholarship, Stampede, Carve, Tentacular Dread, Fulminting Rune, Glacial Colossus</p>
+      <p><a href="https://sheumais.github.io/esoskillbarbuilder/?skills=299,47,302,14,372,36,20,334,336,19,22,228">Zen skill bars</a></p>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Typical Sets</h5>
+    <div class="card-content">
+      <ul>
+        <li>Zen/Null Arca</li>
+        <li>Zen/Kosh</li>
+      </ul>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Notes</h5>
+    <div class="card-content">
+      <ul>
+        <li>Provides Major Vuln</li>
+        <li>Can wear Encratis monster set</li>
+        <li>Zen DoTs: Knife, Carve, Fulminating, Barbed Trap, Burning, Poison</li>
+        <li><strong>Traveling Knife</strong>: Multitarget / Lingering Torment / Off Balance</li>
+        <li>Can replace Barbed Trap with Structured Entropy (Mage's Guild) for ranged fights</li>
+      </ul>
+    </div>
+  </div>
+</div>
 
 ---
 
