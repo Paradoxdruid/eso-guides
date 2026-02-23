@@ -27,6 +27,26 @@ h1, h2, h3, h4, h5, h6 {
   letter-spacing: -0.02em;
 }
 
+// Link colors - add this after your existing link styles
+a {
+  color: #66BB6A;  // Light/medium green for unvisited links
+  transition: all 0.2s ease;
+  
+  &:visited {
+    color: #159957;  // Darker green for visited links
+  }
+  
+  &:hover {
+    color: #4CAF50;  // Slightly different shade on hover
+    text-decoration: none;
+    transform: translateY(-1px);
+  }
+  
+  &:active {
+    color: #159957;  // Same as visited when clicking
+  }
+}
+
 // Modern shadows and depth
 .page-header {
   // background: linear-gradient(135deg, #155799, #159957);
