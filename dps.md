@@ -46,6 +46,7 @@ For all the guides, see the full [Paradoxdruid's Guides](./) site
 - [Beam Arcanist Gear Guide](#beam-arcanist-gear-guides)
 - [Chill Warden](#chill-warden)
 - [Dragon Assassin](#dragon-assassin)
+- [Runeblades - Ardent Flames variant](#runeblades-ardent-flames-variant)
 - [Runeblades - Earthen variant](#runeblades-earthen--variant)
 - [Runeblades - Stormcalling variant](#runeblades-stormcalling-variant)
 
@@ -375,6 +376,45 @@ See [Guiding Principles](#guiding-principles) and [Buff Calculations](#buff-calc
     <h5>Notes</h5>
     <div class="card-content">
       <p></p>
+    </div>
+  </div>
+</div>
+
+### Runeblades (Ardent Flames variant)
+
+![Rune Heart skill bar](./assets/images/Rune_Ardent_skillbar_U49.png)
+
+<div class="info-grid">
+  <div class="info-card">
+    <h5>Class Lines</h5>
+    <div class="card-content">
+      <ul>
+        <li>Herald of the Tome (Arcanist),</li>
+        <li>Assassination (Nightblade),</li>
+        <li>Ardent Flames (Dragonknight)</li>
+      </ul>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Skill Bars</h5>
+    <div class="card-content">
+      <p><em>FB</em>: Flame Lash, Escalating Runeblades, Tentacular Dread, Merciless Resolve, Killer's Blade, Ult: Incapacitating Strike</p>
+      <p><em>BB</em>: Inspired Scholarship, Stampede, Searing Claw, Incinerate, Barbed Trap, Ult: Shifting Standard</p>
+      <p><a href="https://sheumais.github.io/esoskillbarbuilder/?skills=110,19,14,46,43,37,20,338,119,113,378,108">Runeblades skill bars</a></p>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Typical Sets</h5>
+    <div class="card-content">
+      <p>Null Arca/Tideborn/Velothi/1 piece light Slimecraw/Maelstrom Greatsword</p>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Notes</h5>
+    <div class="card-content">
+      <ul>
+        <li>Can also use the new Warmask mythic.</li>
+      </ul>
     </div>
   </div>
 </div>
