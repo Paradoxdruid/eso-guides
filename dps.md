@@ -22,6 +22,8 @@ title: Paradoxdruid's ESO Guides
 {:toc}
 </div>
 
+# ESO Update 49 Mid-tier Build Guides
+
 _This is a work in progess; last updated 2026-02-21._
 
 These capture the mid-tier meta for Update 49 (U49), aimed at groups who regularly do vet and vet HM content; venturing in trifecta progs. **Wait, you've got it all wrong!** Yeah, maybe I do, that's totally fair. And in any case, there's lots of good approaches and strategies, and not a one-size-fits-all approach that will always apply. Thanks for all the feedback I've received to date!
@@ -30,13 +32,13 @@ For all the guides, see the full [Paradoxdruid's Guides](./) site
 
 ---
 
-# ESO Update 49 Mid-tier Build Guides
-
 ## Update 49 DPS Loadouts
 
-**See also [Why Do I Use These Skills?](#why-do-i-use-these-skills) for details on why different skills are selected.**
+See also [Why Do I Use These Skills?](#why-do-i-use-these-skills) for details on why different skills are selected.
 
 **DPS Builds**
+
+**Fatecarver (Beam) Builds**
 
 - [Meta Beam Arcanist - Dawn's Wrath variant](#meta-beam-arcanist-dawns-wrath-variant)
 - [Meta Beam Arcanist - Draconic Power variant](#meta-beam-arcanist-draconic-power-variant)
@@ -44,12 +46,14 @@ For all the guides, see the full [Paradoxdruid's Guides](./) site
 - [Meta Beam Arcanist - Gravelord variant](#meta-beam-arcanist-gravelord-variant)
 - [Meta Beam Arcanist - Storm Calling variant](#meta-beam-arcanist-stormcalling-variant)
 - [Beam Arcanist Gear Guide](#beam-arcanist-gear-guides)
+
+**Spammable (Non-Beam) Builds**
+
 - [Chill Warden](#chill-warden)
 - [Dragon Assassin](#dragon-assassin)
 - [Runeblades - Ardent Flames variant](#runeblades-ardent-flames-variant)
 - [Runeblades - Earthen variant](#runeblades-earthen--variant)
 - [Runeblades - Stormcalling variant](#runeblades-stormcalling-variant)
-
 - [Blastbones](#blastbones)
 - [Support Zen/Colo DPS](#support-zencolo-dps)
 
@@ -301,7 +305,6 @@ See [Guiding Principles](#guiding-principles) and [Buff Calculations](#buff-calc
 | Velothi Ur-Mage's Amulet                    | Necklace                             | Bloodthirsty / Increase Physical Harm                                                                                         |                                                                                    |
 | Slimecraw (or other crit line monster helm) | Head                                 | Divines / Stamina                                                                                                             | Light armor weight                                                                 |
 | The Maelstrom's Greatsword                  | backbar                              | Infused / Increase Weapon Damage                                                                                              |                                                                                    |
-
 ### Chill Warden
 
 ![warden skill bar](./assets/images/Warden_skillbar_U49.png)
