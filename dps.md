@@ -88,8 +88,7 @@ See [Guiding Principles](#guiding-principles) and [Buff Calculations](#buff-calc
       <ul>
         <li>See <a href="#beam-arcanist-gear-guides">Beam Gear Guides</a></li>
         <li>AOE: Ansuul's Torment/Deadly Strikes/Velothi/1 light Slimecraw/Maelstrom Inferno</li>
-        <li>Single</li>
-        <li>Target: Null Arca/Tideborn/Velothi/1 light Slimecraw/Maelstrom Greatsword</li>
+        <li>Single-Target: Null Arca/Tideborn/Velothi/1 light Slimecraw/Maelstrom Greatsword</li>
       </ul>
     </div>
   </div>
@@ -132,8 +131,7 @@ See [Guiding Principles](#guiding-principles) and [Buff Calculations](#buff-calc
       <ul>
         <li>See <a href="#beam-arcanist-gear-guides">Beam Gear Guides</a></li>
         <li>AOE: Ansuul's Torment/Deadly Strikes/Velothi/1 light Slimecraw/Maelstrom Inferno</li>
-        <li>Single</li>
-        <li>Target: Null Arca/Tideborn/Velothi/1 light Slimecraw/Maelstrom Greatsword</li>
+        <li>Single-Target: Null Arca/Tideborn/Velothi/1 light Slimecraw/Maelstrom Greatsword</li>
       </ul>
     </div>
   </div>
@@ -179,8 +177,7 @@ See [Guiding Principles](#guiding-principles) and [Buff Calculations](#buff-calc
       <ul>
         <li>See <a href="#beam-arcanist-gear-guides">Beam Gear Guides</a></li>
         <li>AOE: Ansuul's Torment/Deadly Strikes/Velothi/1 light Slimecraw/Maelstrom Inferno</li>
-        <li>Single</li>
-        <li>Target: Null Arca/Tideborn/Velothi/1 light Slimecraw/Maelstrom Greatsword</li>
+        <li>Single-Target: Null Arca/Tideborn/Velothi/1 light Slimecraw/Maelstrom Greatsword</li>
       </ul>
     </div>
   </div>
@@ -225,8 +222,7 @@ See [Guiding Principles](#guiding-principles) and [Buff Calculations](#buff-calc
       <ul>
         <li>See <a href="#beam-arcanist-gear-guides">Beam Gear Guides</a></li>
         <li>AOE: Ansuul's Torment/Deadly Strikes/Velothi/1 light Slimecraw/Maelstrom Inferno</li>
-        <li>Single</li>
-        <li>Target: Null Arca/Tideborn/Velothi/1 light Slimecraw/Maelstrom Greatsword</li>
+        <li>Single-Target: Null Arca/Tideborn/Velothi/1 light Slimecraw/Maelstrom Greatsword</li>
       </ul>
     </div>
   </div>
@@ -269,8 +265,7 @@ See [Guiding Principles](#guiding-principles) and [Buff Calculations](#buff-calc
       <ul>
         <li>See <a href="#beam-arcanist-gear-guides">Beam Gear Guides</a></li>
         <li>AOE: Ansuul's Torment/Deadly Strikes/Velothi/1 light Slimecraw/Maelstrom Inferno</li>
-        <li>Single</li>
-        <li>Target: Null Arca/Tideborn/Velothi/1 light Slimecraw/Maelstrom Greatsword</li>
+        <li>Single-Target: Null Arca/Tideborn/Velothi/1 light Slimecraw/Maelstrom Greatsword</li>
       </ul>
     </div>
   </div>
@@ -305,6 +300,7 @@ See [Guiding Principles](#guiding-principles) and [Buff Calculations](#buff-calc
 | Velothi Ur-Mage's Amulet                    | Necklace                             | Bloodthirsty / Increase Physical Harm                                                                                         |                                                                                    |
 | Slimecraw (or other crit line monster helm) | Head                                 | Divines / Stamina                                                                                                             | Light armor weight                                                                 |
 | The Maelstrom's Greatsword                  | backbar                              | Infused / Increase Weapon Damage                                                                                              |                                                                                    |
+
 ### Chill Warden
 
 ![warden skill bar](./assets/images/Warden_skillbar_U49.png)
@@ -409,7 +405,7 @@ See [Guiding Principles](#guiding-principles) and [Buff Calculations](#buff-calc
   <div class="info-card">
     <h5>Typical Sets</h5>
     <div class="card-content">
-      <p>Null Arca/Tideborn/Velothi/1 piece light Slimecraw/Maelstrom Greatsword</p>
+      <p>Null Arca / Tideborn / Velothi / 1 piece light Slimecraw / Maelstrom Greatsword</p>
     </div>
   </div>
   <div class="info-card">
@@ -448,7 +444,7 @@ See [Guiding Principles](#guiding-principles) and [Buff Calculations](#buff-calc
   <div class="info-card">
     <h5>Typical Sets</h5>
     <div class="card-content">
-      <p>Null Arca/Tideborn/Velothi/1 piece light Slimecraw/Maelstrom Greatsword</p>
+      <p>Null Arca / Tideborn / Velothi / 1 piece light Slimecraw / Maelstrom Greatsword</p>
     </div>
   </div>
   <div class="info-card">
@@ -488,7 +484,7 @@ See [Guiding Principles](#guiding-principles) and [Buff Calculations](#buff-calc
   <div class="info-card">
     <h5>Typical Sets</h5>
     <div class="card-content">
-      <p>Null Arca/Tideborn/Velothi/1 piece light Slimecraw/Maelstrom Greatsword</p>
+      <p>Null Arca / Tideborn / Velothi / 1 piece light Slimecraw / Maelstrom Greatsword</p>
     </div>
   </div>
   <div class="info-card">
@@ -528,7 +524,7 @@ See [Guiding Principles](#guiding-principles) and [Buff Calculations](#buff-calc
   <div class="info-card">
     <h5>Typical Sets</h5>
     <div class="card-content">
-      <p>Null Arca/Tideborn/Velthi/1 piece light Slimecraw/Maelstrom Greatsword</p>
+      <p>Null Arca / Tideborn / Velothi / 1 piece light Slimecraw / Maelstrom Greatsword</p>
     </div>
   </div>
   <div class="info-card">
@@ -566,8 +562,8 @@ See [Guiding Principles](#guiding-principles) and [Buff Calculations](#buff-calc
     <h5>Typical Sets</h5>
     <div class="card-content">
       <ul>
-        <li>Zen/Null Arca</li>
-        <li>Zen/Kosh</li>
+        <li>Zen / Null Arca</li>
+        <li>Zen / Kosh</li>
       </ul>
     </div>
   </div>
