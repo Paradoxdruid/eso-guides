@@ -24,7 +24,7 @@ title: Paradoxdruid's ESO Guides
 
 # ESO Update 49 Mid-tier Build Guides
 
-_This is a work in progess; last updated 2026-02-21._
+_This is a work in progess; last updated 2026-03-06._
 
 These capture the mid-tier meta for Update 49 (U49), aimed at groups who regularly do vet and vet HM content; venturing in trifecta progs. **Wait, you've got it all wrong!** Yeah, maybe I do, that's totally fair. And in any case, there's lots of good approaches and strategies, and not a one-size-fits-all approach that will always apply. Thanks for all the feedback I've received to date!
 
@@ -40,11 +40,13 @@ See also [Why Do I Use These Skills?](#why-do-i-use-these-skills) for details on
 
 **Fatecarver (Beam) Builds**
 
-- [Meta Beam Arcanist - Dawn's Wrath variant](#meta-beam-arcanist-dawns-wrath-variant)
-- [Meta Beam Arcanist - Draconic Power variant](#meta-beam-arcanist-draconic-power-variant)
-- [Meta Beam Arcanist - Aedric Spear variant](#meta-beam-arcanist-aedric-spear-variant)
-- [Meta Beam Arcanist - Gravelord variant](#meta-beam-arcanist-gravelord-variant)
-- [Meta Beam Arcanist - Storm Calling variant](#meta-beam-arcanist-stormcalling-variant)
+- [Beam Arcanist - Dawn's Wrath variant](#beam-arcanist-dawns-wrath-variant)
+- [Beam Arcanist - Earthen Heart variant](#beam-arcanist-earthen-heart-variant)
+- [Beam Arcanist - Storm Calling variant](#beam-arcanist-stormcalling-variant)
+- [Beam Dragonknight](#beam-dragonknight)
+- [Beam Arcanist - Aedric Spear variant](#beam-arcanist-aedric-spear-variant)
+- [Beam Arcanist - Gravelord variant](#beam-arcanist-gravelord-variant)
+
 - [Beam Arcanist Gear Guide](#beam-arcanist-gear-guides)
 
 **Spammable (Non-Beam) Builds**
@@ -59,7 +61,7 @@ See also [Why Do I Use These Skills?](#why-do-i-use-these-skills) for details on
 
 See [Guiding Principles](#guiding-principles) and [Buff Calculations](#buff-calculations) for explanations of set selections.
 
-### Meta Beam Arcanist (Dawn's Wrath variant)
+### Beam Arcanist (Dawn's Wrath variant)
 
 ![Beam Dawn skill bar](./assets/images/Beam_Dawn_U49_skillbar.png)
 
@@ -102,9 +104,9 @@ See [Guiding Principles](#guiding-principles) and [Buff Calculations](#buff-calc
   </div>
 </div>
 
-### Meta Beam Arcanist (Draconic Power variant)
+### Beam Arcanist (Earthen Heart variant)
 
-![Beam Draconic skill bar](./assets/images/Beam_Draconic_U49_skillbar.png)
+![Beam Earthen skill bar](./assets/images/Beam_Earthen_U49_skillbar.png)
 
 <div class="info-grid">
   <div class="info-card">
@@ -113,16 +115,16 @@ See [Guiding Principles](#guiding-principles) and [Buff Calculations](#buff-calc
       <ul>
         <li>Herald of the Tome (Arcanist),</li>
         <li>Assassination (Nightblade),</li>
-        <li>Draconic Power (Dragonknight)</li>
+        <li>Earthen Heart (Dragonknight)</li>
       </ul>
     </div>
   </div>
   <div class="info-card">
     <h5>Skill Bars</h5>
     <div class="card-content">
-      <p><em>FB</em>: Quick Cloak, Engulfing Dragonfire, Cephaliarch's Flail, Pragmatic Fatecarver, Camo Hunter, Ult: Soul Harvest</p>
-      <p><em>BB</em>: Inspired Scholarship, Stampede, Carve, Fulminating Rune, Barbed Trap, Ult: Take Flight</p>
-      <p><a href="https://sheumais.github.io/esoskillbarbuilder/?skills=299,80,18,17,370,36,20,334,336,22,372,12">Beam skill bars</a></p>
+      <p><em>FB</em>: Quick Cloak, Camo Hunter, Cephaliarch's Flail, Pragmatic Fatecarver, Banner Bearer, Ult: Soul Harvest</p>
+      <p><em>BB</em>: Inspired Scholarship, Stampede, Shatterspike Mantle, Igneous Weapons, Banner Bearer, Ult: Languid Eye</p>
+      <p><a href="https://sheumais.github.io/esoskillbarbuilder/?skills=303,376,18,17,435,36,20,338,143,136,435,12">Beam skill bars</a></p>
     </div>
   </div>
   <div class="info-card">
@@ -139,16 +141,102 @@ See [Guiding Principles](#guiding-principles) and [Buff Calculations](#buff-calc
     <h5>Notes</h5>
     <div class="card-content">
       <ul>
-        <li>When Take Flight is up, cast it, then Engulfing Dragonfire 3 times, otherwise, normal beam rotation</li>
+        <li><strong>Banner</strong>: Shock / Cavaliar's Charge / Courage</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+### Beam Arcanist (Stormcalling variant)
+
+![Beam Storm skill bar](./assets/images/Storm_skillbar_U49.png)
+
+<div class="info-grid">
+  <div class="info-card">
+    <h5>Class Lines</h5>
+    <div class="card-content">
+      <ul>
+        <li>Herald of the Tome (Arcanist),</li>
+        <li>Assassination (Nightblade),</li>
+        <li>Storm Calling (Sorcerer)</li>
+      </ul>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Skill Bars</h5>
+    <div class="card-content">
+      <p><em>FB</em>: Quick Cloak, Lightning Flood, Cephaliarch's Flail, Pragmatic Fatecarver, Camo Hunter, Ult: Incapacitating Strike</p>
+      <p><em>BB</em>: Inspired Scholarship, Stampede, Hurricane, Fulminating Rune, Barbed Trap, Ult: Languid Eye</p>
+      <p><a href="https://sheumais.github.io/esoskillbarbuilder/?skills=299,174,18,17,370,36,20,334,173,22,372,12">Beam skill bars</a></p>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Typical Sets</h5>
+    <div class="card-content">
+      <ul>
+        <li>See <a href="#beam-arcanist-gear-guides">Beam Gear Guides</a></li>
+        <li>AOE: Ansuul's Torment/Deadly Strikes/Velothi/1 light Slimecraw/Maelstrom Inferno</li>
+        <li>Single-Target: Null Arca/Tideborn/Velothi/1 light Slimecraw/Maelstrom Greatsword</li>
+      </ul>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Notes</h5>
+    <div class="card-content">
+      <ul>
         <li>Replace Camo Hunter and Barbed Trap if running <strong>Banner</strong> (Shock/Cavaliar's Charge/Courage)</li>
       </ul>
     </div>
   </div>
 </div>
 
-**See [Parse Examples](./parses.html) for the Beam Arcanist**
+### Beam Dragonknight
 
-### Meta Beam Arcanist (Aedric Spear variant)
+**Requires Dragonknight as base class**
+
+![Beam Storm skill bar](./assets/images/DK_Beam_U49.png)
+
+<div class="info-grid">
+  <div class="info-card">
+    <h5>Class Lines</h5>
+    <div class="card-content">
+      <ul>
+        <li>Herald of the Tome (Arcanist),</li>
+        <li>Assassination (Nightblade),</li>
+        <li>Ardent Flame (Dragonknight)</li>
+      </ul>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Skill Bars</h5>
+    <div class="card-content">
+      <p><em>FB</em>: Quick Cloak, Searing Claw, Cephaliarch's Flail, Pragmatic Fatecarver, Camo Hunter, Ult: Incapacitating Strike</p>
+      <p><em>BB</em>: Inspired Scholarship, Stampede, Incinerate, Molten Whip, Barbed Trap, Ult: Languid Eye</p>
+      <p><a href="https://sheumais.github.io/esoskillbarbuilder/?skills=299,174,18,17,370,36,20,334,173,22,372,12">Beam skill bars</a></p>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Typical Sets</h5>
+    <div class="card-content">
+      <ul>
+        <li>See <a href="#beam-arcanist-gear-guides">Beam Gear Guides</a></li>
+        <li>AOE: Ansuul's Torment / Deadly Strikes / Velothi / 1 light Slimecraw / Maelstrom Inferno</li>
+        <li>Single-Target: Null Arca / Tideborn / Velothi / 1 light Slimecraw / Maelstrom Greatsword</li>
+      </ul>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Notes</h5>
+    <div class="card-content">
+      <ul>
+        <li>Replace Camo Hunter and Barbed Trap if running <strong>Banner</strong> (Shock/Cavaliar's Charge/Courage)</li>
+        <li>Molten Whip only gives extra damage done on base class Dragonknight</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+### Beam Arcanist (Aedric Spear variant)
 
 ![Beam Aedric skill bar](./assets/images/Beam_Aedric_U49_skillbar.png)
 
@@ -193,7 +281,7 @@ See [Guiding Principles](#guiding-principles) and [Buff Calculations](#buff-calc
 
 **See [Parse Examples](./parses.html) for the Beam Arcanist**
 
-### Meta Beam Arcanist (Gravelord variant)
+### Beam Arcanist (Gravelord variant)
 
 ![Beam Gravelord skill bar](./assets/images/Beam_Gravelord_U49_skillbar.png)
 
@@ -214,49 +302,6 @@ See [Guiding Principles](#guiding-principles) and [Buff Calculations](#buff-calc
       <p><em>FB</em>: Quick Cloak, Detonating Siphon, Cephaliarch's Flail, Pragmatic Fatecarver, Camo Hunter, Ult: Incapacitating Strike</p>
       <p><em>BB</em>: Inspired Scholarship, Stampede, Gravelord's Sacrifice, Fulminating Rune, Barbed Trap, Ult: Languid Eye</p>
       <p><a href="https://sheumais.github.io/esoskillbarbuilder/?skills=299,238,18,17,370,36,20,334,233,22,372,12">Beam skill bars</a></p>
-    </div>
-  </div>
-  <div class="info-card">
-    <h5>Typical Sets</h5>
-    <div class="card-content">
-      <ul>
-        <li>See <a href="#beam-arcanist-gear-guides">Beam Gear Guides</a></li>
-        <li>AOE: Ansuul's Torment/Deadly Strikes/Velothi/1 light Slimecraw/Maelstrom Inferno</li>
-        <li>Single-Target: Null Arca/Tideborn/Velothi/1 light Slimecraw/Maelstrom Greatsword</li>
-      </ul>
-    </div>
-  </div>
-  <div class="info-card">
-    <h5>Notes</h5>
-    <div class="card-content">
-      <ul>
-        <li>Replace Camo Hunter and Barbed Trap if running <strong>Banner</strong> (Shock/Cavaliar's Charge/Courage)</li>
-      </ul>
-    </div>
-  </div>
-</div>
-
-### Meta Beam Arcanist (Stormcalling variant)
-
-![Beam Storm skill bar](./assets/images/Storm_skillbar_U49.png)
-
-<div class="info-grid">
-  <div class="info-card">
-    <h5>Class Lines</h5>
-    <div class="card-content">
-      <ul>
-        <li>Herald of the Tome (Arcanist),</li>
-        <li>Assassination (Nightblade),</li>
-        <li>Storm Calling (Sorcerer)</li>
-      </ul>
-    </div>
-  </div>
-  <div class="info-card">
-    <h5>Skill Bars</h5>
-    <div class="card-content">
-      <p><em>FB</em>: Quick Cloak, Lightning Flood, Cephaliarch's Flail, Pragmatic Fatecarver, Camo Hunter, Ult: Incapacitating Strike</p>
-      <p><em>BB</em>: Inspired Scholarship, Stampede, Hurricane, Fulminating Rune, Barbed Trap, Ult: Languid Eye</p>
-      <p><a href="https://sheumais.github.io/esoskillbarbuilder/?skills=299,174,18,17,370,36,20,334,173,22,372,12">Beam skill bars</a></p>
     </div>
   </div>
   <div class="info-card">
