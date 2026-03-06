@@ -22,7 +22,7 @@ title: Paradoxdruid's ESO Guides
 {:toc}
 </div>
 
-_This is a work in progess; last updated 2026-02-21._
+_This is a work in progess; last updated 2026-03-06._
 
 These represent Paradoxdruid's best attempt at capturing the mid-tier meta for Update 49 / U49, aimed at groups who regularly do vet and vet HM content; venturing in trifecta progs.
 
@@ -50,6 +50,7 @@ These represent Paradoxdruid's best attempt at capturing the mid-tier meta for U
 
 ## Changelog
 
+- 2026-03-06: Significantly updated Beam parses and added DK-centric beam setups
 - 2026-02-21: Added additional DPS setups
 - 2026-02-01: Split guide across multiple subpages
 - 2026-01-31: Significant changes in support Ultimates
