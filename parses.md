@@ -24,6 +24,8 @@ title: Paradoxdruid's ESO Guides
 
 # Parses
 
+# Parses below are for update 48.  Update 49 parses are in-progress.  Thank you for your patience.
+
 _This is a work in progess; last updated 2025-11-14._
 
 Return to [Paradoxdruid's ESO Guides: Builds and Rosters](./)
