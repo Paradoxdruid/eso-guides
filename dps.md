@@ -24,7 +24,7 @@ title: Paradoxdruid's ESO Guides
 
 # ESO Update 49 Mid-tier Build Guides
 
-_This is a work in progess; last updated 2026-03-06._
+_This is a work in progess; last updated 2026-04-05._
 
 These capture the mid-tier meta for Update 49 (U49), aimed at groups who regularly do vet and vet HM content; venturing in trifecta progs. **Wait, you've got it all wrong!** Yeah, maybe I do, that's totally fair. And in any case, there's lots of good approaches and strategies, and not a one-size-fits-all approach that will always apply. Thanks for all the feedback I've received to date!
 
@@ -43,6 +43,7 @@ See also [Why Do I Use These Skills?](#why-do-i-use-these-skills) for details on
 - [Beam Arcanist - Dawn's Wrath variant](#beam-arcanist-dawns-wrath-variant)
 - [Beam Arcanist - Earthen Heart variant](#beam-arcanist-earthen-heart-variant)
 - [Beam Arcanist - Storm Calling variant](#beam-arcanist-stormcalling-variant)
+- [Beam Flame Lash Dragonknight](#beam-flame-lash-dragonknight)
 - [Beam Dragonknight](#beam-dragonknight)
 - [Beam Arcanist - Aedric Spear variant](#beam-arcanist-aedric-spear-variant)
 - [Beam Arcanist - Gravelord variant](#beam-arcanist-gravelord-variant)
@@ -189,6 +190,54 @@ See [Guiding Principles](#guiding-principles) and [Buff Calculations](#buff-calc
     </div>
   </div>
 </div>
+
+### Beam Flame Lash Dragonknight
+
+**Requires Dragonknight as base class**
+
+![Beam Lash skill bar](./assets/images/dk_beam_flame_lash_U49.png)
+
+<div class="info-grid">
+  <div class="info-card">
+    <h5>Class Lines</h5>
+    <div class="card-content">
+      <ul>
+        <li>Herald of the Tome (Arcanist),</li>
+        <li>Assassination (Nightblade),</li>
+        <li>Ardent Flame (Dragonknight)</li>
+      </ul>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Skill Bars</h5>
+    <div class="card-content">
+      <p><em>FB</em>: Quick Cloak, Flame Lash, Cephaliarch's Flail, Pragmatic Fatecarver, Camo Hunter, Ult: Incapacitating Strike</p>
+      <p><em>BB</em>: Inspired Scholarship, Stampede, Incinerate, Barbed Trap, Camo Hunter, Ult: Shifting Standard</p>
+      <p><a href="https://sheumais.github.io/esoskillbarbuilder/?skills=303,110,18,17,376,37,20,338,119,378,376,108">Beam skill bars</a></p>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Typical Sets</h5>
+    <div class="card-content">
+      <ul>
+        <li>See <a href="#beam-arcanist-gear-guides">Beam Gear Guides</a></li>
+        <li>AOE: Ansuul's Torment / Deadly Strikes / Velothi / 1 light Slimecraw / Maelstrom Inferno</li>
+        <li>Single-Target: Null Arca / Tideborn / Velothi / 1 light Slimecraw / Maelstrom Greatsword</li>
+      </ul>
+    </div>
+  </div>
+  <div class="info-card">
+    <h5>Notes</h5>
+    <div class="card-content">
+      <ul>
+        <li>Replace Camo Hunter on both bars if running <strong>Banner</strong> (Shock/Cavaliar's Charge/Courage)</li>
+        <li>Flame Lash only gives extra damage done on base class Dragonknight</li>
+        <li>Casting Flame Lash during Off Balance windows to empower it is the highest priority in the rotation</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
 
 ### Beam Dragonknight
 
